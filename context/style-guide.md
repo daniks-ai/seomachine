@@ -1,9 +1,6 @@
-# Castos Style Guide
+# Daniks.AI Style Guide
 
-This guide defines writing conventions, formatting standards, and editorial guidelines for all Castos content.
-
-## Instructions
-Fill in this template with Castos-specific style preferences. Update as the style guide evolves.
+This guide defines writing conventions, formatting standards, and editorial guidelines for all Daniks.AI content.
 
 ---
 
@@ -12,20 +9,22 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Capitalization
 
 **Headlines & Subheadings**:
-- [ ] Title Case (Capitalize Major Words)
-- [ ] Sentence case (Only capitalize first word)
-- **Decision**: [Choose one and document here]
+- **Decision**: Title Case (Capitalize Major Words)
 
 **Product Names**:
-- Castos: [Always capitalized]
-- Seriously Simple Podcasting: [Capitalization style]
-- [Other Castos products]: [Style]
+- Daniks.AI: Always with capital D and .AI
+- Amazon: Always capitalized
+- Seller Central: Both words capitalized
+- Sponsored Products / Sponsored Brands / Sponsored Display: Capitalize as Amazon does
 
 **Industry Terms**:
-- podcast / Podcast: [Choose one]
-- podcaster / Podcaster: [Choose one]
-- RSS / rss: [RSS (always caps)]
-- [Add other common terms]
+- ACoS: Always all caps (Advertising Cost of Sale)
+- TACoS: Always this casing (Total Advertising Cost of Sale)
+- PPC: Always all caps
+- ASIN: Always all caps
+- BSR: Always all caps (Best Sellers Rank)
+- FBA: Always all caps (Fulfillment by Amazon)
+- SKU: Always all caps
 
 ### Numbers
 
@@ -35,54 +34,55 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Exceptions:
   - Percentages: Always use numerals (5%, 50%)
   - Money: Always use numerals ($5, $500)
-  - Measurements: Always use numerals (5 GB, 50 MB)
+  - ACoS/TACoS: Always use numerals (15% ACoS)
+  - Ad spend: Always use numerals ($5K/month)
   - Lists/stats: Always use numerals for scannability
 
 **Large Numbers**:
 - 1,000+ (use comma)
-- 1 million (spell out million, billion, etc.)
-- $5,000 or $5K? [Choose convention]
+- $50M+ (use M for million, B for billion in casual contexts)
+- $50 million (spell out in formal contexts)
+- $5K or $5,000 (use $5K for casual, $5,000 for formal)
 
 ### Punctuation
 
 **Oxford Comma**:
-- [ ] Yes (A, B, and C)
-- [ ] No (A, B and C)
-- **Decision**: [Choose and document]
+- **Decision**: Yes (A, B, and C)
 
 **Em Dashes**:
-- Style: — (em dash, no spaces) or - - (hyphens with spaces)
+- Style: — (em dash, no spaces)
 - Usage: For parenthetical statements or emphasis
-- Example: "Podcast analytics—when used correctly—drive better content decisions."
+- Example: "Daniks.AI manages your campaigns — bids, keywords, and budgets — on full autopilot."
 
 **Quotation Marks**:
-- "Straight quotes" or "Curly quotes"?
-- **Decision**: [Choose one]
+- "Straight quotes" in markdown content
 
 **Ellipses**:
 - Three dots: ...
-- Spacing: no spaces before or after
-- Use sparingly: Primarily for omitted text in quotes
+- Use sparingly
 
 ### Abbreviations & Acronyms
 
 **First Use**:
 - Spell out on first use, acronym in parentheses
-- Example: "Really Simple Syndication (RSS) feeds distribute..."
-- Exceptions for universally known: SEO, URL, CTA
+- Example: "Advertising Cost of Sale (ACoS)"
+- Exceptions for universally known in Amazon space: PPC, SEO, FBA, ASIN
 
-**Common Podcasting Acronyms**:
-- RSS: Really Simple Syndication
-- DAI: Dynamic Ad Insertion
-- SEO: Search Engine Optimization
-- IAB: Interactive Advertising Bureau
-- [Add others as needed]
-
-**Latin Abbreviations**:
-- e.g. (for example): [Use or avoid?]
-- i.e. (that is): [Use or avoid?]
-- etc. (and so forth): [Use or avoid?]
-- **Decision**: [Generally avoid in favor of plain English]
+**Common Amazon Advertising Acronyms**:
+- ACoS: Advertising Cost of Sale
+- TACoS: Total Advertising Cost of Sale
+- ROAS: Return on Ad Spend
+- PPC: Pay Per Click
+- CPC: Cost Per Click
+- CTR: Click-Through Rate
+- CVR: Conversion Rate
+- SP: Sponsored Products
+- SB: Sponsored Brands
+- SD: Sponsored Display
+- ASIN: Amazon Standard Identification Number
+- BSR: Best Sellers Rank
+- FBA: Fulfillment by Amazon
+- FBM: Fulfillment by Merchant
 
 ---
 
@@ -91,28 +91,32 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Preferred Terms
 
 **Say This** → **Not That**:
-- podcast creators → podcasters
-- podcast hosting → podcast storage
-- listeners → subscribers
-- audio quality → sound quality
-- show notes → episode notes / shownotes
-- podcast episode → podcast show (episode is unit, show is series)
-- analytics → stats
-- monetize → monetise (US spelling)
-- [Add Castos-specific preferences]
+- Amazon sellers → Amazon vendors (unless specifically about Vendor Central)
+- ad spend → advertising budget (more precise in PPC context)
+- ACoS → advertising cost of sale (after first mention)
+- search terms → search queries (Amazon's own terminology)
+- autopilot → automation (stronger positioning for Daniks.AI)
+- campaigns → ads (campaigns is more precise)
+- Seller Central → seller central (always capitalize)
+- bid management → bid optimization (use interchangeably but prefer management for manual, optimization for AI)
+- Sponsored Products → sponsored products (always capitalize Amazon ad types)
+- negative keywords → negs (avoid abbreviation in content)
 
 ### Words to Avoid
-- Avoid jargon without explanation
-- Avoid "very", "really", "actually" (usually unnecessary)
-- Avoid passive constructions when active is clearer
-- Avoid "click here" or "read more" (use descriptive links)
-- [Add other words/phrases to avoid]
+- "Leverage" (use "use" instead)
+- "Utilize" (use "use" instead)
+- "Synergy" or "synergistic"
+- "Robust" (be specific about what makes it strong)
+- "Cutting-edge" or "state-of-the-art" (show, don't tell)
+- "Very", "really", "actually" (usually unnecessary)
+- "Click here" or "read more" (use descriptive links)
+- "Revolutionary" or "game-changing" (overdone)
 
 ### Inclusive Language
 - Use gender-neutral language ("they" instead of "he/she")
-- "Podcast creator" or "podcaster" instead of gendered terms
-- Avoid idioms that may not translate globally
-- Be mindful of accessibility in descriptions
+- "Amazon seller" instead of gendered terms
+- Be mindful of international sellers — avoid US-centric idioms
+- Use simple English accessible to non-native speakers
 
 ---
 
@@ -121,74 +125,34 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Text Formatting
 
 **Bold**:
-- Use for: Key concepts, important takeaways, emphasis
-- Don't overuse: If everything is bold, nothing stands out
-- Example: "**Keyword density** should be 1-2% for optimal results."
+- Use for: Key concepts, important takeaways, emphasis, key numbers
+- Example: "**ACoS dropped from 25% to 14%** within the first two weeks."
 
 **Italics**:
-- Use for: Emphasis (sparingly), titles of works, foreign phrases
-- Example: "The term *podcast* combines 'iPod' and 'broadcast'."
-
-**Underline**:
-- Generally avoid (reserve for links)
+- Use for: Emphasis (sparingly), titles of works
+- Example: "The term *TACoS* measures total ad efficiency, not just campaign-level."
 
 **ALL CAPS**:
-- Avoid except for standard acronyms (RSS, SEO, URL)
+- Only for standard acronyms (ACoS, PPC, ASIN, FBA, BSR)
 
 ### Lists
 
 **Bulleted Lists**:
-- Use for: Non-sequential items, features, benefits
-- Capitalization: [Sentence case or Title Case?]
-- Punctuation: [Period at end of each item or no punctuation?]
-- **Decision**:
-  - Capitalize first word
-  - Period if complete sentence, no period if fragment
-  - Parallel structure (all sentences or all fragments)
+- Capitalize first word
+- Period if complete sentence, no period if fragment
+- Parallel structure (all sentences or all fragments)
 
 **Numbered Lists**:
 - Use for: Sequential steps, rankings, ordered priorities
-- Format: 1. 2. 3. (with period after number)
-- Same capitalization and punctuation rules as bullets
-
-**Nested Lists**:
-- Maximum 2 levels deep for readability
-- Use different markers for sub-items
+- Format: 1. 2. 3.
 
 ### Links
 
 **Anchor Text**:
 - Descriptive (tell reader where they're going)
-- Keyword-rich when possible
 - 2-5 words typically
-- ✅ "Learn more about podcast SEO"
-- ❌ "Click here"
-
-**Link Formatting**:
-- Color: [Default blue or Castos brand color?]
-- Underline: [Yes/No]
-- Open in new tab: [Only for external links]
-
-### Code & Technical Elements
-
-**Inline Code**:
-- Use backticks for: URLs, file names, code snippets
-- Example: "Your RSS feed URL is `https://feeds.castos.com/...`"
-
-**Code Blocks**:
-- Use for: Multi-line code, configuration examples
-- Include language identifier for syntax highlighting
-
-### Callout Boxes / Asides
-
-**When to Use**:
-- Important notes or warnings
-- Pro tips or expert insights
-- Key takeaways or summaries
-
-**Format**:
-- [Define how to format: blockquote, box, highlighted section?]
-- Example style to be determined
+- "Learn more about Amazon PPC product targeting"
+- "Click here"
 
 ---
 
@@ -196,14 +160,10 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 
 ### Article Introduction
 **Standard Structure** (150-250 words):
-1. **Hook** (1-2 sentences): Grab attention with question, statistic, or bold statement
+1. **Hook** (1-2 sentences): Pain point, bold claim, or surprising statistic
 2. **Problem** (2-3 sentences): What challenge or question does this address?
 3. **Promise** (2-3 sentences): What will reader learn/achieve?
-4. **Credibility** (optional, 1-2 sentences): Why trust this source?
-
-**Keyword Placement**:
-- Must include primary keyword in first 100 words
-- Natural integration, not forced
+4. **Keyword**: Must include primary keyword in first 100 words
 
 ### Section Length
 - **Minimum**: 150 words per section
@@ -214,7 +174,7 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 **Standard Structure** (150-250 words):
 1. **Recap** (3-5 bullet points or paragraph): Key takeaways
 2. **Action** (1-2 sentences): What should reader do next?
-3. **CTA** (1-2 sentences): Call-to-action (trial, resource, related content)
+3. **CTA** (1-2 sentences): Free trial, demo, or related content
 4. **Forward-looking** (optional, 1 sentence): Encouraging final thought
 
 ---
@@ -224,7 +184,7 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Meta Titles
 - 50-60 characters including spaces
 - Include primary keyword
-- Include "| Castos" if space allows
+- Include "| Daniks.AI" if space allows
 - No ending punctuation
 
 ### Meta Descriptions
@@ -251,18 +211,10 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ## Dates & Time
 
 **Date Format**:
-- Month DD, YYYY (January 15, 2025)
-- Or: DD Month YYYY (15 January 2025)
-- **Decision**: [Choose one]
+- **Decision**: Month DD, YYYY (March 10, 2026)
 
 **Time**:
-- 12-hour format with a.m./p.m.: 3:00 p.m.
-- Or: 24-hour format: 15:00
-- **Decision**: [Choose one]
-
-**Time Zones**:
-- Specify when relevant: "3:00 p.m. EST"
-- Or use: "3:00 p.m. Eastern Time"
+- **Decision**: 12-hour format: 3:00 p.m. EST
 
 ---
 
@@ -272,64 +224,38 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Always cite statistics with sources
 - Format: "According to [Source], [statistic]."
 - Link to original source when possible
-- Include year of data: "In 2024, podcast listeners reached..."
+- Include year of data
 
 ### Presenting Numbers
-- Round large numbers for readability: "1.2 million" not "1,234,567"
+- Round large numbers for readability: "$50M+" not "$50,234,567"
 - Use % symbol: 15% (not "percent")
 - Use $ for money: $500 (not "dollars")
 - Include commas: 10,000 not 10000
-
----
-
-## Images & Media
-
-### Image Captions
-- [ ] Required for all images
-- [ ] Optional, only when needed for context
-- **Decision**: [Choose one]
-
-**Caption Style**:
-- Sentence case
-- End with period if complete sentence
-- Placement: Below image
-
-### Screenshots
-- Include relevant screenshots when helpful
-- Crop to show only relevant portion
-- Add arrows/highlights if needed to draw attention
-- Alt text should describe what's shown
-
-### Charts & Graphs
-- Include data visualization when it helps understanding
-- Keep design simple and clean
-- Always provide context in surrounding text
-- Alt text should describe the key finding, not just "chart"
+- ACoS always as percentage: "15% ACoS" not "0.15 ACoS"
 
 ---
 
 ## Brand-Specific Guidelines
 
-### Castos Product References
+### Daniks.AI Product References
 
-**Castos Platform**:
-- "Castos" (not "the Castos platform" unless needed for clarity)
-- "Castos analytics dashboard"
-- [Add other product-specific terms]
+**Platform**:
+- "Daniks.AI" (not "the Daniks.AI platform" unless needed for clarity)
+- "Daniks.AI's autopilot" or "Daniks.AI's AI"
+- Never just "Daniks" — always "Daniks.AI"
 
 **Features**:
-- [List how to refer to specific features]
-- [Capitalization conventions for features]
+- "Full Autopilot Mode" (capitalize as feature name)
+- "ACoS Target Optimization"
+- "Smart Keyword Management"
+- "Automated Bid Management"
 
 ### Competitor References
-- [ ] Name competitors directly when relevant
-- [ ] Use generic terms ("other podcast hosts")
-- **Decision**: [Choose approach]
-
-**If Naming Competitors**:
+- **Decision**: Name competitors directly when relevant and factual
 - Be fair and factual
 - No disparaging language
-- Focus on differentiation, not criticism
+- Focus on differentiation and real math, not criticism
+- Always show the data (pricing math, feature differences)
 
 ---
 
@@ -338,31 +264,30 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Screen Reader Friendly
 - Descriptive link text (not "click here")
 - Image alt text for all images
-- Proper heading hierarchy (H1→H2→H3, no skipping)
-- Descriptive link previews
+- Proper heading hierarchy (H1 > H2 > H3, no skipping)
 
 ### Plain Language
 - Write at 8th-10th grade level
-- Define technical terms on first use
+- Define technical Amazon terms on first use
 - Use short sentences and paragraphs
-- Break complex ideas into digestible chunks
+- Remember: many readers are non-native English speakers selling on international marketplaces
 
 ---
 
 ## Voice & Tone Reminders
 
 ### Core Voice Characteristics
-1. Professional yet approachable
-2. Educational and empowering
-3. Podcast creator advocate
-4. Technically accurate but accessible
-5. Results and growth-focused
+1. Direct and no-BS
+2. Seller-to-seller credibility
+3. Results-obsessed (show the math)
+4. Empowering simplicity
+5. Data-driven, not hype-driven
 
 ### Tone Variations
-- **How-to content**: Instructive, step-by-step, encouraging
-- **Strategic content**: Authoritative, experienced, actionable
-- **Industry news**: Insightful, analytical, forward-looking
-- **Product content**: Benefit-focused, clear, honest
+- **How-to content**: Practical, step-by-step, confident
+- **Strategic content**: Authoritative, data-backed, opinionated
+- **Industry news**: Analytical, implications-focused, forward-looking
+- **Product content**: Benefit-focused, honest, comparative with real numbers
 
 ---
 
@@ -373,16 +298,15 @@ Before publishing any content:
 **Grammar & Mechanics**:
 - [ ] Spelling checked
 - [ ] Grammar checked
-- [ ] Punctuation correct (Oxford comma, em dashes, etc.)
+- [ ] Amazon terms capitalized correctly (ACoS, ASIN, FBA, Seller Central)
 - [ ] Numbers formatted consistently
-- [ ] Dates formatted correctly
+- [ ] Daniks.AI spelled correctly (not Daniks, DANIKS, daniks.ai)
 
 **Style**:
-- [ ] Follows capitalization guidelines
 - [ ] Uses preferred terminology
 - [ ] Consistent formatting (bold, italics, lists)
 - [ ] Links are descriptive
-- [ ] Voice and tone appropriate
+- [ ] Voice is direct, seller-focused, data-driven
 
 **Structure**:
 - [ ] Strong introduction (hook, problem, promise)
@@ -396,24 +320,16 @@ Before publishing any content:
 - [ ] Meta elements optimized
 - [ ] Internal and external links included
 - [ ] Images have alt text
-- [ ] URL slug optimized
 
 **Quality**:
-- [ ] Factually accurate
-- [ ] Sources cited
-- [ ] No broken links
-- [ ] Provides genuine value
+- [ ] Factually accurate (especially Amazon-specific info)
+- [ ] Sources cited for statistics
+- [ ] Provides genuine value to Amazon sellers
 - [ ] Ready for publication
 
 ---
 
-## Updates & Maintenance
-
 **Style Guide Version**: 1.0
-**Last Updated**: [Date]
-**Next Review**: [Date]
+**Last Updated**: March 2026
 
-This style guide is a living document. Update as Castos brand and voice evolve.
-
-**Questions or Additions?**
-If you encounter a style question not covered here, make a decision, document it, and add it to this guide for future reference.
+This style guide is a living document. Update as the Daniks.AI brand and voice evolve.

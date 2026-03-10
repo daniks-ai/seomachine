@@ -1,6 +1,6 @@
-# CRO Best Practices for Landing Pages
+# CRO Best Practices for Daniks.AI Landing Pages
 
-Conversion Rate Optimization guidelines for landing pages.
+Conversion Rate Optimization guidelines for Daniks.AI landing pages and blog content.
 
 ---
 

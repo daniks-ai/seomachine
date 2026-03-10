@@ -1,188 +1,107 @@
 # Internal Links Map
 
-<!-- INSTRUCTIONS: This document catalogs key pages on your website that should be referenced
-     in blog content for strategic internal linking.
-
-     Fill in all sections with your actual URLs and linking guidelines.
-     This helps Claude create relevant internal links while writing content.
-
-     Delete these instruction comments when done.
-     See examples/castos/internal-links-map.md for a complete real-world example. -->
-
-This document catalogs key [YOUR COMPANY] pages that should be referenced in blog content for strategic internal linking. Use this as your go-to reference when adding internal links to articles.
-
-## Instructions
-
-Fill in URLs and descriptions for all important pages on your website. Update as new content is created or pages are updated.
-
-For each page, include:
-- **URL**: The full URL to the page
-- **When to Link**: Context or topics where this link is relevant
-- **Anchor Text Examples**: Natural phrases to use when linking
+This document catalogs key Daniks.AI pages that should be referenced in blog content for strategic internal linking.
 
 ---
 
 ## Homepage & Core Pages
 
 ### Homepage
-- **URL**: https://[yoursite.com]
-- **When to Link**: [e.g., "Rarely; only when referencing your company broadly"]
-- **Anchor Text Examples**: "[your company name]", "our platform", "[your product]"
+- **URL**: https://daniks.ai/
+- **When to Link**: Rarely; only when referencing Daniks.AI broadly or in "about us" contexts
+- **Anchor Text Examples**: "Daniks.AI", "our Amazon PPC automation platform", "AI-powered Amazon advertising tool"
 
-### About Page
-- **URL**: https://[yoursite.com/about]
-- **When to Link**: [e.g., "When discussing company mission, values, or team"]
-- **Anchor Text Examples**: "about [company]", "our mission", "our story"
+### Pricing (on homepage)
+- **URL**: https://daniks.ai/#pricing
+- **When to Link**: When discussing costs, plan comparisons, or value for money
+- **Anchor Text Examples**: "Daniks.AI pricing", "see our pricing plans", "starting at $299/month"
 
-### Contact Page
-- **URL**: https://[yoursite.com/contact]
-- **When to Link**: [e.g., "When inviting readers to reach out"]
-- **Anchor Text Examples**: "contact us", "get in touch", "reach out"
+### Features (on homepage)
+- **URL**: https://daniks.ai/#features
+- **When to Link**: When referencing specific automation capabilities
+- **Anchor Text Examples**: "Daniks.AI features", "our automation features", "see what Daniks.AI can do"
 
-### Pricing Page
-- **URL**: https://[yoursite.com/pricing]
-- **When to Link**: [e.g., "When discussing costs, plans, or pricing"]
-- **Anchor Text Examples**: "[product] pricing", "pricing plans", "see pricing"
+### How It Works (on homepage)
+- **URL**: https://daniks.ai/#how-it-works
+- **When to Link**: When explaining the setup process or onboarding
+- **Anchor Text Examples**: "how Daniks.AI works", "get started in 4 steps", "see how it works"
 
----
+### Blog
+- **URL**: https://daniks.ai/blog
+- **When to Link**: When referencing the blog as a resource hub
+- **Anchor Text Examples**: "our blog", "Daniks.AI blog", "more Amazon seller resources"
 
-## Product/Service Pages
+### Partners / Affiliate Program
+- **URL**: https://daniks.ai/partners
+- **When to Link**: When discussing partnerships, referral income, or recommending tools
+- **Anchor Text Examples**: "become a Daniks.AI partner", "our affiliate program", "earn 25% lifetime commissions"
 
-<!-- INSTRUCTIONS: Add your main product or service pages -->
+### Sign Up / Free Trial
+- **URL**: https://app.daniks.ai/signup/
+- **When to Link**: As the primary CTA in every article (1-2 times per post)
+- **Anchor Text Examples**: "start your free trial", "try Daniks.AI free for 14 days", "get started free"
 
-### [Product/Service Name 1]
-- **URL**: https://[yoursite.com/product-1]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
-
-### [Product/Service Name 2]
-- **URL**: https://[yoursite.com/product-2]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
-
-### [Product/Service Name 3]
-- **URL**: https://[yoursite.com/product-3]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
-
----
-
-## Feature Pages
-
-<!-- INSTRUCTIONS: Add pages for specific features or capabilities -->
-
-### [Feature Name 1]
-- **URL**: https://[yoursite.com/feature-1]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
-
-### [Feature Name 2]
-- **URL**: https://[yoursite.com/feature-2]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
-
-### [Feature Name 3]
-- **URL**: https://[yoursite.com/feature-3]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
+### Schedule Demo
+- **URL**: https://daniks.ai/meet/alex
+- **When to Link**: For enterprise-focused content or when readers may want personal guidance
+- **Anchor Text Examples**: "schedule a demo", "book a call with our team", "talk to our PPC specialists"
 
 ---
 
-## Use Case / Solution Pages
+## Blog Posts
 
-<!-- INSTRUCTIONS: Add pages for specific use cases, industries, or customer segments -->
+### How to Lower ACoS on Amazon: 10 Strategies
+- **URL**: https://daniks.ai/blog/how-to-lower-acos-amazon
+- **Primary Topic**: ACoS optimization, lowering advertising costs, bid management
+- **When to Link**: In articles about ACoS, PPC efficiency, ad spend optimization, profitability
+- **Anchor Text Examples**: "how to lower your ACoS", "10 strategies to reduce ACoS", "our ACoS optimization guide"
 
-### [Use Case 1]
-- **URL**: https://[yoursite.com/use-case-1]
-- **When to Link**: In articles targeting [audience segment] or discussing [problem/solution]
-- **Anchor Text Examples**: "[use case description]", "[for whom]", "[solution phrase]"
+### How to Increase Sales on Amazon With PPC: 19 Strategies
+- **URL**: https://daniks.ai/blog/amazon-ppc-increase-sales-strategies
+- **Primary Topic**: Amazon PPC sales strategies, campaign optimization
+- **When to Link**: In articles about PPC strategy, increasing Amazon sales, campaign structure
+- **Anchor Text Examples**: "19 proven PPC strategies", "our guide to increasing Amazon sales with PPC", "Amazon PPC sales strategies"
 
-### [Use Case 2]
-- **URL**: https://[yoursite.com/use-case-2]
-- **When to Link**: In articles targeting [audience segment] or discussing [problem/solution]
-- **Anchor Text Examples**: "[use case description]", "[for whom]", "[solution phrase]"
+### Daniks.AI vs Adspert Comparison
+- **URL**: https://daniks.ai/blog/daniks-vs-adspert-amazon-ppc-2026
+- **Primary Topic**: Tool comparison, Adspert alternative
+- **When to Link**: When mentioning competitors, tool comparisons, or pricing transparency
+- **Anchor Text Examples**: "Daniks.AI vs Adspert comparison", "how we compare to Adspert", "see why sellers switch from Adspert"
 
----
+### Amazon PPC Product and Category Targeting
+- **URL**: https://daniks.ai/blog/amazon-ppc-product-category-targeting
+- **Primary Topic**: Product targeting, category targeting, ASIN targeting
+- **When to Link**: In articles about campaign types, targeting strategies, or competitor targeting
+- **Anchor Text Examples**: "product and category targeting guide", "Amazon PPC targeting strategies", "how to target competitor ASINs"
 
-## Resource Pages
+### Handling Negative Amazon Reviews
+- **URL**: https://daniks.ai/blog/handling-negative-amazon-reviews-2026
+- **Primary Topic**: Review management, negative reviews, Brand Dashboard
+- **When to Link**: In articles about reviews, listing optimization, or conversion rates
+- **Anchor Text Examples**: "how to handle negative Amazon reviews", "review management guide", "dealing with bad reviews on Amazon"
 
-<!-- INSTRUCTIONS: Add links to guides, tools, templates, or other resources -->
+### 57% of Amazon.de Sellers Are from China
+- **URL**: https://daniks.ai/blog/chinese-sellers-amazon-de-2026
+- **Primary Topic**: Amazon.de competition, Chinese sellers, European marketplace
+- **When to Link**: In articles about European Amazon selling, competition, marketplace trends
+- **Anchor Text Examples**: "our research on Amazon.de seller demographics", "Chinese seller competition on Amazon.de", "Amazon Europe marketplace analysis"
 
-### [Resource Name 1]
-- **URL**: https://[yoursite.com/resources/resource-1]
-- **When to Link**: [When this resource would help the reader]
-- **Anchor Text Examples**: "[resource name]", "[what it provides]", "free [resource type]"
-
-### [Resource Name 2]
-- **URL**: https://[yoursite.com/resources/resource-2]
-- **When to Link**: [When this resource would help the reader]
-- **Anchor Text Examples**: "[resource name]", "[what it provides]", "free [resource type]"
-
----
-
-## Top-Performing Blog Posts
-
-<!-- INSTRUCTIONS: Add your 10-20 best blog posts that get good traffic and conversions.
-     These are "pillar content" you want to link to frequently. -->
-
-### [Blog Post Title 1]
-- **URL**: https://[yoursite.com/blog/post-1]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 2]
-- **URL**: https://[yoursite.com/blog/post-2]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 3]
-- **URL**: https://[yoursite.com/blog/post-3]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 4]
-- **URL**: https://[yoursite.com/blog/post-4]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 5]
-- **URL**: https://[yoursite.com/blog/post-5]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-<!-- Add 5-15 more of your top blog posts following the same format -->
+### Amazon Q1 2026 Success Tips
+- **URL**: https://daniks.ai/blog/amazon-q1-2026-success-tips
+- **Primary Topic**: Q1 strategy, seasonal planning, new year Amazon strategy
+- **When to Link**: In seasonal content or general Amazon success strategy articles
+- **Anchor Text Examples**: "Amazon Q1 strategy guide", "seasonal success tips for Amazon sellers"
 
 ---
 
-## Comparison Pages
+## Comparison Pages (Future)
 
-<!-- INSTRUCTIONS: If you have comparison or "vs" pages, add them here -->
-
-### [Your Product] vs [Competitor 1]
-- **URL**: https://[yoursite.com/vs/competitor-1]
-- **When to Link**: When mentioning [competitor] or discussing alternatives
-- **Anchor Text Examples**: "[your product] vs [competitor]", "comparison with [competitor]"
-
-### [Your Product] vs [Competitor 2]
-- **URL**: https://[yoursite.com/vs/competitor-2]
-- **When to Link**: When mentioning [competitor] or discussing alternatives
-- **Anchor Text Examples**: "[your product] vs [competitor]", "comparison with [competitor]"
-
----
-
-## Landing Pages
-
-<!-- INSTRUCTIONS: Add any campaign-specific or conversion-optimized landing pages -->
-
-### [Campaign/Offer Name]
-- **URL**: https://[yoursite.com/landing/offer-1]
-- **When to Link**: [Specific contexts for this offer]
-- **Anchor Text Examples**: "[offer description]", "[call to action]", "[benefit phrase]"
+As comparison content is created, add entries here:
+- Daniks.AI vs Perpetua
+- Daniks.AI vs Pacvue
+- Daniks.AI vs Quartile
+- Daniks.AI vs Helium 10 Adtomic
+- Daniks.AI vs Teikametrics
 
 ---
 
@@ -193,32 +112,32 @@ When adding internal links to blog content:
 1. **Link Naturally**: Only link when genuinely relevant and helpful to the reader
 2. **Vary Anchor Text**: Use different phrases for the same destination URL
 3. **3-5 Links Per Post**: Aim for 3-5 strategic internal links in each blog post
-4. **Deep Linking**: Link to specific relevant pages, not just the homepage
-5. **Early Links Matter**: Links in the first few paragraphs carry more weight
-6. **Update This Map**: Add new pages as you create them, remove outdated URLs
+4. **Deep Linking**: Link to specific relevant blog posts, not just the homepage
+5. **Always Include Trial CTA**: Every article should have at least one natural link to the free trial signup
+6. **Update This Map**: Add new blog posts as they're published
 
 ---
 
 ## Quick Reference by Topic
 
-<!-- INSTRUCTIONS: Create a quick topic-to-URL mapping for common themes you write about.
-     This helps Claude quickly find relevant links while writing. -->
+**When writing about Amazon PPC strategy**, link to:
+- https://daniks.ai/blog/amazon-ppc-increase-sales-strategies - 19 PPC sales strategies
+- https://daniks.ai/blog/amazon-ppc-product-category-targeting - Targeting guide
+- https://app.daniks.ai/signup/ - Free trial CTA
 
-**When writing about [Topic 1]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
+**When writing about tool comparisons/alternatives**, link to:
+- https://daniks.ai/blog/daniks-vs-adspert-amazon-ppc-2026 - Adspert comparison
+- https://daniks.ai/#pricing - Pricing section
+- https://app.daniks.ai/signup/ - Free trial CTA
 
-**When writing about [Topic 2]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
+**When writing about Amazon marketplace trends**, link to:
+- https://daniks.ai/blog/chinese-sellers-amazon-de-2026 - Amazon.de research
+- https://daniks.ai/blog/amazon-q1-2026-success-tips - Seasonal strategy
 
-**When writing about [Topic 3]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
+**When writing about reviews and listings**, link to:
+- https://daniks.ai/blog/handling-negative-amazon-reviews-2026 - Review management
+- https://daniks.ai/#features - Product review automation feature
 
 ---
 
-*Note: Keep this document updated as you publish new content or restructure your site. Accurate internal linking improves SEO and user experience.*
+*Note: Keep this document updated as new blog posts are published. Accurate internal linking improves SEO and user experience.*

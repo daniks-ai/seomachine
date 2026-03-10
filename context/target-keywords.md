@@ -1,375 +1,353 @@
 # Target Keywords & Topic Clusters
 
-This document organizes Castos's target keywords by topic cluster for strategic content planning and SEO optimization.
-
-## Instructions
-Fill in this template with your target keywords organized by topic cluster. Update regularly based on keyword research and content performance.
+This document organizes Daniks.AI's target keywords by topic cluster for strategic content planning and SEO optimization.
 
 ---
 
-## Topic Cluster Structure
-
-Each topic cluster should have:
-- **Pillar Keyword**: Main, high-volume keyword (typically competitive)
-- **Cluster Keywords**: 5-10 related keywords (subtopics)
-- **Long-Tail Keywords**: 10-15 specific, lower-volume phrases
-- **Search Intent**: What users want (informational, commercial, transactional)
-
----
-
-## Cluster 1: Podcast Hosting
+## Cluster 1: Amazon PPC Automation
 
 ### Pillar Keyword
-- **Keyword**: podcast hosting
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
+- **Keyword**: amazon ppc automation
 - **Intent**: Commercial
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL of main guide]
+- **Pillar Content URL**: To create
 
 ### Cluster Keywords (Subtopics)
-1. **best podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL if exists, or "Not yet created"]
-
-2. **podcast hosting platform**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-3. **podcast hosting comparison**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-4. **free podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-5. **podcast hosting pricing**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-[Add 5-10 cluster keywords total]
+1. **amazon ppc automation tool**
+2. **amazon ppc software**
+3. **amazon advertising automation**
+4. **best amazon ppc tool**
+5. **amazon ppc management software**
+6. **automated amazon advertising**
+7. **amazon ppc ai tool**
+8. **amazon sponsored products automation**
 
 ### Long-Tail Keywords
-- how to choose a podcast host
-- podcast hosting for beginners
-- podcast hosting with unlimited bandwidth
-- podcast hosting that includes a website
-- difference between podcast hosting and website hosting
-- what to look for in a podcast host
-- podcast hosting for multiple shows
-- [Add 10-15 long-tail variations]
+- best amazon ppc automation tool 2026
+- how to automate amazon ppc campaigns
+- amazon ppc automation vs manual management
+- ai-powered amazon advertising tool
+- amazon ppc tool for small sellers
+- automated bid management amazon
+- amazon ppc autopilot software
+- set and forget amazon ppc tool
+- amazon advertising automation for beginners
+- amazon ppc tool comparison
 
 ### Related Questions (People Also Ask)
-- What is podcast hosting?
-- Do I need podcast hosting?
-- How much does podcast hosting cost?
-- Can I host my podcast for free?
-- [Add questions from PAA boxes]
+- What is the best Amazon PPC automation tool?
+- Can you automate Amazon PPC?
+- How much does Amazon PPC automation cost?
+- Is Amazon PPC automation worth it?
+- How does AI help with Amazon advertising?
 
 ---
 
-## Cluster 2: Podcast Analytics
+## Cluster 2: ACoS Optimization
 
 ### Pillar Keyword
-- **Keyword**: podcast analytics
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL or "To create"]
+- **Keyword**: amazon acos
+- **Intent**: Informational / Commercial
+- **Pillar Content URL**: To create
 
 ### Cluster Keywords (Subtopics)
-1. **podcast metrics**
-2. **podcast download statistics**
-3. **podcast listener data**
-4. **podcast performance tracking**
-5. **podcast growth metrics**
-[Continue with 5-10 cluster keywords]
+1. **how to lower acos on amazon**
+2. **what is a good acos on amazon**
+3. **amazon acos calculator**
+4. **acos vs tacos amazon**
+5. **average acos by category amazon**
+6. **amazon acos optimization**
+7. **target acos amazon ppc**
+8. **reduce acos amazon advertising**
 
 ### Long-Tail Keywords
-- how to track podcast analytics
-- understanding podcast download numbers
-- most important podcast metrics
-- how to measure podcast success
-- podcast analytics tools
-[Add 10-15 long-tail variations]
+- how to reduce acos on amazon ppc
+- what is acos and tacos on amazon
+- good acos for amazon sponsored products
+- amazon acos too high how to fix
+- acos benchmarks by product category
+- amazon ppc acos optimization strategies
+- how to calculate target acos amazon
+- what acos should i aim for on amazon
+- why is my acos so high on amazon
+- acos vs roas amazon advertising
 
 ### Related Questions
-[Add PAA questions]
+- What is ACoS on Amazon?
+- What is a good ACoS for Amazon PPC?
+- How do I lower my ACoS?
+- What is the difference between ACoS and TACoS?
+- What is the average ACoS on Amazon?
 
 ---
 
-## Cluster 3: Podcast Growth
+## Cluster 3: Amazon PPC Strategy
 
 ### Pillar Keyword
-- **Keyword**: grow podcast audience
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
+- **Keyword**: amazon ppc strategy
 - **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Pillar Content URL**: https://daniks.ai/blog/amazon-ppc-increase-sales-strategies
 
-### Cluster Keywords
-1. **podcast growth strategies**
-2. **increase podcast downloads**
-3. **podcast marketing**
-4. **podcast promotion**
-5. **podcast audience development**
-[Continue with cluster keywords]
+### Cluster Keywords (Subtopics)
+1. **amazon ppc campaign structure**
+2. **amazon ppc bid strategy**
+3. **amazon ppc keyword strategy**
+4. **amazon sponsored products strategy**
+5. **amazon ppc budget strategy**
+6. **amazon advertising strategy 2026**
+7. **amazon ppc for beginners**
+8. **advanced amazon ppc strategies**
 
 ### Long-Tail Keywords
-- how to get more podcast listeners
-- promote your podcast free
-- grow podcast audience fast
-- podcast growth tips for beginners
-[Add long-tail variations]
+- how to structure amazon ppc campaigns
+- amazon ppc strategy for new products
+- amazon ppc strategy for low budget
+- best amazon ppc bid strategy 2026
+- amazon ppc keyword research strategy
+- how to increase amazon sales with ppc
+- amazon ppc campaign types explained
+- how many amazon ppc campaigns should i have
+- amazon ppc strategy for private label
+- amazon sponsored products vs sponsored brands strategy
 
 ### Related Questions
-[Add PAA questions]
+- How do I create an Amazon PPC strategy?
+- How much should I spend on Amazon PPC?
+- What is the best Amazon PPC campaign structure?
+- How do I optimize Amazon PPC campaigns?
 
 ---
 
-## Cluster 4: Podcast Monetization
+## Cluster 4: Amazon PPC Campaign Types
 
 ### Pillar Keyword
-- **Keyword**: podcast monetization
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial/Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
-
-### Cluster Keywords
-1. **how to monetize a podcast**
-2. **podcast advertising**
-3. **podcast sponsorships**
-4. **make money podcasting**
-5. **podcast revenue streams**
-[Continue]
-
-### Long-Tail Keywords
-[Add 10-15 variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 5: Starting a Podcast
-
-### Pillar Keyword
-- **Keyword**: how to start a podcast
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
+- **Keyword**: amazon ppc campaign types
 - **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Pillar Content URL**: https://daniks.ai/blog/amazon-ppc-product-category-targeting
 
-### Cluster Keywords
-1. **podcast equipment**
-2. **podcast recording software**
-3. **podcast editing**
-4. **podcast launch checklist**
-5. **podcast setup**
-[Continue]
+### Cluster Keywords (Subtopics)
+1. **amazon sponsored products**
+2. **amazon sponsored brands**
+3. **amazon sponsored display**
+4. **amazon product targeting**
+5. **amazon category targeting**
+6. **amazon auto campaigns**
+7. **amazon manual campaigns**
+8. **amazon sponsored brands video**
 
 ### Long-Tail Keywords
-[Add variations]
-
-### Related Questions
-[Add PAA questions]
+- how to set up amazon sponsored products campaign
+- amazon product targeting vs keyword targeting
+- amazon category targeting strategy
+- sponsored brands video ads amazon
+- amazon auto campaign vs manual campaign
+- how to use amazon sponsored display
+- amazon asin targeting campaigns
+- amazon competitor targeting ppc
+- sponsored products exact match vs broad match
+- how to set up amazon retargeting ads
 
 ---
 
-## Cluster 6: [Additional Cluster]
+## Cluster 5: Amazon Seller Growth
 
-[Follow same format for:]
-- Podcast SEO
-- Podcast Distribution
-- Podcast Equipment
-- Podcast Editing
-- Podcast Formats
-- Private Podcasting
-- Podcast for Business
-- etc.
+### Pillar Keyword
+- **Keyword**: how to increase amazon sales
+- **Intent**: Informational
+- **Pillar Content URL**: https://daniks.ai/blog/amazon-ppc-increase-sales-strategies
+
+### Cluster Keywords (Subtopics)
+1. **increase amazon sales with ppc**
+2. **amazon sales strategies**
+3. **grow amazon business**
+4. **amazon conversion rate optimization**
+5. **amazon listing optimization**
+6. **amazon product launch strategy**
+7. **amazon sales rank improvement**
+
+### Long-Tail Keywords
+- how to increase amazon sales in 2026
+- amazon sales boost strategies
+- how to get more sales on amazon fba
+- amazon conversion rate tips
+- how to rank higher on amazon
+- amazon product launch ppc strategy
+- increase amazon organic sales
+- amazon sales velocity strategies
+- how to scale amazon fba business
+
+---
+
+## Cluster 6: Amazon PPC Tool Comparisons
+
+### Pillar Keyword
+- **Keyword**: best amazon ppc tools
+- **Intent**: Commercial
+- **Pillar Content URL**: To create
+
+### Cluster Keywords (Subtopics)
+1. **daniks.ai vs adspert** - Content: https://daniks.ai/blog/daniks-vs-adspert-amazon-ppc-2026
+2. **daniks.ai vs perpetua** - Content: To create
+3. **daniks.ai vs pacvue** - Content: To create
+4. **daniks.ai vs quartile** - Content: To create
+5. **daniks.ai vs helium 10 adtomic** - Content: To create
+6. **amazon ppc tool comparison 2026** - Content: To create
+7. **adspert alternatives** - Content: To create
+8. **perpetua alternatives** - Content: To create
+
+### Long-Tail Keywords
+- best amazon ppc automation tool 2026
+- cheapest amazon ppc tool
+- amazon ppc tool for small sellers
+- amazon ppc software comparison
+- adspert vs perpetua vs daniks
+- best amazon advertising tool for beginners
+- amazon ppc tool reviews
+- which amazon ppc tool is best for fba sellers
+
+---
+
+## Cluster 7: Amazon Marketplace Insights
+
+### Pillar Keyword
+- **Keyword**: amazon marketplace trends
+- **Intent**: Informational
+- **Pillar Content URL**: https://daniks.ai/blog/chinese-sellers-amazon-de-2026
+
+### Cluster Keywords (Subtopics)
+1. **amazon europe selling**
+2. **amazon germany marketplace**
+3. **amazon competition analysis**
+4. **chinese sellers on amazon**
+5. **amazon marketplace data**
+6. **selling on amazon europe**
+
+### Long-Tail Keywords
+- how competitive is amazon in 2026
+- amazon.de seller demographics
+- selling on amazon europe vs us
+- amazon competition by category
+- amazon marketplace trends 2026
+- how many sellers are on amazon
+- amazon europe ppc strategy
+
+---
+
+## Cluster 8: Amazon Reviews & Listings
+
+### Pillar Keyword
+- **Keyword**: amazon product reviews
+- **Intent**: Informational
+- **Pillar Content URL**: https://daniks.ai/blog/handling-negative-amazon-reviews-2026
+
+### Cluster Keywords (Subtopics)
+1. **how to get more amazon reviews**
+2. **handling negative amazon reviews**
+3. **amazon review automation**
+4. **amazon listing optimization**
+5. **amazon a+ content**
+
+### Long-Tail Keywords
+- how to get amazon reviews legally
+- amazon review request automation
+- how to respond to negative amazon reviews
+- amazon review tools 2026
+- increase amazon conversion rate with reviews
+- amazon listing optimization checklist
 
 ---
 
 ## Seasonal/Trending Keywords
 
 ### Q1 Keywords (Jan-Mar)
-- New year podcast goals
-- Podcast trends 2025
-- [Add seasonal opportunities]
+- Amazon Q1 PPC strategy
+- Amazon advertising trends 2026
+- New year Amazon selling tips
+- Post-holiday Amazon inventory strategy
 
 ### Q2 Keywords (Apr-Jun)
-[Add seasonal keywords]
+- Amazon Prime Day PPC preparation
+- Summer Amazon advertising strategy
+- Amazon advertising budget planning Q3
 
 ### Q3 Keywords (Jul-Sep)
-[Add seasonal keywords]
+- Amazon Prime Day PPC strategy
+- Amazon back to school advertising
+- Q4 Amazon PPC preparation
 
 ### Q4 Keywords (Oct-Dec)
-[Add seasonal keywords]
-
----
-
-## Competitor Keyword Gaps
-
-Track keywords where competitors rank but Castos doesn't:
-
-### Competitor: [Name]
-- **Keyword**: [keyword they rank for]
-  - Their Position: [rank]
-  - Castos Position: [rank or "Not ranking"]
-  - Opportunity: [High/Medium/Low]
-  - Action: [Create content, optimize existing, etc.]
-
-[Add more competitors and gaps]
+- Amazon Black Friday PPC strategy
+- Amazon holiday advertising guide
+- Amazon Q4 PPC budget optimization
+- Amazon Christmas selling tips
+- Amazon Q1 success planning
 
 ---
 
 ## Keyword Opportunity Pipeline
 
 ### High Priority (Create Soon)
-Keywords with high volume, achievable difficulty, strong business value:
-
-1. **Keyword**: [keyword]
-   - Volume: [searches]
-   - Difficulty: [score]
-   - Intent: [type]
-   - Why Priority: [strategic reason]
-   - Action: [Create pillar content / cluster article / etc.]
-
-[List 5-10 high-priority keywords]
+1. **amazon ppc automation** — Core product keyword, definitive guide needed
+2. **how to lower acos on amazon** — High volume, direct product tie-in
+3. **best amazon ppc tools 2026** — Comparison content, high commercial intent
+4. **daniks.ai vs perpetua** — Competition comparison, missing content
+5. **amazon ppc for beginners** — Top of funnel, large audience
+6. **amazon ppc campaign structure** — Practical guide, strong search intent
 
 ### Medium Priority (Next Quarter)
-[List keywords to target in next 3 months]
+- amazon advertising cost benchmarks
+- amazon ppc budget calculator
+- amazon sponsored products optimization guide
+- daniks.ai vs pacvue
+- daniks.ai vs quartile
+- amazon ppc for european sellers
 
 ### Low Priority (Future Consideration)
-[List keywords for future content planning]
-
----
-
-## Keyword Tracking & Performance
-
-### Top Performing Keywords
-Keywords where Castos ranks in positions 1-10:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Trend: [↑ Rising / → Stable / ↓ Declining]
-
-[List current winners]
-
-### Keywords to Improve
-Keywords ranking 11-20 (page 2) with opportunity:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Action Needed: [Update content, build links, etc.]
-
-[List improvement opportunities]
-
----
-
-## Keyword Cannibalization Check
-
-Track multiple pages targeting same/similar keywords:
-
-### Potential Cannibalization Issues
-
-**Keyword**: [keyword]
-- Page 1: [URL] - Position [rank]
-- Page 2: [URL] - Position [rank]
-- **Issue**: Both pages competing for same keyword
-- **Solution**: [Consolidate, differentiate, redirect, etc.]
-
-[Monitor and document conflicts]
+- how to sell on amazon (broad, high competition)
+- amazon fba guide (broad, content-heavy)
+- amazon seller tools comparison
+- amazon brand analytics guide
 
 ---
 
 ## LSI & Semantic Keywords
 
-Common related terms to include across podcasting content:
+### Amazon Advertising Terms
+- sponsored products
+- sponsored brands
+- sponsored display
+- advertising console
+- campaign manager
+- ad groups
+- targeting
+- placements
+- search terms
+- negative keywords
 
-### Podcast Industry Terms
-- RSS feed
-- podcast directory
-- podcast app
-- podcast player
-- episode
-- show notes
-- audio content
-- podcast network
-[Add more]
+### Amazon Seller Terms
+- Seller Central
+- FBA
+- FBM
+- ASIN
+- BSR
+- Buy Box
+- listing optimization
+- A+ Content
+- Brand Registry
 
-### Podcast Creation Terms
-- recording
-- editing
-- post-production
-- audio quality
-- microphone
-- podcast equipment
-[Add more]
-
-### Podcast Growth Terms
-- downloads
-- listeners
-- audience
-- subscribers
-- engagement
-- retention
-[Add more]
-
----
-
-## Usage Guidelines
-
-### When Writing New Content
-1. Check which cluster the topic belongs to
-2. Target the appropriate cluster or long-tail keyword
-3. Reference pillar content in that cluster
-4. Include LSI keywords naturally
-5. Link to related cluster articles
-
-### When Optimizing Existing Content
-1. Verify content targets the right keyword
-2. Check for cannibalization with other pages
-3. Ensure keyword appears in critical locations
-4. Update if search intent has shifted
-5. Add internal links to/from related cluster content
-
-### When Planning Content Calendar
-1. Review keyword opportunity pipeline
-2. Prioritize high-value, achievable keywords
-3. Build out topic clusters systematically
-4. Balance pillar content with cluster articles
-5. Track keyword performance over time
+### PPC Metrics Terms
+- ACoS
+- TACoS
+- ROAS
+- CPC
+- CTR
+- conversion rate
+- impressions
+- clicks
+- ad spend
+- bid
+- budget
 
 ---
 
-## Maintenance
-
-**Last Updated**: [Date]
-**Next Review**: [Date - quarterly recommended]
-
-**Regular Updates**:
-- Add new keyword opportunities monthly
-- Track ranking changes monthly
-- Update volumes/difficulty quarterly
-- Review competitor gaps quarterly
-- Refine clusters based on performance
-
----
-
-**Note**: This is a living document. As you conduct keyword research, track performance, and identify new opportunities, update this file to keep your SEO strategy aligned with your content creation.
+**Last Updated**: March 2026
+**Next Review**: June 2026
