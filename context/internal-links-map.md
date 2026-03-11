@@ -86,6 +86,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about European Amazon selling, competition, marketplace trends
 - **Anchor Text Examples**: "our research on Amazon.de seller demographics", "Chinese seller competition on Amazon.de", "Amazon Europe marketplace analysis"
 
+### Amazon PPC Automation: The Complete Guide
+- **URL**: https://daniks.ai/blog/amazon-ppc-automation-guide
+- **Primary Topic**: Amazon PPC automation, automated campaign management, AI bid optimization, autopilot PPC
+- **When to Link**: In articles about PPC tools, automation, campaign management, bid optimization, time-saving
+- **Anchor Text Examples**: "our complete guide to Amazon PPC automation", "Amazon PPC automation guide", "how to automate Amazon PPC"
+
 ### Amazon Q1 2026 Success Tips
 - **URL**: https://daniks.ai/blog/amazon-q1-2026-success-tips
 - **Primary Topic**: Q1 strategy, seasonal planning, new year Amazon strategy
@@ -121,6 +127,7 @@ When adding internal links to blog content:
 ## Quick Reference by Topic
 
 **When writing about Amazon PPC strategy**, link to:
+- https://daniks.ai/blog/amazon-ppc-automation-guide - Complete PPC automation guide
 - https://daniks.ai/blog/amazon-ppc-increase-sales-strategies - 19 PPC sales strategies
 - https://daniks.ai/blog/amazon-ppc-product-category-targeting - Targeting guide
 - https://app.daniks.ai/signup/ - Free trial CTA

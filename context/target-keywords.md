@@ -9,7 +9,7 @@ This document organizes Daniks.AI's target keywords by topic cluster for strateg
 ### Pillar Keyword
 - **Keyword**: amazon ppc automation
 - **Intent**: Commercial
-- **Pillar Content URL**: To create
+- **Pillar Content URL**: https://daniks.ai/blog/amazon-ppc-automation-guide
 
 ### Cluster Keywords (Subtopics)
 1. **amazon ppc automation tool**
