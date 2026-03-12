@@ -92,6 +92,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about PPC tools, automation, campaign management, bid optimization, time-saving
 - **Anchor Text Examples**: "our complete guide to Amazon PPC automation", "Amazon PPC automation guide", "how to automate Amazon PPC"
 
+### Amazon PPC for Beginners: How to Launch Profitable Campaigns
+- **URL**: https://daniks.ai/blog/amazon-ppc-beginners-guide
+- **Primary Topic**: Amazon PPC for beginners, campaign setup, bidding strategies, keyword match types, search term reports
+- **When to Link**: In articles about PPC basics, getting started with Amazon ads, campaign structure, or beginner seller guides
+- **Anchor Text Examples**: "our beginner's guide to Amazon PPC", "Amazon PPC for beginners guide", "how to launch your first Amazon PPC campaigns"
+
 ### Amazon Q1 2026 Success Tips
 - **URL**: https://daniks.ai/blog/amazon-q1-2026-success-tips
 - **Primary Topic**: Q1 strategy, seasonal planning, new year Amazon strategy

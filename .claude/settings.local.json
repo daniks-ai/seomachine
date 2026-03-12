@@ -1,10 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python3 data_sources/modules/content_scrubber.py drafts/amazon-ppc-automation-guide-2026-03-11.md)",
-      "Bash(python3 -c \":*)",
-      "Bash(python3 data_sources/modules/image_generator.py \"Amazon PPC Automation: The Complete Guide for Sellers in 2026\" --slug \"amazon-ppc-automation-guide\" --output \"/Users/ync/poryadok/sources/daniks-ai-ads/src/assets/blog/\" --topic \"Amazon PPC automation dashboard with AI managing campaigns, bids and keywords automatically\")",
-      "Bash(pip install requests)"
+      "Bash(*)",
+      "Edit(/Users/ync/poryadok/sources/daniks-ai-ads/**)",
+      "Write(/Users/ync/poryadok/sources/daniks-ai-ads/**)",
+      "Edit(/Users/ync/poryadok/sources/seomachine/**)",
+      "Write(/Users/ync/poryadok/sources/seomachine/**)"
     ]
   }
 }
