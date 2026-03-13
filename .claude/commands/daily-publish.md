@@ -26,7 +26,7 @@ Select a topic that:
 
 Save the chosen topic and reasoning to `topics/auto-selected-[YYYY-MM-DD].md`.
 
-### Step 2: Research
+### Step 2: Research Context
 
 Read these context files to inform the article:
 - `context/brand-voice.md` - Voice and tone
@@ -37,6 +37,31 @@ Read these context files to inform the article:
 - `context/target-keywords.md` - Keywords to target
 - `context/internal-links-map.md` - Internal links to include
 - `context/competitor-analysis.md` - Competitive context
+
+### Step 2b: SERP Research with DataForSEO
+
+Run SERP analysis for the chosen primary keyword to get real search data:
+
+```bash
+python3 research_serp_analysis.py "primary keyword phrase"
+```
+
+This will:
+1. Fetch top 10 organic results from DataForSEO (search volume, competition, CPC)
+2. Analyze content patterns (dominant content type, word counts, freshness signals)
+3. Detect SERP features (featured snippets, People Also Ask, etc.)
+4. Assess competitive difficulty
+5. Generate a content brief saved to `research/serp-analysis-[keyword].md`
+
+**Use the SERP analysis results to inform your article:**
+- Match or exceed the recommended word count
+- Follow the dominant content type (listicle, how-to, guide, etc.)
+- Target identified SERP features (add FAQ section if PAA is present, etc.)
+- Include the year in title if freshness is important
+- Cover topics that top-ranking competitors all cover
+- Address content gaps the analysis identifies
+
+If DataForSEO fails (credentials missing, API error), continue with the pipeline using context files only — do NOT stop.
 
 ### Step 3: Write the Article
 

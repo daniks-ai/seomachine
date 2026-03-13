@@ -2,10 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(*)",
-      "Edit(/Users/ync/poryadok/sources/daniks-ai-ads/**)",
-      "Write(/Users/ync/poryadok/sources/daniks-ai-ads/**)",
-      "Edit(/Users/ync/poryadok/sources/seomachine/**)",
-      "Write(/Users/ync/poryadok/sources/seomachine/**)"
+      "Edit(/Users/ync/poryadok/sources/daniks-ai-ads:*)",
+      "Write(/Users/ync/poryadok/sources/daniks-ai-ads:*)",
+      "Edit(/Users/ync/poryadok/sources/seomachine:*)",
+      "Write(/Users/ync/poryadok/sources/seomachine:*)"
     ]
   }
 }

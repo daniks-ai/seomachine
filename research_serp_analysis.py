@@ -18,6 +18,7 @@ from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
+load_dotenv('data_sources/config/.env')
 
 # Add data_sources to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'data_sources'))
