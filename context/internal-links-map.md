@@ -98,6 +98,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about PPC basics, getting started with Amazon ads, campaign structure, or beginner seller guides
 - **Anchor Text Examples**: "our beginner's guide to Amazon PPC", "Amazon PPC for beginners guide", "how to launch your first Amazon PPC campaigns"
 
+### Amazon PPC Campaign Structure: The Framework That Stops Wasted Ad Spend
+- **URL**: https://daniks.ai/blog/amazon-ppc-campaign-structure
+- **Primary Topic**: Amazon PPC campaign structure, campaign organization, match type separation, keyword waterfall, campaign naming
+- **When to Link**: In articles about PPC strategy, campaign setup, campaign management, bid optimization, or scaling ad spend
+- **Anchor Text Examples**: "our campaign structure framework", "how to structure Amazon PPC campaigns", "the 6-campaign framework for Amazon PPC"
+
 ### Amazon Q1 2026 Success Tips
 - **URL**: https://daniks.ai/blog/amazon-q1-2026-success-tips
 - **Primary Topic**: Q1 strategy, seasonal planning, new year Amazon strategy

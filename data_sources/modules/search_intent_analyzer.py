@@ -202,9 +202,9 @@ class SearchIntentAnalyzer:
         scores = {intent: 0 for intent in SearchIntent}
 
         for result in results[:10]:  # Analyze top 10
-            title = result.get('title', '').lower()
-            description = result.get('description', '').lower()
-            url = result.get('url', '').lower()
+            title = (result.get('title') or '').lower()
+            description = (result.get('description') or '').lower()
+            url = (result.get('url') or '').lower()
 
             combined = f"{title} {description}"
 
