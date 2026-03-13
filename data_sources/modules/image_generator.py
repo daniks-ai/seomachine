@@ -59,74 +59,91 @@ def _detect_visual_theme(title: str, topic: str) -> dict:
     themes = [
         {
             "keywords": ["vs ", "versus", "comparison", "alternative", "compared"],
-            "scene": "split-screen composition, two distinct glowing objects facing each other across a divide, "
-                     "one side cool blue, the other warm orange, dramatic lighting from the center gap",
+            "scene": "a clean split-screen composition — left side shows a polished red chess piece, right side a white chess piece, "
+                     "separated by a thin vertical light beam, soft gradient background fading from warm to cool",
             "mood": "tension, choice, contrast",
+            "style": "minimal product photography, soft studio lighting, matte surfaces",
+            "palette": "warm coral (#e07a5f) against cool slate (#3d405b) with cream (#f4f1de) divider",
         },
         {
             "keywords": ["automation", "automate", "autopilot", "ai manage", "machine learning"],
-            "scene": "a sleek robotic arm or mechanical hand delicately adjusting floating holographic dials and sliders, "
-                     "streams of glowing data particles flowing through the scene, dark environment with teal and amber accents",
-            "mood": "precision, intelligence, futuristic control",
+            "scene": "a close-up of a perfectly balanced mechanical clockwork mechanism with brass gears interlocking, "
+                     "one gear replaced by a translucent crystal gear suggesting AI, soft natural light from the side",
+            "mood": "precision, intelligence, effortless control",
+            "style": "macro photography, natural light, shallow depth of field, warm tones",
+            "palette": "warm brass (#c9a227) with cream (#fefae0) and deep brown (#3a2d1e) accents",
         },
         {
             "keywords": ["acos", "roas", "cost", "budget", "spend", "profit", "margin", "roi"],
-            "scene": "an abstract 3D landscape where geometric mountains and valleys represent rising and falling metrics, "
-                     "a glowing golden path winding through to a bright peak, dark navy environment",
-            "mood": "financial clarity, optimization, progress",
+            "scene": "a top-down flat-lay of neatly arranged coins and bills forming an upward arrow pattern on a marble surface, "
+                     "with a small green plant growing at the arrow tip, bright airy lighting",
+            "mood": "financial growth, clarity, smart money",
+            "style": "flat-lay photography, bright and airy, overhead shot, clean styling",
+            "palette": "forest green (#2d6a4f) with white marble (#f8f9fa) and gold (#d4a853)",
         },
         {
             "keywords": ["keyword", "targeting", "search term", "match type", "negative keyword"],
-            "scene": "a vast dark space filled with hundreds of softly glowing orbs of different sizes, "
-                     "a few orbs highlighted with bright rings and connected by luminous threads forming a constellation, "
-                     "shallow depth of field",
-            "mood": "discovery, precision, focus among noise",
+            "scene": "a dartboard photographed from a slight angle with one dart hitting the exact center bullseye, "
+                     "the background softly blurred showing a warm wooden wall, natural warm light",
+            "mood": "precision, focus, hitting the mark",
+            "style": "sports photography, shallow depth of field, warm ambient light",
+            "palette": "deep red (#c1121f) with cream (#ffe8d6) and dark walnut (#5c4033)",
         },
         {
             "keywords": ["strategy", "plan", "framework", "playbook", "roadmap", "guide"],
-            "scene": "an intricate glowing blueprint or architectural wireframe floating in dark space, "
-                     "with layers peeling apart to show depth, teal and white light tracing the edges, "
-                     "isometric perspective",
-            "mood": "structure, expertise, master plan",
+            "scene": "an overhead view of an architect's desk with a clean blueprint, a compass, a ruler, and a cup of coffee, "
+                     "morning sunlight streaming in from the left casting soft shadows",
+            "mood": "expertise, planning, craftsmanship",
+            "style": "lifestyle flat-lay, morning light, warm editorial, overhead angle",
+            "palette": "blueprint blue (#1d3557) with warm white (#f1faee) and copper (#b08968)",
         },
         {
             "keywords": ["bid", "bidding", "auction"],
-            "scene": "an abstract auction scene with floating price tags and bid paddles rendered as sleek 3D objects, "
-                     "ascending staircase of light representing bid increments, dramatic spotlight from above",
-            "mood": "competition, timing, strategic action",
+            "scene": "a stylized wooden gavel mid-strike with motion blur at the tip, sitting on a polished dark wood surface, "
+                     "a single spotlight creating dramatic shadows, minimalist composition",
+            "mood": "action, decisiveness, competition",
+            "style": "dramatic product photography, single spotlight, deep shadows, cinematic",
+            "palette": "rich mahogany (#6b0f1a) with warm gold (#edb230) and charcoal (#2b2d42)",
         },
         {
             "keywords": ["review", "rating", "feedback", "reputation"],
-            "scene": "luminous star shapes at various sizes scattered across a dark gradient, "
-                     "some stars fully bright, others partially lit, creating a constellation pattern, "
-                     "warm gold and cool navy palette",
-            "mood": "trust, social proof, quality",
+            "scene": "five elegant origami stars arranged in a row on a clean white surface, the first four in gold paper "
+                     "and the fifth partially folded, soft diffused window light, minimal composition",
+            "mood": "trust, quality, social proof",
+            "style": "still life photography, soft diffused light, minimal, clean background",
+            "palette": "warm gold (#dda15e) with soft white (#fafafa) and light gray (#e9ecef)",
         },
         {
             "keywords": ["data", "analytics", "report", "metric", "performance", "analysis"],
-            "scene": "a beautiful 3D data visualization floating in dark space — glowing bar charts morphing into "
-                     "flowing wave forms, particle streams connecting data points, "
-                     "holographic dashboard aesthetic with teal, purple, and white accents",
-            "mood": "insight, clarity, intelligence",
+            "scene": "a close-up of a crystal prism refracting a beam of white light into a vivid rainbow spectrum, "
+                     "set against a clean gradient background, the light beams sharply defined",
+            "mood": "insight, breaking down complexity, clarity",
+            "style": "scientific photography, clean composition, precise lighting, modern",
+            "palette": "prismatic spectrum on clean white (#ffffff) fading to soft lavender (#e2d1f9)",
         },
         {
             "keywords": ["launch", "new", "start", "beginner", "getting started", "first"],
-            "scene": "a single bright rocket or arrow made of light, trailing luminous particles as it ascends "
-                     "through layers of cloud-like gradients, transitioning from dark base to bright peak",
-            "mood": "momentum, beginning, energy",
+            "scene": "a single paper airplane in mid-flight against a clear bright sky with a few soft clouds, "
+                     "shot from below looking up, the airplane casting a small shadow, bright and optimistic",
+            "mood": "momentum, fresh start, energy",
+            "style": "outdoor photography, bright daylight, upward angle, optimistic composition",
+            "palette": "sky blue (#a2d2ff) with white (#ffffff) and sunshine yellow (#ffdd00)",
         },
         {
             "keywords": ["china", "chinese", "seller", "marketplace", "europe", "global"],
-            "scene": "an abstract globe or world map rendered as a network of glowing nodes and connections, "
-                     "certain regions pulsing brighter, trade route lines arcing between continents, "
-                     "dark background with warm and cool accent colors",
-            "mood": "global scale, interconnection, market dynamics",
+            "scene": "a beautifully styled world map printed on aged parchment paper, with small colored pins marking key locations, "
+                     "warm desk lamp lighting, a compass sitting at the corner, slightly overhead angle",
+            "mood": "global reach, exploration, opportunity",
+            "style": "vintage travel photography, warm tungsten light, textured surfaces",
+            "palette": "parchment tan (#d4a373) with ocean teal (#457b9d) and burgundy (#780000)",
         },
         {
             "keywords": ["campaign", "structure", "organize", "account"],
-            "scene": "an elegant tree diagram or organizational chart made of glowing nodes and branches, "
-                     "each level a different color intensity, floating in dark space with subtle grid lines behind",
-            "mood": "order, hierarchy, clean architecture",
+            "scene": "a neatly organized set of wooden building blocks forming a tiered pyramid structure on a clean desk, "
+                     "each tier a different natural wood shade, soft directional light from the right",
+            "mood": "order, hierarchy, solid foundation",
+            "style": "product photography, clean background, directional light, tactile materials",
+            "palette": "natural wood (#c4a77d) with soft sage (#a7c4a0) and warm gray (#8d99ae)",
         },
     ]
 
@@ -137,9 +154,11 @@ def _detect_visual_theme(title: str, topic: str) -> dict:
     # Default theme
     return {
         "keywords": [],
-        "scene": "an abstract composition of flowing light ribbons and geometric shapes in a dark environment, "
-                 "with depth layers creating a sense of dimension, teal and amber accent lighting",
-        "mood": "professional, modern, authoritative",
+        "scene": "a single lit candle flame reflected in a perfectly still pool of water on a polished concrete surface, "
+                 "creating a mirror image, soft ambient light, meditative and focused composition",
+        "mood": "professional, focused, authoritative",
+        "style": "fine art photography, minimal, reflective surfaces, natural light",
+        "palette": "warm amber (#e09f3e) with cool charcoal (#335c67) and soft cream (#fff3b0)",
     }
 
 
@@ -149,13 +168,11 @@ def build_prompt(article_title: str, article_topic: str = "") -> str:
     topic_hint = article_topic if article_topic else article_title
 
     return (
-        f"Cinematic wide-angle photograph, {theme['scene']}. "
+        f"{theme['scene']}. "
         f"The overall mood is {theme['mood']}. "
-        f"Inspired by the concept: {topic_hint}. "
-        "Style: editorial photography meets digital art, shallow depth of field, "
-        "volumetric lighting, rich shadows, subtle lens flare. "
-        "Color palette: deep navy (#0f172a) base with teal (#0d9488) and warm amber (#f59e0b) accents. "
-        "Ultra high quality, 8K render, photorealistic materials with abstract subject matter. "
+        f"Style: {theme['style']}. "
+        f"Color palette: {theme['palette']}. "
+        "Ultra high quality, 8K render, photorealistic. "
         "Absolutely no text, no words, no letters, no numbers, no UI elements, no watermarks. "
         "Horizontal 1200x630 composition with strong visual center and breathing room on sides."
     )
