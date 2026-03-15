@@ -78,8 +78,8 @@ Imagine you're a successful Amazon seller with 5+ years of experience, sitting a
 #### Message 3: Transparent, Predictable Pricing
 - **Concept**: You always know what you'll pay, and it stays reasonable as you scale.
 - **Key Points**:
-  - Straightforward percentage of ad spend (max 3% on Pro plan)
-  - No hidden commissions tied to ad sales that inflate costs
+  - Simple tiers: $49/month (Lite), $299/month (Growth), or 0.9% of ad sales (Pro)
+  - No hidden commissions or surprise fees
   - 14-day free trial with no credit card required
 - **Usage**: When discussing pricing, comparing to competitors, addressing cost objections.
 
@@ -93,13 +93,16 @@ Imagine you're a successful Amazon seller with 5+ years of experience, sitting a
 
 ### Value Propositions
 
-**For Small Sellers (under $5K/month ad spend)**:
-"Get enterprise-level PPC automation at a fixed $299/month. No percentage fees eating into your margins as you grow."
+**For Small Sellers (under $3K/month ad sales)**:
+"Get enterprise-level PPC automation at just $49/month. No percentage fees eating into your margins as you grow."
 
-**For Mid-Size Sellers ($5K-$100K/month ad spend)**:
-"Stop paying for a PPC agency or dedicating internal hours to bid management. Daniks.AI runs your campaigns on full autopilot for a fraction of the cost."
+**For Mid-Size Sellers ($3K-$30K/month ad sales)**:
+"Stop paying for a PPC agency or dedicating internal hours to bid management. Daniks.AI runs your campaigns on full autopilot at $299/month."
 
-**For Enterprise Sellers ($100K+/month ad spend)**:
+**For Large Sellers ($30K+/month ad sales)**:
+"Pay just 0.9% of ad sales — a fraction of agency costs. Monthly strategy calls and priority support included."
+
+**For Enterprise Sellers ($500K+/month ad sales)**:
 "Manage multiple accounts from a single dashboard with a dedicated account manager. Custom pricing that scales with your business."
 
 **For Agencies & Multi-Account Managers**:

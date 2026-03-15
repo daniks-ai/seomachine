@@ -96,7 +96,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - **No PPC team needed**: Designed to replace daily PPC work, not assist it
 
 ### vs. PPC Agencies
-- **Cost**: $299-$149+3% vs. typical 10-15% of ad spend or $2K-$10K/month retainers
+- **Cost**: From $49/month vs. typical 10-15% of ad spend or $2K-$10K/month retainers
 - **Speed**: AI adjusts bids in real-time vs. agencies reviewing weekly/monthly
 - **Consistency**: 24/7 optimization vs. business-hours-only management
 - **Transparency**: Full visibility into every change vs. black-box agency management
@@ -115,19 +115,25 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 
 ## Use Cases by Customer Segment
 
-### Small Sellers (under $5K/month ad spend)
+### Small Sellers (under $3K/month ad sales)
 - Need affordable PPC automation that doesn't eat into thin margins
 - Want set-and-forget simplicity — no time to learn complex tools
-- Starter plan at flat $299/month with no percentage fees
+- Lite plan at flat $49/month with no percentage fees
 - Looking to compete with bigger sellers who have dedicated PPC teams
 
-### Mid-Size Sellers ($5K-$100K/month ad spend)
+### Mid-Size Sellers ($3K-$30K/month ad sales)
 - Outgrown manual management but don't want agency costs
 - Need to scale ad spend profitably without proportional time investment
-- Pro plan at $149 + 3% of ad spend replaces $2K-$10K/month agency
+- Growth plan at $299/month replaces $2K-$10K/month agency
 - Want data-driven optimization across expanding campaign structures
 
-### Enterprise Sellers ($100K+/month ad spend)
+### Large Sellers ($30K+/month ad sales)
+- Need advanced optimization at scale with predictable costs
+- Pro plan at 0.9% of ad sales — cost decreases proportionally as you grow
+- Monthly strategy calls included
+- Priority support
+
+### Enterprise Sellers ($500K+/month ad sales)
 - Require multi-account management and dedicated support
 - Need custom solutions for complex catalog and marketplace strategies
 - Dedicated account manager and custom pricing
@@ -148,28 +154,31 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - No credit card required
 - Full autopilot mode
 
-### Starter Plan ($299/month) Benefits
-- Best for sellers with up to $5K/month ad spend
+### Lite Plan ($49/month) Benefits
+- Best for sellers with up to $3K/month in ad sales
 - All core automation features
 - Multi-marketplace support
 - Email support
 - No percentage-based fees
 
-### Pro Plan ($149 + 3% of ad spend) Benefits
-- Everything in Starter, plus:
-- Best for sellers with $5K-$100K/month ad spend
-- Onboarding call with PPC specialist
-- Strategy calls
+### Growth Plan ($299/month) Benefits
+- Everything in Lite, plus:
+- Best for sellers with up to $30K/month in ad sales
+- Personalized onboarding
+- Strategy calls included
+
+### Pro Plan ($0 + 0.9% of ad sales) Benefits
+- Everything in Growth, plus:
+- Best for sellers with $30K+/month in ad sales
+- Monthly strategy call
 - Priority support
 - Most popular plan
 
 ### Enterprise Plan (Custom Pricing) Benefits
 - Everything in Pro, plus:
 - Dedicated account manager
-- Custom integrations
-- Multi-account management
-- SLA guarantees
-- For sellers with $100K+/month ad spend
+- Consulting on advertising topics
+- For sellers with $500K+/month in ad sales
 
 ## Key Messaging for Conversions
 
@@ -183,7 +192,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - **"I spend hours every week managing PPC"** → "Daniks.AI runs your campaigns on full autopilot. Set your target and reclaim your time."
 - **"My ACoS keeps fluctuating"** → "Set your ACoS target once. The AI adjusts bids 24/7 to maintain it while maximizing sales."
 - **"I'm wasting money on bad search terms"** → "Automated negative keyword management blocks wasted spend before it adds up."
-- **"Agencies are too expensive"** → "Get better automation than most agencies at a fraction of the cost. Starting at $299/month."
+- **"Agencies are too expensive"** → "Get better automation than most agencies at a fraction of the cost. Starting at $49/month."
 - **"I don't know enough about PPC to manage it well"** → "You don't need to. Set your target ACoS, and Daniks.AI handles everything from campaign creation to bid optimization."
 
 ### Social Proof Elements

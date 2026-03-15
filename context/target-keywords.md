@@ -186,7 +186,7 @@ This document organizes Daniks.AI's target keywords by topic cluster for strateg
 
 ### Cluster Keywords (Subtopics)
 1. **daniks.ai vs adspert** - Content: https://daniks.ai/blog/daniks-vs-adspert-amazon-ppc-2026
-2. **daniks.ai vs perpetua** - Content: To create
+2. **daniks.ai vs perpetua** - Content: https://daniks.ai/blog/daniks-vs-perpetua-amazon-ppc-2026
 3. **daniks.ai vs pacvue** - Content: To create
 4. **daniks.ai vs quartile** - Content: To create
 5. **daniks.ai vs helium 10 adtomic** - Content: To create

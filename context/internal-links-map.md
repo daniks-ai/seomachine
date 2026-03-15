@@ -14,7 +14,7 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 ### Pricing (on homepage)
 - **URL**: https://daniks.ai/#pricing
 - **When to Link**: When discussing costs, plan comparisons, or value for money
-- **Anchor Text Examples**: "Daniks.AI pricing", "see our pricing plans", "starting at $299/month"
+- **Anchor Text Examples**: "Daniks.AI pricing", "see our pricing plans", "starting at $49/month"
 
 ### Features (on homepage)
 - **URL**: https://daniks.ai/#features
@@ -104,6 +104,18 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about PPC strategy, campaign setup, campaign management, bid optimization, or scaling ad spend
 - **Anchor Text Examples**: "our campaign structure framework", "how to structure Amazon PPC campaigns", "the 6-campaign framework for Amazon PPC"
 
+### 7 Best Amazon PPC Tools in 2026: Honest Breakdown for Sellers
+- **URL**: https://daniks.ai/blog/best-amazon-ppc-tools-2026
+- **Primary Topic**: Amazon PPC tool comparison, best PPC software, automation tools review
+- **When to Link**: In articles about PPC tools, automation, tool selection, software comparisons, or when referencing multiple PPC solutions
+- **Anchor Text Examples**: "our guide to the best Amazon PPC tools", "best Amazon PPC tools in 2026", "Amazon PPC tool comparison"
+
+### Daniks.AI vs Perpetua: Amazon PPC Comparison 2026
+- **URL**: https://daniks.ai/blog/daniks-vs-perpetua-amazon-ppc-2026
+- **Primary Topic**: Perpetua comparison, enterprise vs independent seller tools, PPC automation levels
+- **When to Link**: In articles about tool comparisons, choosing PPC tools, Perpetua alternatives, or enterprise vs small seller solutions
+- **Anchor Text Examples**: "Daniks.AI vs Perpetua comparison", "how we compare to Perpetua", "see why sellers switch from Perpetua"
+
 ### Amazon Q1 2026 Success Tips
 - **URL**: https://daniks.ai/blog/amazon-q1-2026-success-tips
 - **Primary Topic**: Q1 strategy, seasonal planning, new year Amazon strategy
@@ -115,7 +127,6 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 ## Comparison Pages (Future)
 
 As comparison content is created, add entries here:
-- Daniks.AI vs Perpetua
 - Daniks.AI vs Pacvue
 - Daniks.AI vs Quartile
 - Daniks.AI vs Helium 10 Adtomic
@@ -145,7 +156,9 @@ When adding internal links to blog content:
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
+- https://daniks.ai/blog/best-amazon-ppc-tools-2026 - Best Amazon PPC tools roundup
 - https://daniks.ai/blog/daniks-vs-adspert-amazon-ppc-2026 - Adspert comparison
+- https://daniks.ai/blog/daniks-vs-perpetua-amazon-ppc-2026 - Perpetua comparison
 - https://daniks.ai/#pricing - Pricing section
 - https://app.daniks.ai/signup/ - Free trial CTA
 
