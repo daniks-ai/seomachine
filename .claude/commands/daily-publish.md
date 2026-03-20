@@ -260,11 +260,23 @@ git commit -m "Add blog post: [Article Title]"
 git push origin main
 ```
 
-### Step 9: Update Internal Links Map
+### Step 9: Request Google Indexing
+
+Request Google to crawl and index the new blog post URL immediately:
+
+```bash
+python3 data_sources/modules/google_indexing.py "https://daniks.ai/blog/[slug]"
+```
+
+This uses the Google Indexing API with the same service account credentials as GSC (`GSC_CREDENTIALS_PATH`). The service account must have owner access in Google Search Console for daniks.ai.
+
+If indexing request fails (credentials missing, API error, permissions issue), log the error and continue — do NOT stop the pipeline.
+
+### Step 10: Update Internal Links Map
 
 Add the new blog post to `context/internal-links-map.md` in this repo so future articles can link to it.
 
-### Step 10: Summary
+### Step 11: Summary
 
 Output a summary:
 ```
@@ -284,6 +296,7 @@ Files updated in daniks-ai-ads:
 
 Commit: [commit hash]
 Live URL: https://daniks.ai/blog/[slug]
+Google Indexing: [Requested / Failed - reason]
 
 Next auto-publish: tomorrow
 ```
