@@ -116,6 +116,18 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about tool comparisons, choosing PPC tools, Perpetua alternatives, or enterprise vs small seller solutions
 - **Anchor Text Examples**: "Daniks.AI vs Perpetua comparison", "how we compare to Perpetua", "see why sellers switch from Perpetua"
 
+### Amazon PPC Bid Strategy: How to Set Bids That Actually Make Money
+- **URL**: https://daniks.ai/blog/amazon-ppc-bid-strategy
+- **Primary Topic**: Amazon PPC bid strategy, bidding strategies, dynamic bidding, placement modifiers, match type bidding
+- **When to Link**: In articles about PPC optimization, bid management, campaign setup, ACoS optimization, or automation
+- **Anchor Text Examples**: "our Amazon PPC bid strategy guide", "how to set Amazon PPC bids", "Amazon bidding strategies explained"
+
+### ACoS vs TACoS on Amazon: Which Metric Actually Matters?
+- **URL**: https://daniks.ai/blog/acos-vs-tacos-amazon
+- **Primary Topic**: ACoS vs TACoS comparison, advertising metrics, business-level vs campaign-level metrics
+- **When to Link**: In articles about ACoS optimization, PPC metrics, advertising efficiency, scaling decisions, or business profitability
+- **Anchor Text Examples**: "ACoS vs TACoS explained", "the difference between ACoS and TACoS", "why TACoS matters more than ACoS"
+
 ### Amazon Q1 2026 Success Tips
 - **URL**: https://daniks.ai/blog/amazon-q1-2026-success-tips
 - **Primary Topic**: Q1 strategy, seasonal planning, new year Amazon strategy
@@ -153,6 +165,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-automation-guide - Complete PPC automation guide
 - https://daniks.ai/blog/amazon-ppc-increase-sales-strategies - 19 PPC sales strategies
 - https://daniks.ai/blog/amazon-ppc-product-category-targeting - Targeting guide
+- https://daniks.ai/blog/acos-vs-tacos-amazon - ACoS vs TACoS comparison
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
