@@ -67,6 +67,9 @@ def request_indexing(url: str, credentials_path: str = None) -> dict:
 
 
 if __name__ == '__main__':
+    from dotenv import load_dotenv
+    load_dotenv('data_sources/config/.env')
+
     if len(sys.argv) < 2:
         print("Usage: python google_indexing.py <url>")
         print("Example: python google_indexing.py https://daniks.ai/blog/my-article")

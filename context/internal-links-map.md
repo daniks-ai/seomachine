@@ -134,6 +134,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In seasonal content or general Amazon success strategy articles
 - **Anchor Text Examples**: "Amazon Q1 strategy guide", "seasonal success tips for Amazon sellers"
 
+### Amazon PPC Budget Strategy: How to Set and Scale Your Ad Spend
+- **URL**: https://daniks.ai/blog/amazon-ppc-budget-strategy
+- **Primary Topic**: Amazon PPC budget planning, budget formulas, budget allocation across campaign types, scaling ad spend
+- **When to Link**: In articles about PPC strategy, campaign setup, ad spend optimization, scaling Amazon business, or budget management
+- **Anchor Text Examples**: "our Amazon PPC budget strategy guide", "how to set your Amazon PPC budget", "Amazon PPC budget allocation framework"
+
 ---
 
 ## Comparison Pages (Future)
@@ -166,6 +172,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-increase-sales-strategies - 19 PPC sales strategies
 - https://daniks.ai/blog/amazon-ppc-product-category-targeting - Targeting guide
 - https://daniks.ai/blog/acos-vs-tacos-amazon - ACoS vs TACoS comparison
+- https://daniks.ai/blog/amazon-ppc-budget-strategy - Budget strategy and allocation guide
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
