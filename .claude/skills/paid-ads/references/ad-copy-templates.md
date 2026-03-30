@@ -92,7 +92,7 @@ Detailed formulas and templates for writing high-converting ad copy.
 | [Question] | "Tired of Manual Data Entry?" |
 | [Number] + [Benefit] | "500+ Teams Trust [Product] for [Outcome]" |
 | [Keyword] + [Differentiator] | "CRM Built for Small Teams" |
-| [Price/Offer] + [Keyword] | "Free Project Management \| No Credit Card" |
+| [Price/Offer] + [Keyword] | "Free Project Management \| 14-Day Free Trial" |
 
 ### For Social Ads
 

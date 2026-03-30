@@ -382,28 +382,28 @@ class CROChecker:
             'detail': 'Free trial mentioned' if has_trial else 'Add free trial offer'
         })
 
-        # Check: No credit card
-        has_no_card = bool(re.search(r'no\s+credit\s+card', content, re.IGNORECASE))
-        checks.append({
-            'name': 'No credit card required',
-            'passed': has_no_card,
-            'importance': 'important',
-            'detail': 'No card required mentioned' if has_no_card else 'Add "no credit card required"'
-        })
-
         # Check: Cancel anytime
-        has_cancel = bool(re.search(r'cancel\s+(?:any\s*time|whenever)', content, re.IGNORECASE))
+        has_cancel_anytime = bool(re.search(r'cancel\s+any\s*time', content, re.IGNORECASE))
         checks.append({
             'name': 'Cancel anytime mentioned',
-            'passed': has_cancel,
+            'passed': has_cancel_anytime,
+            'importance': 'important',
+            'detail': 'Cancel anytime mentioned' if has_cancel_anytime else 'Add "cancel anytime"'
+        })
+
+        # Check: 14-day free trial
+        has_trial_duration = bool(re.search(r'14[- ]?day\s+free\s+trial', content, re.IGNORECASE))
+        checks.append({
+            'name': '14-day free trial mentioned',
+            'passed': has_trial_duration,
             'importance': 'nice_to_have',
-            'detail': 'Cancel policy mentioned' if has_cancel else 'Add cancel policy'
+            'detail': 'Trial duration mentioned' if has_trial_duration else 'Add "14-day free trial"'
         })
 
         # Check: Risk reversal near CTA
         # Look for risk reversal text within 200 chars of CTA
         cta_positions = [m.start() for m in re.finditer(r'\[.{5,60}→?\]', content)]
-        risk_patterns = r'(?:no\s+credit\s+card|cancel\s+any|free\s+trial|guarantee|risk[- ]?free)'
+        risk_patterns = r'(?:cancel\s+any|free\s+trial|guarantee|risk[- ]?free|14[- ]?day)'
 
         risk_near_cta = False
         for pos in cta_positions:
@@ -616,7 +616,7 @@ The easiest way to get started. Join 50,000+ customers who trust us.
 ## FAQ
 
 **Do I need a credit card?**
-No credit card required. Cancel anytime.
+14-day free trial. Cancel anytime.
 
 **How long is the free trial?**
 14 days of full access.
@@ -625,7 +625,7 @@ No credit card required. Cancel anytime.
 
 **[Start Your Free Trial →]**
 
-No credit card required. Cancel anytime. Set up in under 5 minutes.
+14-day free trial. Cancel anytime. Set up in under 5 minutes.
     """
 
     result = check_cro(sample_content, page_type='seo', conversion_goal='trial')

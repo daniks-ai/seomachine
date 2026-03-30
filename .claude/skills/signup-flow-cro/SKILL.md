@@ -146,7 +146,7 @@ Every field reduces conversion. For each field, ask:
 ## Trust and Friction Reduction
 
 ### At the Form Level
-- "No credit card required" (if true)
+- "14-day free trial · Cancel anytime"
 - "Free forever" or "14-day free trial"
 - Privacy note: "We'll never share your email"
 - Security badges if relevant
@@ -310,7 +310,7 @@ Organized by:
 **Trust Elements**
 - Add social proof next to signup form
 - Test trust badges near form (security, compliance)
-- Add "No credit card required" messaging
+- Add "14-day free trial · Cancel anytime" messaging
 - Include privacy assurance copy
 
 ---

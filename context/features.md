@@ -151,7 +151,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - Full access to all features
 - Up to 100 SKUs per country
 - Unlimited ad spend
-- No credit card required
+- Cancel anytime
 - Full autopilot mode
 
 ### Lite Plan ($49/month) Benefits
@@ -183,7 +183,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 ## Key Messaging for Conversions
 
 ### Trial Conversion Messages
-- "Start your free 14-day trial. No credit card required."
+- "Start your free 14-day trial. Cancel anytime."
 - "See what real Amazon PPC autopilot looks like. Try Daniks.AI free."
 - "1,000+ sellers already trust Daniks.AI with $50M+ in ad spend. Try it free."
 - "Set your ACoS target today. See results within the first week."
@@ -210,7 +210,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 **Answer**: You set the ACoS target and overall budget. The AI optimizes within your parameters. You have full visibility into every change through your dashboard, and you can adjust targets or pause automation at any time.
 
 ### "Is 14 days enough to see results?"
-**Answer**: Most sellers see meaningful bid optimization within the first few days. By day 14, you'll have clear data on ACoS improvement and time saved. That's why we don't require a credit card — we're confident you'll want to continue.
+**Answer**: Most sellers see meaningful bid optimization within the first few days. By day 14, you'll have clear data on ACoS improvement and time saved. You can cancel anytime during the trial — we're confident you'll want to continue.
 
 ### "What if my products are in a competitive niche?"
 **Answer**: Daniks.AI manages campaigns for sellers across all categories, including highly competitive niches. The AI adapts to your specific market conditions and continuously adjusts strategy based on real-time competitive data.
@@ -226,7 +226,7 @@ When writing about Daniks.AI features:
 2. **Use specific examples**: Show how features solve real Amazon seller problems with numbers
 3. **Include proof points**: 1,000+ sellers, $50M+ managed, Amazon Verified Partner, own products with 2,000+ reviews
 4. **Address objections proactively**: Answer concerns about control, results timeline, and pricing before they ask
-5. **Create clear CTAs**: "Start your free trial" with risk reversal ("No credit card required")
+5. **Create clear CTAs**: "Start your free trial" with risk reversal ("14-day free trial • Cancel anytime")
 6. **Emphasize autopilot**: The key differentiator is true hands-off automation, not just optimization assistance
 7. **Match audience to plan**: Starter for small sellers, Pro for mid-size, Enterprise for large accounts
 

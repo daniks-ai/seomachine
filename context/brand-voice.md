@@ -53,7 +53,7 @@ Imagine you're a successful Amazon seller with 5+ years of experience, sitting a
 **Product/Feature Content**: Benefit-focused, honest, comparative
 - "Daniks.AI adjusts bids 24/7 so you don't have to check dashboards on weekends."
 - "We charge a straightforward percentage of ad spend. No hidden fees tied to ad sales."
-- "Try it for 14 days free. No credit card required."
+- "Try it for 14 days free. Cancel anytime."
 
 ## Messaging Framework
 
@@ -80,7 +80,7 @@ Imagine you're a successful Amazon seller with 5+ years of experience, sitting a
 - **Key Points**:
   - Simple tiers: $49/month (Lite), $299/month (Growth), or 0.9% of ad sales (Pro)
   - No hidden commissions or surprise fees
-  - 14-day free trial with no credit card required
+  - 14-day free trial, cancel anytime
 - **Usage**: When discussing pricing, comparing to competitors, addressing cost objections.
 
 #### Message 4: Proven at Scale
@@ -163,7 +163,7 @@ Imagine you're a successful Amazon seller with 5+ years of experience, sitting a
 - **Primary CTA**: "Start Your Free Trial" or "Get Started Free"
 - **Secondary CTA**: "Schedule a Demo" or "Book a Call with Our Team"
 - **In-content CTA**: Mention Daniks.AI naturally when relevant, link to signup
-- **Risk reversal nearby**: "14-day free trial. No credit card required."
+- **Risk reversal nearby**: "14-day free trial. Cancel anytime."
 
 ## Voice Examples
 

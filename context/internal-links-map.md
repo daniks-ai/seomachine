@@ -140,6 +140,24 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about PPC strategy, campaign setup, ad spend optimization, scaling Amazon business, or budget management
 - **Anchor Text Examples**: "our Amazon PPC budget strategy guide", "how to set your Amazon PPC budget", "Amazon PPC budget allocation framework"
 
+### Amazon PPC Auto vs Manual Campaigns: When to Use Each and How to Combine Them
+- **URL**: https://daniks.ai/blog/amazon-ppc-auto-vs-manual-campaigns
+- **Primary Topic**: Auto vs manual targeting in Amazon PPC, automatic campaigns, manual campaigns, search term harvesting, auto-to-manual workflow
+- **When to Link**: In articles about campaign types, PPC strategy, keyword discovery, campaign structure, or targeting decisions
+- **Anchor Text Examples**: "our auto vs manual campaigns guide", "when to use auto vs manual campaigns", "the auto-to-manual workflow"
+
+### Amazon PPC Keyword Research: How to Find Keywords That Drive Profitable Sales
+- **URL**: https://daniks.ai/blog/amazon-ppc-keyword-research
+- **Primary Topic**: Amazon PPC keyword research, keyword strategy, search term harvesting, match types, negative keywords, keyword evaluation
+- **When to Link**: In articles about PPC strategy, campaign setup, keyword targeting, search term optimization, ACoS optimization, or campaign management
+- **Anchor Text Examples**: "our Amazon PPC keyword research guide", "how to find profitable Amazon PPC keywords", "Amazon PPC keyword strategy guide"
+
+### Amazon Sponsored Products Optimization: 9 Tactics to Get More Sales From Every Ad Dollar
+- **URL**: https://daniks.ai/blog/amazon-sponsored-products-optimization
+- **Primary Topic**: Sponsored Products optimization, search term audits, match type separation, negative keywords, placement optimization, product targeting, listing optimization
+- **When to Link**: In articles about Sponsored Products campaigns, PPC optimization, campaign management, ACoS optimization, or ad spend efficiency
+- **Anchor Text Examples**: "our Sponsored Products optimization guide", "9 tactics to optimize Sponsored Products", "how to optimize Amazon Sponsored Products"
+
 ---
 
 ## Comparison Pages (Future)
@@ -173,6 +191,8 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-product-category-targeting - Targeting guide
 - https://daniks.ai/blog/acos-vs-tacos-amazon - ACoS vs TACoS comparison
 - https://daniks.ai/blog/amazon-ppc-budget-strategy - Budget strategy and allocation guide
+- https://daniks.ai/blog/amazon-ppc-keyword-research - Keyword research and strategy guide
+- https://daniks.ai/blog/amazon-sponsored-products-optimization - Sponsored Products optimization guide
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:

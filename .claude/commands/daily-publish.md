@@ -236,7 +236,7 @@ Add the full article as a new entry in the `blogPostsContent` object. Convert ma
      className="inline-block bg-primary text-primary-foreground px-6 py-3 rounded-lg font-medium hover:opacity-90 transition-opacity">
     Start Your Free 14-Day Trial
   </a>
-  <p className="text-sm text-muted-foreground mt-2">No credit card required</p>
+  <p className="text-sm text-muted-foreground mt-2">14-day free trial · Cancel anytime</p>
 </div>
 ```
 

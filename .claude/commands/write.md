@@ -88,7 +88,7 @@ Don't just put one CTA at the end. Embedded CTAs get 121% more conversions than 
 | Location | CTA Type | Example |
 |----------|----------|---------|
 | After first major value section | Soft CTA (learn more) | "Want to see how this works in practice? [Explore our features →]" |
-| After comparison/proof section | Medium CTA (try it) | "**Ready to test the difference?** Start a free trial, no credit card required." |
+| After comparison/proof section | Medium CTA (try it) | "**Ready to test the difference?** Start a free 14-day trial. Cancel anytime." |
 | End of article | Strong CTA (convert) | "**[Start Your Free Trial →]**" with supporting text |
 
 **CTA Rules:**

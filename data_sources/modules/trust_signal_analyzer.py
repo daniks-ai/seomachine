@@ -448,14 +448,14 @@ class TrustSignalAnalyzer:
                 'priority': 'high',
                 'category': 'risk_reversal',
                 'issue': 'No risk reversal',
-                'recommendation': 'Add risk reversal near CTAs: free trial length, no credit card, or guarantee.'
+                'recommendation': 'Add risk reversal near CTAs: free trial length, cancel anytime, or guarantee.'
             })
         elif not results['risk_reversals']['is_strong']:
             recommendations.append({
                 'priority': 'medium',
                 'category': 'risk_reversal',
                 'issue': 'Weak risk reversal',
-                'recommendation': 'Strengthen risk reversal by adding: trial length, no credit card required, AND cancel anytime.'
+                'recommendation': 'Strengthen risk reversal by adding: trial length, cancel anytime, AND guarantee.'
             })
 
         # Authority
@@ -536,7 +536,7 @@ Join 50,000+ customers who trust [YOUR COMPANY].
 
 **[Start Your Free Trial →]**
 
-14-day free trial. No credit card required. Cancel anytime.
+14-day free trial. Cancel anytime.
 
 As featured in Industry Business Journal.
 

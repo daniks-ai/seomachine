@@ -143,7 +143,7 @@ Use this command to analyze a specific competitor's landing page in depth.
 
 ### Risk Reversals
 - [ ] Free trial - Duration: [X days]
-- [ ] No credit card
+- [ ] Free trial details
 - [ ] Money-back guarantee
 - [ ] Cancel anytime
 

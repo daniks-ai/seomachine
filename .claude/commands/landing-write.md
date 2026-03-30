@@ -125,7 +125,7 @@ Use this command to create high-converting landing pages optimized for either or
 
 **[Strong CTA Button →]**
 
-[Risk reversal: "Free trial • No credit card • Cancel anytime"]
+[Risk reversal: "14-day free trial • Cancel anytime"]
 ```
 
 ---
@@ -176,7 +176,6 @@ Use this command to create high-converting landing pages optimized for either or
 
 [Risk Reversal Section]
 - Free [X]-day trial
-- No credit card required
 - Cancel anytime
 
 **[Final CTA Button →]**
@@ -194,8 +193,7 @@ Use this command to create high-converting landing pages optimized for either or
 - "Get Started Free →"
 
 **Supporting Copy Required:**
-- "No credit card required"
-- Trial length mentioned
+- "14-day free trial"
 - "Cancel anytime"
 - "Set up in minutes"
 

@@ -502,7 +502,7 @@ class LandingPageScorer:
         if trust_counts.get('risk_reversal', 0) == 0:
             score -= 25
             warnings.append(
-                "No risk reversal found. Add 'no credit card', 'guarantee', or 'cancel anytime'."
+                "No risk reversal found. Add 'cancel anytime', 'guarantee', or '14-day free trial'."
             )
 
         # 4. Authority signals (20 points)
@@ -702,7 +702,7 @@ if __name__ == "__main__":
 # Launch Your Product in Minutes, Not Months
 
 **Meta Title**: Easy Product Hosting | Start Free Today - [YOUR COMPANY]
-**Meta Description**: Get started in minutes with [YOUR COMPANY]. No technical skills needed. Free 14-day trial, no credit card required. Join 50,000+ customers today.
+**Meta Description**: Get started in minutes with [YOUR COMPANY]. No technical skills needed. Free 14-day trial. Cancel anytime. Join 50,000+ customers today.
 **Target Keyword**: product hosting
 **Conversion Goal**: trial
 
@@ -738,7 +738,7 @@ Most platforms make you jump through hoops. Complex dashboards. Confusing settin
 ## No Risk, All Reward
 
 - Free 14-day trial
-- No credit card required
+- 14-day free trial
 - Cancel anytime
 
 **[Start Your Free Trial →]**
@@ -751,7 +751,7 @@ Still have questions? [Book a quick demo](/demo) with our team.
         page_type='seo',
         conversion_goal='trial',
         meta_title="Easy Product Hosting | Start Free Today - [YOUR COMPANY]",
-        meta_description="Get started in minutes with [YOUR COMPANY]. No technical skills needed. Free 14-day trial, no credit card required. Join 50,000+ customers today.",
+        meta_description="Get started in minutes with [YOUR COMPANY]. No technical skills needed. Free 14-day trial. Cancel anytime. Join 50,000+ customers today.",
         primary_keyword="product hosting"
     )
 

@@ -233,8 +233,7 @@ For every statement, ask "Okay, so what?" If the copy doesn't answer that questi
 **Risk reducers to look for:**
 - Money-back guarantees
 - Free trials
-- "No credit card required"
-- "Cancel anytime"
+- "14-day free trial · Cancel anytime"
 - Social proof near CTA
 - Clear expectations of what happens next
 - Privacy assurances

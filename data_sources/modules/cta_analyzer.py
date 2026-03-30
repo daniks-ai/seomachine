@@ -517,7 +517,7 @@ Learn more about our features.
 
 **[Try Free for 14 Days →]**
 
-No credit card required. Cancel anytime.
+14-day free trial. Cancel anytime.
 
 Questions? [Book a demo](/demo) with our team.
     """

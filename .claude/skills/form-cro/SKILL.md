@@ -238,7 +238,7 @@ Examples:
 ### Addressing Objections
 - "No spam, unsubscribe anytime"
 - "We won't share your number"
-- "No credit card required"
+- "14-day free trial · Cancel anytime"
 
 ---
 

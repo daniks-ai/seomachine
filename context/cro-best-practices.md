@@ -138,7 +138,7 @@ Examples:
 ## Risk Reversal Tactics
 
 ### For Free Trial
-- "No credit card required"
+- "14-day free trial"
 - "Cancel anytime"
 - "Full access for [X] days"
 - "No commitment"

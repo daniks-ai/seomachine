@@ -81,7 +81,7 @@ Visitors decide within 5 seconds whether to stay. Evaluate:
 
 **Risk Reversal:**
 - Free trial mentioned with duration?
-- "No credit card required" present?
+- "14-day free trial" and "Cancel anytime" present?
 - "Cancel anytime" mentioned?
 - Placed near CTAs?
 
