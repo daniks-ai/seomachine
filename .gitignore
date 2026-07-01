@@ -101,6 +101,8 @@ data_sources/config/.env
 data_sources/config/.env_local
 data_sources/config/*_credentials.json
 data_sources/config/*_config.json
+data_sources/config/*_token.json
+data_sources/config/linkedin_token.json
 data_sources/cache/*
 !data_sources/cache/.gitkeep
 

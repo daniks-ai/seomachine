@@ -272,11 +272,53 @@ This uses the Google Indexing API with the same service account credentials as G
 
 If indexing request fails (credentials missing, API error, permissions issue), log the error and continue — do NOT stop the pipeline.
 
-### Step 10: Update Internal Links Map
+### Step 10: Publish to LinkedIn Company Page
+
+Cross-post the article to the Daniks.AI LinkedIn company page. The post is published as a native LinkedIn post (not a bare link share) with the featured image attached so it gets the engagement boost LinkedIn gives image posts.
+
+#### 10a. Write the LinkedIn-optimized post
+
+LinkedIn posts that get the most reach follow a different structure than blog content. Write a brand-new piece of copy — do NOT paste the article intro.
+
+Apply these LinkedIn best practices:
+
+- **Hook in the first 2 lines** (max ~210 chars before the "see more" cutoff on mobile). Make people want to expand: a counterintuitive claim, a specific number, a sharp question, or a one-line story setup. Avoid "In this article…" or "I just published…" openings.
+- **Short lines + blank lines between them.** No walls of text. Most paragraphs should be 1-2 sentences.
+- **Total length: 1,200–1,800 characters.** Long enough to deliver real value, short enough to stay readable. LinkedIn's algorithm rewards "dwell time" — make people scroll, not bounce.
+- **Deliver value in the post itself**, then point to the article. The post should be useful even if no one clicks. Pull 3-5 of the article's most concrete insights (a list, a framework, a contrarian take) and rewrite them in conversational tone.
+- **Native voice, not corporate voice.** First person where possible ("I see this trip up sellers all the time…"), Daniks.AI brand voice from `context/brand-voice.md`. No buzzwords ("synergy," "leverage," "unlock"), no AI-tells ("delve," "landscape," "in today's").
+- **One clear CTA at the end** pointing to the full article — phrase it as a benefit, not "click here". Example: `Full breakdown with the exact ACoS formula → https://daniks.ai/blog/[slug]`
+- **3–5 hashtags on the last line**, lowercase or camelCase, mixing one broad (#AmazonFBA, #Ecommerce) with niche tags (#AmazonPPC, #AmazonSellers, #AmazonAdvertising). No more than 5 — diminishing returns.
+- **No @mentions** unless the article cites a specific person/company we want to tag.
+- **Plain text only.** LinkedIn does not render Markdown — no `**bold**`, no `#headings`, no `[links](url)`. Use line breaks and emoji sparingly (✅ 1–2 max, ❌ never spam them) for visual rhythm.
+
+Save the LinkedIn copy to `published/[slug]-linkedin.txt` (UTF-8, no frontmatter, just the post body).
+
+#### 10b. Publish via the LinkedIn API
+
+```bash
+python3 data_sources/modules/linkedin_publisher.py \
+  --text-file "published/[slug]-linkedin.txt" \
+  --image "/Users/ync/poryadok/sources/daniks-ai-ads/src/assets/blog/[slug].jpg" \
+  --link "https://daniks.ai/blog/[slug]" \
+  --title "[Article Title]"
+```
+
+The publisher will:
+1. Resolve a valid access token via `linkedin_auth.get_managed_token()` — auto-refreshing it if a refresh token is available (falls back to the static `LINKEDIN_ACCESS_TOKEN` env var if the managed store isn't set up)
+2. Upload the featured image to LinkedIn (`/rest/images?action=initializeUpload` → binary PUT)
+3. Create a published post on the company page with the image attached and the commentary you wrote
+4. Return the post URN and a `linkedin.com/feed/update/...` URL
+
+Capture the returned `post_url` for the summary.
+
+Token management is hands-off after a one-time `python data_sources/modules/linkedin_auth.py login`. If publishing fails because re-login is required (LinkedIn refresh token expired, or the app isn't entitled to programmatic refresh tokens), the error message will say so — log it and continue; do NOT stop the pipeline. Note the failure in the summary so a human can re-run the login.
+
+### Step 11: Update Internal Links Map
 
 Add the new blog post to `context/internal-links-map.md` in this repo so future articles can link to it.
 
-### Step 11: Summary
+### Step 12: Summary
 
 Output a summary:
 ```
@@ -297,6 +339,7 @@ Files updated in daniks-ai-ads:
 Commit: [commit hash]
 Live URL: https://daniks.ai/blog/[slug]
 Google Indexing: [Requested / Failed - reason]
+LinkedIn: [Post URL / Failed - reason]
 
 Next auto-publish: tomorrow
 ```
@@ -307,6 +350,7 @@ Next auto-publish: tomorrow
 - If website repo has uncommitted changes: stash them, apply our changes, commit, then pop stash
 - If git push fails: save all changes locally and report the error
 - If content scorer gives score < 70: revise once, if still low save to review-required/ and skip publishing
+- If LinkedIn publishing fails (missing token, expired token, API error): log the error, save the LinkedIn copy to `published/[slug]-linkedin.txt` for manual posting, and continue. Do NOT stop the pipeline — the blog post is already live.
 
 ## Important Notes
 

@@ -208,6 +208,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 
 ---
 
+### Daniks.AI vs Teikametrics: Which Amazon PPC Tool Should You Pick in 2026?
+- **URL**: https://daniks.ai/blog/daniks-vs-teikametrics-amazon-ppc-2026
+- **Primary Topic**: Teikametrics comparison, managed-service vs autopilot, Flywheel 2.0 review, enterprise PPC platform vs independent seller tool, Walmart multi-channel
+- **When to Link**: In articles about tool comparisons, choosing PPC tools, Teikametrics alternatives, managed services vs automation, enterprise vs small seller solutions, or pricing comparisons
+- **Anchor Text Examples**: "Daniks.AI vs Teikametrics comparison", "how we compare to Teikametrics", "see why sellers choose Daniks.AI over Teikametrics"
+
 ### Daniks.AI vs Helium 10 Adtomic: Which Amazon PPC Tool Should You Pick?
 - **URL**: https://daniks.ai/blog/daniks-vs-helium10-adtomic-amazon-ppc-2026
 - **Primary Topic**: Helium 10 Adtomic comparison, specialist PPC autopilot vs all-in-one suite PPC feature, rule-based automation vs AI autopilot
@@ -238,10 +244,129 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about keyword research, campaign structure, negative keywords, bid strategy, Sponsored Products optimization, auto vs manual campaigns, beginner PPC content, or anywhere keyword targeting is discussed
 - **Anchor Text Examples**: "our match types guide", "how Amazon PPC match types work", "broad vs phrase vs exact match explained", "the keyword waterfall framework"
 
+### Amazon PPC Placements: How to Optimize Top of Search, Product Pages, and Rest of Search Bids in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-placements
+- **Primary Topic**: Amazon PPC placements, Top of Search bid modifier, Product Pages placement, Rest of Search optimization, placement report, placement bid modifier strategy
+- **When to Link**: In articles about bid strategy, ACoS reduction, Sponsored Products optimization, campaign structure, dynamic bidding, search term reports, or any campaign-level optimization content
+- **Anchor Text Examples**: "our Amazon PPC placements guide", "how Top of Search bid modifiers work", "placement bid modifier strategy", "Amazon placement report walkthrough"
+
+### 7 Best Adspert Alternatives for Amazon PPC in 2026
+- **URL**: https://daniks.ai/blog/adspert-alternatives-amazon-ppc-2026
+- **Primary Topic**: Adspert alternatives, Amazon PPC tool comparison, PPC automation tools, switching from Adspert
+- **When to Link**: In articles about tool comparisons, Adspert, choosing PPC tools, PPC automation options, or pricing comparisons
+- **Anchor Text Examples**: "best Adspert alternatives for Amazon PPC", "7 Adspert alternatives compared", "our Adspert alternatives guide"
+
+### 7 Best Perpetua Alternatives for Amazon PPC in 2026
+- **URL**: https://daniks.ai/blog/perpetua-alternatives-amazon-ppc-2026
+- **Primary Topic**: Perpetua alternatives, Amazon PPC tool comparison, PPC automation tools, switching from Perpetua
+- **When to Link**: In articles about tool comparisons, Perpetua, choosing PPC tools, PPC automation options, enterprise vs small seller tools, or pricing comparisons
+- **Anchor Text Examples**: "best Perpetua alternatives for Amazon PPC", "7 Perpetua alternatives compared", "our Perpetua alternatives guide"
+
+### Advanced Amazon PPC Strategies: 11 Expert Tactics to Scale Campaigns Profitably
+- **URL**: https://daniks.ai/blog/advanced-amazon-ppc-strategies
+- **Primary Topic**: Advanced Amazon PPC strategies, dayparting, placement modifiers, ASIN targeting, budget cascading, search term isolation, TACoS-driven scaling, negative keyword architecture, campaign wave launches, PPC automation
+- **When to Link**: In articles about PPC optimization, scaling ad spend, advanced campaign management, bid strategy, ACoS optimization, or when targeting intermediate-to-advanced sellers
+- **Anchor Text Examples**: "our advanced Amazon PPC strategies guide", "11 advanced PPC tactics", "advanced Amazon advertising strategies"
+
+### What Is Amazon ACoS? The Complete Guide to Advertising Cost of Sales in 2026
+- **URL**: https://daniks.ai/blog/what-is-amazon-acos-complete-guide
+- **Primary Topic**: Amazon ACoS pillar guide, what is ACoS, ACoS formula, break-even ACoS, target ACoS, ACoS vs TACoS vs ROAS, category benchmarks, ACoS levers
+- **When to Link**: In articles about ACoS optimization, PPC metrics, profitability, bid strategy, beginner PPC content, listing CVR, or anywhere ACoS is mentioned for the first time
+- **Anchor Text Examples**: "what is Amazon ACoS", "our complete Amazon ACoS guide", "the Amazon ACoS pillar guide", "ACoS explained"
+
+### Amazon Sponsored Brands Video Ads: The Complete Guide to Setup, Optimization, and Profitable Scaling in 2026
+- **URL**: https://daniks.ai/blog/amazon-sponsored-brands-video-ads
+- **Primary Topic**: Sponsored Brands video ads (SBV), video ad specs, creative best practices, SBV bid strategy, new-to-brand metric, video ad optimization, weekly optimization loop
+- **When to Link**: In articles about Sponsored Brands, video advertising, brand building, full-funnel PPC, ad format comparisons, Brand Registry benefits, or creative strategy
+- **Anchor Text Examples**: "our Sponsored Brands video ads guide", "Amazon Sponsored Brands video ads", "SBV setup guide", "Sponsored Brands video optimization"
+
+### Amazon Search Term Report: How to Read It, Use It, and Turn Wasted Spend Into Profit in 2026
+- **URL**: https://daniks.ai/blog/amazon-search-term-report
+- **Primary Topic**: Amazon search term report, pulling and reading the report, 5-step weekly optimization workflow, negative keyword candidates, harvesting converters, close-variant audit, auto campaign audit
+- **When to Link**: In articles about negative keywords, keyword research, ACoS reduction, Sponsored Products optimization, auto vs manual campaigns, wasted ad spend, search term harvesting, or any optimization tactic that depends on customer search term data
+- **Anchor Text Examples**: "our Amazon search term report guide", "how to use the Amazon search term report", "the search term report workflow", "Amazon search term analysis"
+
+### Amazon PPC for European Sellers: How to Run Profitable Ads Across EU Marketplaces in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-european-sellers-guide
+- **Primary Topic**: Amazon PPC in Europe, EU marketplace strategies, Amazon.de PPC, Amazon.co.uk PPC, Amazon.fr/es/it PPC, multi-marketplace campaign structure, EU keyword research, VAT impact on ACoS
+- **When to Link**: In articles about European Amazon selling, marketplace expansion, multi-marketplace management, international PPC strategy, VAT considerations, or German/UK/French Amazon markets
+- **Anchor Text Examples**: "our Amazon PPC guide for European sellers", "how to run Amazon PPC in Europe", "EU marketplace PPC strategies", "Amazon Europe advertising guide"
+
+### Amazon PPC Dayparting: How to Schedule Bids by Time of Day to Cut Wasted Ad Spend in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-dayparting
+- **Primary Topic**: Amazon PPC dayparting, ad scheduling by hour, peak conversion hours, bid-by-hour strategy, dayparting automation, hour-of-day performance analysis, conservative/aggressive/hybrid dayparting strategies
+- **When to Link**: In articles about advanced PPC tactics, bid strategy, ACoS optimization, wasted ad spend, Sponsored Products optimization, automation, search term reports, or campaign-level optimization
+- **Anchor Text Examples**: "our Amazon PPC dayparting guide", "how to daypart Amazon PPC", "Amazon ad scheduling guide", "schedule bids by time of day"
+
+### Amazon Brand Analytics: How to Use Search Query Performance to Win More PPC Sales in 2026
+- **URL**: https://daniks.ai/blog/amazon-brand-analytics
+- **Primary Topic**: Amazon Brand Analytics, Search Query Performance (SQP), Top Search Terms report, Item Comparison, Alternate Purchase Behavior, Market Basket Analysis, Demographics, Repeat Purchase Behavior, share gap audit, expansion audit, weekly Brand Analytics workflow
+- **When to Link**: In articles about keyword research, search term reports, listing optimization, competitor research, Brand Registry benefits, ACoS optimization, ASIN targeting, audience targeting, or any data-driven PPC workflow
+- **Anchor Text Examples**: "our Amazon Brand Analytics guide", "Search Query Performance report walkthrough", "how to use Brand Analytics for PPC", "the share gap audit", "Top Search Terms report guide"
+
+### Amazon PPC Costs in 2026: CPC Benchmarks, Budget Ranges, and What Sellers Actually Pay
+- **URL**: https://daniks.ai/blog/amazon-ppc-costs-benchmarks-2026
+- **Primary Topic**: Amazon PPC costs, CPC benchmarks by ad type and category, Amazon advertising budget, cost per click ranges, budget formula, hidden PPC costs, cost trends 2026
+- **When to Link**: In articles about PPC budgets, ACoS optimization, beginner PPC content, bid strategy, campaign setup, tool comparisons (pricing context), or any content where sellers ask "how much does Amazon PPC cost"
+- **Anchor Text Examples**: "Amazon PPC cost benchmarks", "how much Amazon PPC costs in 2026", "CPC benchmarks by category", "our Amazon advertising costs guide"
+
+### How to Improve Amazon Sales Rank: The Complete BSR Guide for Sellers in 2026
+- **URL**: https://daniks.ai/blog/amazon-sales-rank-bsr-guide
+- **Primary Topic**: Amazon Sales Rank (BSR), how BSR is calculated, sales velocity, BSR myths, 8 levers to improve BSR (PPC velocity, listing CVR, review velocity, promotions, category placement, inventory, external traffic, keyword coverage), BSR tracking cadence
+- **When to Link**: In articles about sales velocity, organic ranking, listing optimization, conversion rate, product launch, reviews, PPC for ranking, external traffic, or any content where sellers ask "how do I rank higher on Amazon"
+- **Anchor Text Examples**: "our Amazon Sales Rank guide", "how to improve Amazon BSR", "Amazon Best Sellers Rank explained", "what drives Amazon BSR"
+
+### Amazon ASIN Targeting: How to Steal Sales from Competitor Product Pages in 2026
+- **URL**: https://daniks.ai/blog/amazon-asin-targeting
+- **Primary Topic**: Amazon ASIN targeting, competitor ASIN bidding, defensive ASIN targeting, Sponsored Products product targeting, Sponsored Display ASIN targeting, ASIN list qualification (5-filter framework), tier-based bid strategy, 30-day rollout playbook
+- **When to Link**: In articles about Sponsored Products optimization, Sponsored Display, competitor research, product targeting, campaign types, advanced PPC tactics, search term reports, negative keywords, or any content about stealing sales from competitor detail pages
+- **Anchor Text Examples**: "our Amazon ASIN targeting guide", "how to target competitor ASINs", "Amazon ASIN targeting playbook", "defensive ASIN targeting on Amazon"
+
+### Amazon PPC Campaign Types Explained: Sponsored Products vs Sponsored Brands vs Sponsored Display
+- **URL**: https://daniks.ai/blog/amazon-ad-types-comparison
+- **Primary Topic**: Amazon PPC campaign types comparison, Sponsored Products vs Sponsored Brands vs Sponsored Display, ad type selection, budget allocation by campaign type, Brand Registry ad requirements
+- **When to Link**: In articles about campaign types, PPC strategy, campaign structure, beginner PPC content, budget allocation, ad format selection, or any content comparing SP/SB/SD
+- **Anchor Text Examples**: "our Amazon ad types comparison guide", "Sponsored Products vs Sponsored Brands vs Sponsored Display", "which Amazon ad type to use", "Amazon PPC campaign types explained"
+
+### Amazon Buy Box: How to Win It, Keep It, and Why It Decides Whether Your Ads Even Run in 2026
+- **URL**: https://daniks.ai/blog/amazon-buy-box-guide
+- **Primary Topic**: Amazon Buy Box (Featured Offer), Buy Box eligibility, Buy Box algorithm factors, Buy Box percentage, how to win the Buy Box, Buy Box and PPC connection, incident playbook for losing the Buy Box
+- **When to Link**: In articles about PPC performance issues, ACoS spikes, listing optimization, pricing strategy, fulfillment (FBA vs FBM), Brand Registry, seller performance metrics, or any content where Buy Box ownership affects ad serving or conversion rate
+- **Anchor Text Examples**: "our Amazon Buy Box guide", "how to win the Amazon Buy Box", "Buy Box and PPC connection", "Featured Offer eligibility rules", "what is the Amazon Buy Box"
+
+### Amazon PPC Mistakes: 13 Costly Errors That Drain Your Ad Budget in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-mistakes
+- **Primary Topic**: Common Amazon PPC mistakes, advertising errors, budget waste, PPC optimization mistakes, campaign management errors
+- **When to Link**: In articles about PPC optimization, beginner PPC content, ACoS troubleshooting, campaign management, PPC audits, or any content where sellers might be making preventable mistakes
+- **Anchor Text Examples**: "13 common Amazon PPC mistakes", "common Amazon advertising errors to avoid", "Amazon PPC mistakes guide"
+
+### Amazon PPC Audit: How to Diagnose Wasted Spend and Fix Underperforming Campaigns in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-audit
+- **Primary Topic**: Amazon PPC audit, 14-point audit framework, account-level audit, campaign audit, search term mining, bid drift, placement modifier audit, budget pacing, dayparting check, TACoS audit, audit cadence
+- **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
+- **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
+
+### Amazon SEO: How to Rank Higher Organically in 2026 (The Complete A9/COSMO Guide)
+- **URL**: https://daniks.ai/blog/amazon-seo-guide
+- **Primary Topic**: Amazon SEO, A9 algorithm, COSMO algorithm, 9 organic ranking levers (title, bullets, backend search terms, A+ Content, conversion rate, reviews, sales velocity, inventory, account health), PPC-organic feedback loop, 30-day SEO audit framework
+- **When to Link**: In articles about organic ranking, BSR, listing optimization, conversion rate, reviews, PPC keyword research, sales velocity, A+ Content, or any content that connects PPC to long-term organic visibility
+- **Anchor Text Examples**: "our Amazon SEO guide", "how to rank higher on Amazon organically", "Amazon A9 and COSMO explained", "the Amazon SEO playbook"
+
+### Amazon Q4 PPC Strategy: How to Prepare Your Campaigns for Black Friday, Cyber Monday, and the Holiday Rush in 2026
+- **URL**: https://daniks.ai/blog/amazon-q4-ppc-strategy
+- **Primary Topic**: Amazon Q4 PPC strategy, Black Friday PPC, Cyber Monday PPC, holiday advertising, 12-week prep timeline, Q4 budget formula by phase, Cyber Week daily checklist, December gift rush playbook, post-Q4 audit, dayparting and placement modifiers for peak season
+- **When to Link**: In articles about seasonal PPC strategy, holiday planning, ad spend scaling, Cyber Week tactics, Prime Day comparisons, budget planning, dayparting, placement modifiers, full-funnel campaigns (SB/SBV/SD), or Q4 inventory and listing prep
+- **Anchor Text Examples**: "our Amazon Q4 PPC strategy guide", "Black Friday PPC strategy", "how to prepare Amazon PPC for Cyber Monday", "Q4 holiday advertising playbook"
+
+### Amazon PPC on a Small Budget: How to Run Profitable Ads Starting at $10/Day in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-small-budget
+- **Primary Topic**: Amazon PPC on a small budget, $10/day starter campaigns, low-budget PPC strategy, daily budget math for small sellers, three-campaign structure for $10-$50/day, cheapest Amazon PPC tools, real small-seller scenarios
+- **When to Link**: In articles about beginner PPC, PPC budgets, PPC for small sellers, new seller guides, PPC automation cost tradeoffs, free vs paid tools, or anywhere the question "how much should I spend" comes up
+- **Anchor Text Examples**: "our Amazon PPC small budget guide", "how to run Amazon PPC on $10/day", "PPC strategy for low-budget sellers", "small-budget Amazon advertising playbook"
+
 ## Comparison Pages (Future)
 
 As comparison content is created, add entries here:
-- Daniks.AI vs Teikametrics
 
 ---
 
@@ -269,19 +394,39 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-keyword-research - Keyword research and strategy guide
 - https://daniks.ai/blog/amazon-sponsored-products-optimization - Sponsored Products optimization guide
 - https://daniks.ai/blog/amazon-sponsored-brands-guide - Sponsored Brands setup and optimization guide
+- https://daniks.ai/blog/amazon-sponsored-brands-video-ads - Sponsored Brands video ads complete guide
 - https://daniks.ai/blog/amazon-sponsored-display-guide - Sponsored Display setup and optimization guide
 - https://daniks.ai/blog/amazon-product-launch-ppc-strategy - Product launch PPC strategy guide
 - https://daniks.ai/blog/amazon-negative-keywords-guide - Negative keywords and wasted spend reduction
 - https://daniks.ai/blog/amazon-ppc-match-types - Broad, phrase, and exact match guide
+- https://daniks.ai/blog/amazon-ppc-placements - Top of Search, Product Pages, Rest of Search bid modifier guide
+- https://daniks.ai/blog/what-is-amazon-acos-complete-guide - Complete Amazon ACoS pillar guide
+- https://daniks.ai/blog/advanced-amazon-ppc-strategies - Advanced PPC strategies for scaling
+- https://daniks.ai/blog/amazon-search-term-report - Amazon search term report guide and weekly workflow
+- https://daniks.ai/blog/amazon-ppc-dayparting - Amazon PPC dayparting guide (schedule bids by time of day)
+- https://daniks.ai/blog/amazon-brand-analytics - Amazon Brand Analytics guide (SQP, Top Search Terms, share-gap audit)
+- https://daniks.ai/blog/amazon-ppc-costs-benchmarks-2026 - Amazon PPC costs and CPC benchmarks by category (2026)
+- https://daniks.ai/blog/amazon-sales-rank-bsr-guide - Amazon Sales Rank / BSR complete guide (velocity, 8 levers, myths)
+- https://daniks.ai/blog/amazon-asin-targeting - Amazon ASIN targeting complete guide (competitor + defensive)
+- https://daniks.ai/blog/amazon-ad-types-comparison - Amazon PPC campaign types comparison (SP vs SB vs SD)
+- https://daniks.ai/blog/amazon-buy-box-guide - Amazon Buy Box / Featured Offer complete guide (eligibility, algorithm, PPC link)
+- https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
+- https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
+- https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
+- https://daniks.ai/blog/amazon-q4-ppc-strategy - Amazon Q4 PPC strategy (Black Friday, Cyber Monday, holiday rush playbook)
+- https://daniks.ai/blog/amazon-ppc-small-budget - Amazon PPC on a small budget ($10/day playbook, three-campaign structure, cheapest tools)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
 - https://daniks.ai/blog/best-amazon-ppc-tools-2026 - Best Amazon PPC tools roundup
+- https://daniks.ai/blog/adspert-alternatives-amazon-ppc-2026 - Adspert alternatives guide
+- https://daniks.ai/blog/perpetua-alternatives-amazon-ppc-2026 - Perpetua alternatives guide
 - https://daniks.ai/blog/daniks-vs-adspert-amazon-ppc-2026 - Adspert comparison
 - https://daniks.ai/blog/daniks-vs-perpetua-amazon-ppc-2026 - Perpetua comparison
 - https://daniks.ai/blog/daniks-vs-pacvue-amazon-ppc-2026 - Pacvue comparison
 - https://daniks.ai/blog/daniks-vs-quartile-amazon-ppc-2026 - Quartile comparison
 - https://daniks.ai/blog/daniks-vs-helium10-adtomic-amazon-ppc-2026 - Helium 10 Adtomic comparison
+- https://daniks.ai/blog/daniks-vs-teikametrics-amazon-ppc-2026 - Teikametrics comparison
 - https://daniks.ai/#pricing - Pricing section
 - https://app.daniks.ai/signup/ - Free trial CTA
 
@@ -289,6 +434,8 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/chinese-sellers-amazon-de-2026 - Amazon.de research
 - https://daniks.ai/blog/amazon-q1-2026-success-tips - Seasonal strategy
 - https://daniks.ai/blog/amazon-prime-day-ppc-strategy - Prime Day PPC strategy
+- https://daniks.ai/blog/amazon-q4-ppc-strategy - Q4 / Black Friday / Cyber Monday PPC strategy
+- https://daniks.ai/blog/amazon-ppc-european-sellers-guide - EU marketplace PPC strategies
 
 **When writing about reviews and listings**, link to:
 - https://daniks.ai/blog/handling-negative-amazon-reviews-2026 - Review management
