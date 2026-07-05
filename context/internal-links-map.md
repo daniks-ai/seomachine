@@ -364,6 +364,18 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about beginner PPC, PPC budgets, PPC for small sellers, new seller guides, PPC automation cost tradeoffs, free vs paid tools, or anywhere the question "how much should I spend" comes up
 - **Anchor Text Examples**: "our Amazon PPC small budget guide", "how to run Amazon PPC on $10/day", "PPC strategy for low-budget sellers", "small-budget Amazon advertising playbook"
 
+### What Is Amazon TACoS? The Complete Guide to Total Advertising Cost of Sales in 2026
+- **URL**: https://daniks.ai/blog/what-is-amazon-tacos-complete-guide
+- **Primary Topic**: Amazon TACoS pillar guide, what is TACoS, TACoS formula, TACoS vs ACoS, good TACoS benchmarks, per-product TACoS calculation, 5 levers to lower TACoS (organic ranking, listing CVR, wasted spend, match-type discipline, bid automation), account-level vs campaign-level metrics
+- **When to Link**: In articles about ACoS optimization, PPC metrics, profitability, scaling ad spend, organic ranking, listing CVR, bid strategy, automation, or anywhere the account-level advertising cost question comes up
+- **Anchor Text Examples**: "what is Amazon TACoS", "our complete Amazon TACoS guide", "the TACoS pillar guide", "TACoS explained", "how to calculate TACoS on Amazon"
+
+### Amazon DSP: The Complete Guide to Demand-Side Platform Advertising in 2026
+- **URL**: https://daniks.ai/blog/amazon-dsp-guide
+- **Primary Topic**: Amazon DSP (Demand-Side Platform), programmatic display and video advertising, DSP vs Sponsored Ads, DSP audience targeting (in-market, lifestyle, remarketing, contextual), DSP cost/CPM/self-service minimums 2026, when DSP makes sense, full-funnel advertising
+- **When to Link**: In articles about ad types, Sponsored Display, retargeting/audience targeting, full-funnel PPC strategy, ASIN targeting, brand awareness, scaling beyond Sponsored Ads, or when a seller has maxed out search-based demand
+- **Anchor Text Examples**: "our Amazon DSP guide", "what is Amazon DSP", "Amazon DSP vs Sponsored Ads", "when Amazon DSP is worth it", "Amazon Demand-Side Platform explained"
+
 ## Comparison Pages (Future)
 
 As comparison content is created, add entries here:
@@ -409,12 +421,14 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-sales-rank-bsr-guide - Amazon Sales Rank / BSR complete guide (velocity, 8 levers, myths)
 - https://daniks.ai/blog/amazon-asin-targeting - Amazon ASIN targeting complete guide (competitor + defensive)
 - https://daniks.ai/blog/amazon-ad-types-comparison - Amazon PPC campaign types comparison (SP vs SB vs SD)
+- https://daniks.ai/blog/amazon-dsp-guide - Amazon DSP complete guide (programmatic display/video, audiences, cost, when it's worth it)
 - https://daniks.ai/blog/amazon-buy-box-guide - Amazon Buy Box / Featured Offer complete guide (eligibility, algorithm, PPC link)
 - https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
 - https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
 - https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
 - https://daniks.ai/blog/amazon-q4-ppc-strategy - Amazon Q4 PPC strategy (Black Friday, Cyber Monday, holiday rush playbook)
 - https://daniks.ai/blog/amazon-ppc-small-budget - Amazon PPC on a small budget ($10/day playbook, three-campaign structure, cheapest tools)
+- https://daniks.ai/blog/what-is-amazon-tacos-complete-guide - Complete Amazon TACoS pillar guide (formula, benchmarks, 5 levers, account-level optimization)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
