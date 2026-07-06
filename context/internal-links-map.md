@@ -376,6 +376,14 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ad types, Sponsored Display, retargeting/audience targeting, full-funnel PPC strategy, ASIN targeting, brand awareness, scaling beyond Sponsored Ads, or when a seller has maxed out search-based demand
 - **Anchor Text Examples**: "our Amazon DSP guide", "what is Amazon DSP", "Amazon DSP vs Sponsored Ads", "when Amazon DSP is worth it", "Amazon Demand-Side Platform explained"
 
+### Amazon Brand Store: How to Build a Storefront That Turns Browsers Into Buyers in 2026
+- **URL**: https://daniks.ai/blog/amazon-brand-store-guide
+- **Primary Topic**: Amazon Brand Store (storefront), Store builder setup, page structure best practices, Store Spotlight ad format, driving traffic (Sponsored Brands, SBV, external via Amazon Attribution, DSP), Store Insights metrics, Brand Registry benefit
+- **When to Link**: In articles about Sponsored Brands, Sponsored Brands Video, A+ Content, listing optimization, conversion rate, full-funnel PPC, brand building, Brand Registry benefits, external traffic, or DSP landing destinations
+- **Anchor Text Examples**: "our Amazon Brand Store guide", "how to build an Amazon Brand Store", "Amazon storefront guide", "Brand Store structure best practices"
+
+---
+
 ## Comparison Pages (Future)
 
 As comparison content is created, add entries here:
@@ -429,6 +437,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-q4-ppc-strategy - Amazon Q4 PPC strategy (Black Friday, Cyber Monday, holiday rush playbook)
 - https://daniks.ai/blog/amazon-ppc-small-budget - Amazon PPC on a small budget ($10/day playbook, three-campaign structure, cheapest tools)
 - https://daniks.ai/blog/what-is-amazon-tacos-complete-guide - Complete Amazon TACoS pillar guide (formula, benchmarks, 5 levers, account-level optimization)
+- https://daniks.ai/blog/amazon-brand-store-guide - Amazon Brand Store guide (storefront setup, structure, traffic sources, Store Insights)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
