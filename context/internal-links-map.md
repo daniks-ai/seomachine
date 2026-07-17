@@ -382,6 +382,36 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about Sponsored Brands, Sponsored Brands Video, A+ Content, listing optimization, conversion rate, full-funnel PPC, brand building, Brand Registry benefits, external traffic, or DSP landing destinations
 - **Anchor Text Examples**: "our Amazon Brand Store guide", "how to build an Amazon Brand Store", "Amazon storefront guide", "Brand Store structure best practices"
 
+### Amazon PPC Bulk Operations: How to Edit Hundreds of Campaigns Without Losing Your Mind in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-bulk-operations
+- **Primary Topic**: Amazon PPC bulk operations, bulksheets, bulk upload campaign data, batch bid/budget/negative edits, bulksheet anatomy (Entity/Operation columns), safe bulk-editing workflow, when to use bulksheets vs console vs automation
+- **When to Link**: In articles about campaign management at scale, bid strategy, negative keywords, search term reports, PPC audits, automation, or anywhere editing many campaigns at once comes up
+- **Anchor Text Examples**: "our Amazon bulk operations guide", "how to use Amazon bulksheets", "edit campaigns in bulk", "the bulksheet workflow"
+
+### Amazon Attribution: How to Track External Traffic and Unlock the Brand Referral Bonus in 2026
+- **URL**: https://daniks.ai/blog/amazon-attribution-guide
+- **Primary Topic**: Amazon Attribution, tracking off-Amazon traffic (Google, Meta, TikTok, email, influencers), attribution tags, Brand Referral Bonus (BRB) 10% cashback, external traffic strategy, Attribution reports and purchase rate by channel, 14-day attribution window
+- **When to Link**: In articles about external traffic, Brand Store, DSP, influencer/social/email marketing, sales velocity and organic rank, conversion rate, or measuring off-Amazon marketing impact on Amazon sales
+- **Anchor Text Examples**: "our Amazon Attribution guide", "how to track external traffic to Amazon", "the Brand Referral Bonus explained", "Amazon Attribution setup guide"
+
+### Amazon Sponsored TV Ads: The Complete Guide (2026)
+- **URL**: https://daniks.ai/blog/amazon-sponsored-tv-ads
+- **Primary Topic**: Amazon Sponsored TV ads, self-service streaming TV advertising with no minimum spend, where ads run (Prime Video, Fire TV, Twitch, third-party streaming apps), CPM pricing ($20-$45 range) and the budget math that makes a test readable, Sponsored TV vs DSP vs Sponsored Brands Video, audience targeting (in-market, lifestyle, remarketing, genre, product), creative requirements for couch-distance viewing, launching a first campaign, why ACoS is the wrong metric and what to measure instead (NTB, DPVR, branded search, TACoS), who should skip the format
+- **When to Link**: In articles about DSP, Sponsored Brands Video, ad types, upper-funnel/brand awareness, New-to-Brand metrics, attribution, brand building, video creative, CPM advertising, or Q4/seasonal budget planning
+- **Anchor Text Examples**: "our Amazon Sponsored TV guide", "Sponsored TV vs DSP", "streaming TV ads on Amazon", "how Amazon Sponsored TV ads work"
+
+### Amazon New-to-Brand Metrics: The Complete 2026 Guide
+- **URL**: https://daniks.ai/blog/amazon-new-to-brand-metrics
+- **Primary Topic**: Amazon New-to-Brand (NTB) metrics, new vs returning customers, % of orders/sales new-to-brand, cost per new-to-brand customer, how to calculate NTB percentage, NTB vs ACoS, reading NTB against customer lifetime value (LTV), which campaigns (Sponsored Brands/Video/Display/DSP) to optimize for acquisition, NTB reporting availability (not on Sponsored Products), Brand Registry requirement
+- **When to Link**: In articles about Sponsored Brands, Sponsored Display, DSP, Brand Analytics, Brand Store, brand growth, customer acquisition, ACoS/TACoS, lifetime value, or measuring whether ads bring new customers
+- **Anchor Text Examples**: "our New-to-Brand metrics guide", "what New-to-Brand metrics mean", "how to measure new customer acquisition", "NTB vs ACoS explained"
+
+### What Is Amazon ROAS? The Complete Guide to Return on Ad Spend in 2026
+- **URL**: https://daniks.ai/blog/what-is-amazon-roas-complete-guide
+- **Primary Topic**: Amazon ROAS (Return on Ad Spend), ROAS formula (Ad Sales ÷ Ad Spend), ROAS vs ACoS inverse relationship (ROAS = 100 ÷ ACoS), ROAS vs TACoS vs ROI, good ROAS by category, break-even ROAS (1 ÷ margin), target ROAS by product goal, 6 levers to improve ROAS, when ROAS is the wrong metric
+- **When to Link**: In articles about PPC metrics, ACoS, TACoS, profitability, bid strategy, PPC costs, sellers migrating from Google/Meta advertising, or anywhere ROAS is mentioned for the first time
+- **Anchor Text Examples**: "what is Amazon ROAS", "our complete Amazon ROAS guide", "ROAS vs ACoS explained", "how to calculate ROAS on Amazon", "break-even ROAS formula"
+
 ---
 
 ## Comparison Pages (Future)
@@ -438,6 +468,9 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-small-budget - Amazon PPC on a small budget ($10/day playbook, three-campaign structure, cheapest tools)
 - https://daniks.ai/blog/what-is-amazon-tacos-complete-guide - Complete Amazon TACoS pillar guide (formula, benchmarks, 5 levers, account-level optimization)
 - https://daniks.ai/blog/amazon-brand-store-guide - Amazon Brand Store guide (storefront setup, structure, traffic sources, Store Insights)
+- https://daniks.ai/blog/amazon-ppc-bulk-operations - Amazon PPC bulk operations / bulksheets guide (batch edits, safe workflow, automation ceiling)
+- https://daniks.ai/blog/amazon-attribution-guide - Amazon Attribution guide (track external traffic, Brand Referral Bonus, tags, reports)
+- https://daniks.ai/blog/what-is-amazon-roas-complete-guide - Complete Amazon ROAS pillar guide (formula, ROAS vs ACoS, break-even ROAS, category benchmarks, 6 levers)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
