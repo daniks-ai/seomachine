@@ -412,6 +412,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about PPC metrics, ACoS, TACoS, profitability, bid strategy, PPC costs, sellers migrating from Google/Meta advertising, or anywhere ROAS is mentioned for the first time
 - **Anchor Text Examples**: "what is Amazon ROAS", "our complete Amazon ROAS guide", "ROAS vs ACoS explained", "how to calculate ROAS on Amazon", "break-even ROAS formula"
 
+### Amazon Inventory Management: How Stockouts Quietly Kill Your PPC, BSR, and Buy Box in 2026
+- **URL**: https://daniks.ai/blog/amazon-inventory-management-guide
+- **Primary Topic**: Amazon inventory management, how stockouts cascade into lost BSR/organic rank, Buy Box loss stopping ad serving, wasted ad spend, days of supply, sell-through rate, IPI (Inventory Performance Index), replenishment lead time, reorder point formula, restock limits, overstocking and aged-inventory fees, the advertiser's inventory playbook (throttle ads on low stock, protect winners, sync launches with supply)
+- **When to Link**: In articles about Buy Box, BSR/sales velocity, PPC audits, product launch strategy, Q4/seasonal planning, PPC costs/wasted spend, ACoS spikes, or anywhere stock availability affects ad performance
+- **Anchor Text Examples**: "our Amazon inventory management guide", "how stockouts hurt your PPC", "why running out of stock tanks your rank", "the reorder point formula", "IPI and restock limits explained"
+
 ---
 
 ## Comparison Pages (Future)
@@ -471,6 +477,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-bulk-operations - Amazon PPC bulk operations / bulksheets guide (batch edits, safe workflow, automation ceiling)
 - https://daniks.ai/blog/amazon-attribution-guide - Amazon Attribution guide (track external traffic, Brand Referral Bonus, tags, reports)
 - https://daniks.ai/blog/what-is-amazon-roas-complete-guide - Complete Amazon ROAS pillar guide (formula, ROAS vs ACoS, break-even ROAS, category benchmarks, 6 levers)
+- https://daniks.ai/blog/amazon-inventory-management-guide - Amazon inventory management guide (stockouts vs PPC/BSR/Buy Box, reorder point, IPI, restock limits)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
