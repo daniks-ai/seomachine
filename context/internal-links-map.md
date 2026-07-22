@@ -418,6 +418,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about Buy Box, BSR/sales velocity, PPC audits, product launch strategy, Q4/seasonal planning, PPC costs/wasted spend, ACoS spikes, or anywhere stock availability affects ad performance
 - **Anchor Text Examples**: "our Amazon inventory management guide", "how stockouts hurt your PPC", "why running out of stock tanks your rank", "the reorder point formula", "IPI and restock limits explained"
 
+### Amazon Rufus: How to Optimize for AI Search in 2026
+- **URL**: https://daniks.ai/blog/amazon-rufus-ai-search-optimization
+- **Primary Topic**: Amazon Rufus (AI shopping assistant), AI/conversational search optimization, structured attributes over adjectives, use cases as discoverable surface area, reviews as AI source material, optimizing listings/A+/bullets for AI answers, the long-tail conversational query shift in search term reports, funded discovery layer + fast harvesting loop for AI-era PPC, measuring AI search via query-length trend (no Rufus attribution), 30-day Rufus action plan
+- **When to Link**: In articles about Amazon SEO, listing optimization, A+ Content, keyword research, search term reports, reviews, conversion rate, auto vs manual/discovery campaigns, or any content about AI-driven discovery and future-proofing PPC
+- **Anchor Text Examples**: "our Amazon Rufus optimization guide", "how to optimize for Amazon Rufus", "optimizing listings for AI search", "the AI search PPC playbook"
+
 ---
 
 ## Comparison Pages (Future)
@@ -478,6 +484,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-attribution-guide - Amazon Attribution guide (track external traffic, Brand Referral Bonus, tags, reports)
 - https://daniks.ai/blog/what-is-amazon-roas-complete-guide - Complete Amazon ROAS pillar guide (formula, ROAS vs ACoS, break-even ROAS, category benchmarks, 6 levers)
 - https://daniks.ai/blog/amazon-inventory-management-guide - Amazon inventory management guide (stockouts vs PPC/BSR/Buy Box, reorder point, IPI, restock limits)
+- https://daniks.ai/blog/amazon-rufus-ai-search-optimization - Amazon Rufus / AI search optimization guide (structured attributes, reviews as AI source, discovery-layer PPC for conversational queries)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
