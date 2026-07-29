@@ -394,6 +394,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about external traffic, Brand Store, DSP, influencer/social/email marketing, sales velocity and organic rank, conversion rate, or measuring off-Amazon marketing impact on Amazon sales
 - **Anchor Text Examples**: "our Amazon Attribution guide", "how to track external traffic to Amazon", "the Brand Referral Bonus explained", "Amazon Attribution setup guide"
 
+### Amazon Marketing Cloud (AMC): A Practical Guide for Sellers
+- **URL**: https://daniks.ai/blog/amazon-marketing-cloud-guide
+- **Primary Topic**: Amazon Marketing Cloud (AMC), clean room analytics, event-level cross-channel measurement, path to conversion, deduplicated conversions, audience overlap, ad frequency/saturation, time to conversion, new-to-brand by path, who should use AMC, how to access AMC, insight-to-action automation
+- **When to Link**: In articles about advanced measurement/analytics, Amazon DSP, attribution, new-to-brand metrics, brand analytics, TACoS/ROAS, cross-channel strategy, or turning ad data into bid/budget decisions
+- **Anchor Text Examples**: "our Amazon Marketing Cloud guide", "how AMC clean room analytics work", "what Amazon Marketing Cloud reveals", "AMC path-to-conversion analysis"
+
 ### Amazon Sponsored TV Ads: The Complete Guide (2026)
 - **URL**: https://daniks.ai/blog/amazon-sponsored-tv-ads
 - **Primary Topic**: Amazon Sponsored TV ads, self-service streaming TV advertising with no minimum spend, where ads run (Prime Video, Fire TV, Twitch, third-party streaming apps), CPM pricing ($20-$45 range) and the budget math that makes a test readable, Sponsored TV vs DSP vs Sponsored Brands Video, audience targeting (in-market, lifestyle, remarketing, genre, product), creative requirements for couch-distance viewing, launching a first campaign, why ACoS is the wrong metric and what to measure instead (NTB, DPVR, branded search, TACoS), who should skip the format
@@ -423,6 +429,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **Primary Topic**: Amazon Rufus (AI shopping assistant), AI/conversational search optimization, structured attributes over adjectives, use cases as discoverable surface area, reviews as AI source material, optimizing listings/A+/bullets for AI answers, the long-tail conversational query shift in search term reports, funded discovery layer + fast harvesting loop for AI-era PPC, measuring AI search via query-length trend (no Rufus attribution), 30-day Rufus action plan
 - **When to Link**: In articles about Amazon SEO, listing optimization, A+ Content, keyword research, search term reports, reviews, conversion rate, auto vs manual/discovery campaigns, or any content about AI-driven discovery and future-proofing PPC
 - **Anchor Text Examples**: "our Amazon Rufus optimization guide", "how to optimize for Amazon Rufus", "optimizing listings for AI search", "the AI search PPC playbook"
+
+### Amazon Advertising Portfolios: The Complete 2026 Guide
+- **URL**: https://daniks.ai/blog/amazon-advertising-portfolios-guide
+- **Primary Topic**: Amazon advertising portfolios, campaign grouping above the campaign level, portfolio budget caps (recurring monthly vs date range) and the hard-stop delivery behavior, the 31x daily-budget rule to avoid mid-month blackouts, four grouping schemes (product line/brand, lifecycle stage, campaign type/funnel, marketplace/client), portfolio naming conventions, bulksheet assignment, reading portfolio reports (spread check, share check, trend check), when portfolios stop being enough
+- **When to Link**: In articles about PPC budgets, campaign structure, bulk operations, PPC audits, account organization at scale, agency/multi-brand management, multi-marketplace selling, or anywhere budget pacing and ad spend containment come up
+- **Anchor Text Examples**: "our Amazon advertising portfolios guide", "how portfolio budget caps work", "the portfolio budget blackout trap", "how to organize campaigns with portfolios"
 
 ---
 
@@ -482,9 +494,11 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-brand-store-guide - Amazon Brand Store guide (storefront setup, structure, traffic sources, Store Insights)
 - https://daniks.ai/blog/amazon-ppc-bulk-operations - Amazon PPC bulk operations / bulksheets guide (batch edits, safe workflow, automation ceiling)
 - https://daniks.ai/blog/amazon-attribution-guide - Amazon Attribution guide (track external traffic, Brand Referral Bonus, tags, reports)
+- https://daniks.ai/blog/amazon-marketing-cloud-guide - Amazon Marketing Cloud (AMC) guide (clean room analytics, path to conversion, cross-channel measurement, insight-to-action automation)
 - https://daniks.ai/blog/what-is-amazon-roas-complete-guide - Complete Amazon ROAS pillar guide (formula, ROAS vs ACoS, break-even ROAS, category benchmarks, 6 levers)
 - https://daniks.ai/blog/amazon-inventory-management-guide - Amazon inventory management guide (stockouts vs PPC/BSR/Buy Box, reorder point, IPI, restock limits)
 - https://daniks.ai/blog/amazon-rufus-ai-search-optimization - Amazon Rufus / AI search optimization guide (structured attributes, reviews as AI source, discovery-layer PPC for conversational queries)
+- https://daniks.ai/blog/amazon-advertising-portfolios-guide - Amazon advertising portfolios guide (grouping schemes, budget caps and the 31x rule, portfolio reporting)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
