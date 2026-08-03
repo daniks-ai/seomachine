@@ -436,6 +436,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about PPC budgets, campaign structure, bulk operations, PPC audits, account organization at scale, agency/multi-brand management, multi-marketplace selling, or anywhere budget pacing and ad spend containment come up
 - **Anchor Text Examples**: "our Amazon advertising portfolios guide", "how portfolio budget caps work", "the portfolio budget blackout trap", "how to organize campaigns with portfolios"
 
+### Amazon PPC Agency vs Software vs In-House: How to Choose in 2026
+- **URL**: https://daniks.ai/blog/amazon-ppc-agency-vs-software
+- **Primary Topic**: Amazon PPC agency costs and fee structures (flat retainer, % of ad spend, % of ad-attributed revenue, hybrid), what agencies do that software can't (creative, launch strategy, DSP, catalog), what's been commoditized by automation, PPC software pricing models, real cost of an in-house PPC hire (loaded salary, ramp, key-person risk), the break-even table by monthly ad spend, five red-flag clauses in agency contracts, the software + quarterly consultant hybrid model
+- **When to Link**: In articles about tool comparisons, PPC automation, PPC costs and budgets, choosing how to manage campaigns, scaling ad spend, agency alternatives, PPC audits, or anywhere a seller is deciding who should run their ads
+- **Anchor Text Examples**: "Amazon PPC agency vs software", "what an Amazon PPC agency costs", "should you hire a PPC agency", "the agency vs software break-even math", "in-house Amazon PPC management costs"
+
 ---
 
 ## Comparison Pages (Future)
@@ -511,6 +517,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/daniks-vs-quartile-amazon-ppc-2026 - Quartile comparison
 - https://daniks.ai/blog/daniks-vs-helium10-adtomic-amazon-ppc-2026 - Helium 10 Adtomic comparison
 - https://daniks.ai/blog/daniks-vs-teikametrics-amazon-ppc-2026 - Teikametrics comparison
+- https://daniks.ai/blog/amazon-ppc-agency-vs-software - Agency vs software vs in-house (costs, break-even by ad spend, contract red flags)
 - https://daniks.ai/#pricing - Pricing section
 - https://app.daniks.ai/signup/ - Free trial CTA
 
