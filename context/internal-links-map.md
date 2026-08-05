@@ -505,6 +505,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-inventory-management-guide - Amazon inventory management guide (stockouts vs PPC/BSR/Buy Box, reorder point, IPI, restock limits)
 - https://daniks.ai/blog/amazon-rufus-ai-search-optimization - Amazon Rufus / AI search optimization guide (structured attributes, reviews as AI source, discovery-layer PPC for conversational queries)
 - https://daniks.ai/blog/amazon-advertising-portfolios-guide - Amazon advertising portfolios guide (grouping schemes, budget caps and the 31x rule, portfolio reporting)
+- https://daniks.ai/blog/amazon-vine-program-guide - Amazon Vine program guide (eligibility, enrollment tiers, real cost per review, CVR payback math, launch sequencing)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
@@ -533,6 +534,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/how-to-get-more-amazon-reviews - Review generation tactics
 - https://daniks.ai/blog/amazon-listing-optimization - Listing optimization guide
 - https://daniks.ai/blog/amazon-a-plus-content-guide - A+ Content strategy guide
+- https://daniks.ai/blog/amazon-vine-program-guide - Amazon Vine program (cost per review, when to enroll, when to skip)
 - https://daniks.ai/#features - Product review automation feature
 
 ---
