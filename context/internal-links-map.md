@@ -506,6 +506,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-rufus-ai-search-optimization - Amazon Rufus / AI search optimization guide (structured attributes, reviews as AI source, discovery-layer PPC for conversational queries)
 - https://daniks.ai/blog/amazon-advertising-portfolios-guide - Amazon advertising portfolios guide (grouping schemes, budget caps and the 31x rule, portfolio reporting)
 - https://daniks.ai/blog/amazon-vine-program-guide - Amazon Vine program guide (eligibility, enrollment tiers, real cost per review, CVR payback math, launch sequencing)
+- https://daniks.ai/blog/amazon-coupons-deals-promotions-guide - Amazon coupons and deals playbook (six promotion types, true margin cost, CVR-to-ACoS link, bid moves during and after a promo)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
