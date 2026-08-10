@@ -442,6 +442,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about tool comparisons, PPC automation, PPC costs and budgets, choosing how to manage campaigns, scaling ad spend, agency alternatives, PPC audits, or anywhere a seller is deciding who should run their ads
 - **Anchor Text Examples**: "Amazon PPC agency vs software", "what an Amazon PPC agency costs", "should you hire a PPC agency", "the agency vs software break-even math", "in-house Amazon PPC management costs"
 
+### How the Amazon PPC Auction Works: Why You Pay Less Than You Bid
+- **URL**: https://daniks.ai/blog/amazon-ppc-auction-explained
+- **Primary Topic**: Amazon PPC auction mechanics, second-price (Vickrey) auction, ad rank = effective bid × expected performance, the four eligibility gates before the auction (Buy Box, stock, targeting match, reserve price), why CPC is always below bid, the bid-to-CPC ratio as a competitive read, separate per-placement auctions (Top of Search / Rest of Search / Product Pages), how placement modifiers and dynamic bidding stack into the effective bid ($1.00 → $3.00), match type as eligibility not ranking advantage, six levers to win auctions cheaper, 20-minute auction audit, FAQ
+- **When to Link**: In articles about bid strategy, placements, match types, CPC costs, ACoS optimization, Buy Box, conversion rate, PPC audits, automation, or anywhere a seller asks why raising bids didn't work, why CPC differs from bid, or how Amazon decides ad position
+- **Anchor Text Examples**: "how the Amazon PPC auction works", "the Amazon second-price auction explained", "why your CPC is lower than your bid", "what ad rank actually is", "our Amazon PPC auction guide"
+
 ---
 
 ## Comparison Pages (Future)
@@ -507,6 +513,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-advertising-portfolios-guide - Amazon advertising portfolios guide (grouping schemes, budget caps and the 31x rule, portfolio reporting)
 - https://daniks.ai/blog/amazon-vine-program-guide - Amazon Vine program guide (eligibility, enrollment tiers, real cost per review, CVR payback math, launch sequencing)
 - https://daniks.ai/blog/amazon-coupons-deals-promotions-guide - Amazon coupons and deals playbook (six promotion types, true margin cost, CVR-to-ACoS link, bid moves during and after a promo)
+- https://daniks.ai/blog/amazon-ppc-auction-explained - How the Amazon PPC auction works (second-price bidding, ad rank, effective bid stacking, bid-to-CPC ratio audit)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
