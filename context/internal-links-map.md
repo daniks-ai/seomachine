@@ -448,6 +448,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about bid strategy, placements, match types, CPC costs, ACoS optimization, Buy Box, conversion rate, PPC audits, automation, or anywhere a seller asks why raising bids didn't work, why CPC differs from bid, or how Amazon decides ad position
 - **Anchor Text Examples**: "how the Amazon PPC auction works", "the Amazon second-price auction explained", "why your CPC is lower than your bid", "what ad rank actually is", "our Amazon PPC auction guide"
 
+### Amazon Product Opportunity Explorer: Read the Data, Not the Headline Number
+- **URL**: https://daniks.ai/blog/amazon-product-opportunity-explorer
+- **Primary Topic**: Amazon Product Opportunity Explorer (POE), niche-level first-party demand data, access requirements (Professional account, no Brand Registry needed), the six metrics that decide a niche (search volume + growth read together, top-3 click share concentration as a CPC predictor, price spread vs average, units per product, average return rate and its effect on real ACoS, review-count benchmark as time-to-competitive), the four tabs (Products, Search Terms, Insights, Trends), turning the Search Terms export into a seed keyword list bucketed by conversion share, estimating CPC from click share before launch, pacing budget off the Trends curve, capping ad spend by return rate, POE vs Helium 10 / Jungle Scout comparison table, five mistakes, FAQ
+- **When to Link**: In articles about product research, niche selection, product launches, keyword research and seed lists, demand validation, seasonality and budget pacing, return rates, BSR, listing optimization, tool comparisons, or anywhere a seller is deciding what to launch or which niche deserves ad spend
+- **Anchor Text Examples**: "Amazon Product Opportunity Explorer", "how to read Product Opportunity Explorer data", "find niches worth advertising in", "click share concentration and what it costs you", "our Product Opportunity Explorer guide"
+
 ---
 
 ## Comparison Pages (Future)
@@ -514,6 +520,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-vine-program-guide - Amazon Vine program guide (eligibility, enrollment tiers, real cost per review, CVR payback math, launch sequencing)
 - https://daniks.ai/blog/amazon-coupons-deals-promotions-guide - Amazon coupons and deals playbook (six promotion types, true margin cost, CVR-to-ACoS link, bid moves during and after a promo)
 - https://daniks.ai/blog/amazon-ppc-auction-explained - How the Amazon PPC auction works (second-price bidding, ad rank, effective bid stacking, bid-to-CPC ratio audit)
+- https://daniks.ai/blog/amazon-product-opportunity-explorer - Amazon Product Opportunity Explorer guide (niche metrics, click share concentration, return rate, four tabs, search-term seed lists, POE vs third-party tools)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
