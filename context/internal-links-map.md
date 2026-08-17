@@ -528,6 +528,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-auction-explained - How the Amazon PPC auction works (second-price bidding, ad rank, effective bid stacking, bid-to-CPC ratio audit)
 - https://daniks.ai/blog/amazon-product-opportunity-explorer - Amazon Product Opportunity Explorer guide (niche metrics, click share concentration, return rate, four tabs, search-term seed lists, POE vs third-party tools)
 - https://daniks.ai/blog/amazon-fba-fees-guide - Amazon FBA fees complete breakdown (every fee, worked unit economics, break-even ACoS formula, five ways to lower fees)
+- https://daniks.ai/blog/amazon-brand-registry-guide - Amazon Brand Registry complete guide (requirements, enrollment steps, IP Accelerator shortcut, the 60% of ad inventory it gates, first-90-days playbook, rejection reasons)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
