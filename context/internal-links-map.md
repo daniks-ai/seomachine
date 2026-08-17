@@ -454,6 +454,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about product research, niche selection, product launches, keyword research and seed lists, demand validation, seasonality and budget pacing, return rates, BSR, listing optimization, tool comparisons, or anywhere a seller is deciding what to launch or which niche deserves ad spend
 - **Anchor Text Examples**: "Amazon Product Opportunity Explorer", "how to read Product Opportunity Explorer data", "find niches worth advertising in", "click share concentration and what it costs you", "our Product Opportunity Explorer guide"
 
+### Amazon FBA Fees in 2026: The Complete Breakdown
+- **URL**: https://daniks.ai/blog/amazon-fba-fees-guide
+- **Primary Topic**: Amazon FBA fees, referral fee by category, fulfillment fee by size tier and weight, monthly storage and Q4 tripling, aged inventory surcharge, inbound placement service fee, low-inventory-level fee, returns processing fee, worked per-unit unit-economics example, contribution margin, break-even ACoS formula, five ways to lower FBA fees
+- **When to Link**: In articles about ACoS and break-even math, PPC budgets, profitability and margin, inventory management, product launch costing, listing/conversion economics, pricing decisions, or anywhere a seller needs to know what is left over per unit before advertising
+- **Anchor Text Examples**: "our Amazon FBA fees breakdown", "every FBA fee explained", "how FBA fees set your break-even ACoS", "the FBA fee stack", "Amazon FBA fees in 2026"
+
 ---
 
 ## Comparison Pages (Future)
@@ -521,6 +527,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-coupons-deals-promotions-guide - Amazon coupons and deals playbook (six promotion types, true margin cost, CVR-to-ACoS link, bid moves during and after a promo)
 - https://daniks.ai/blog/amazon-ppc-auction-explained - How the Amazon PPC auction works (second-price bidding, ad rank, effective bid stacking, bid-to-CPC ratio audit)
 - https://daniks.ai/blog/amazon-product-opportunity-explorer - Amazon Product Opportunity Explorer guide (niche metrics, click share concentration, return rate, four tabs, search-term seed lists, POE vs third-party tools)
+- https://daniks.ai/blog/amazon-fba-fees-guide - Amazon FBA fees complete breakdown (every fee, worked unit economics, break-even ACoS formula, five ways to lower fees)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
