@@ -455,6 +455,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **Anchor Text Examples**: "Amazon Product Opportunity Explorer", "how to read Product Opportunity Explorer data", "find niches worth advertising in", "click share concentration and what it costs you", "our Product Opportunity Explorer guide"
 
 ### Amazon FBA Fees in 2026: The Complete Breakdown
+### Amazon Business B2B Selling Guide
+- **URL**: https://daniks.ai/blog/amazon-business-b2b-selling-guide
+- **Primary Topic**: Amazon Business for sellers, B2B share by ASIN, business pricing and five-tier quantity discounts, the 3% discount threshold that unlocks bulk order fee discounts, FBA and referral fee relief, B2B-exclusive Sponsored Products/Brands campaigns, Amazon Business placement bid adjustments and report, DSP B2B audiences, why business AOV changes break-even ACoS, business-only offers, package hierarchies, diversity certifications, 30-day rollout
+- **When to Link**: In articles about ACoS and break-even math, average order value, referral or FBA fee structure, pricing strategy, quantity discounts and promotions, campaign segmentation, Buy Box, or anywhere the customer segment behind a click changes the economics
+- **Anchor Text Examples**: "our Amazon Business B2B guide", "selling to business buyers on Amazon", "how B2B orders change your break-even ACoS", "Amazon Business quantity discounts", "advertising to Amazon Business buyers"
+
 - **URL**: https://daniks.ai/blog/amazon-fba-fees-guide
 - **Primary Topic**: Amazon FBA fees, referral fee by category, fulfillment fee by size tier and weight, monthly storage and Q4 tripling, aged inventory surcharge, inbound placement service fee, low-inventory-level fee, returns processing fee, worked per-unit unit-economics example, contribution margin, break-even ACoS formula, five ways to lower FBA fees
 - **When to Link**: In articles about ACoS and break-even math, PPC budgets, profitability and margin, inventory management, product launch costing, listing/conversion economics, pricing decisions, or anywhere a seller needs to know what is left over per unit before advertising
@@ -536,6 +542,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-fba-fees-guide - Amazon FBA fees complete breakdown (every fee, worked unit economics, break-even ACoS formula, five ways to lower fees)
 - https://daniks.ai/blog/amazon-brand-registry-guide - Amazon Brand Registry complete guide (requirements, enrollment steps, IP Accelerator shortcut, the 60% of ad inventory it gates, first-90-days playbook, rejection reasons)
 - https://daniks.ai/blog/amazon-subscribe-and-save-guide - Amazon Subscribe & Save seller guide (four eligibility gates, Amazon-funded vs seller-funded discounts, real margin cost, lifetime-value break-even ACoS math, stockout churn)
+- https://daniks.ai/blog/amazon-business-b2b-selling-guide - Amazon Business B2B seller guide (finding your B2B share by ASIN, 3% discount threshold and bulk order fee discounts, tiered quantity discounts, B2B-exclusive campaigns and business placement bid adjustments, why B2B changes break-even ACoS)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
