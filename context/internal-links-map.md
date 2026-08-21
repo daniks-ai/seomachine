@@ -460,6 +460,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS and break-even math, PPC budgets, profitability and margin, inventory management, product launch costing, listing/conversion economics, pricing decisions, or anywhere a seller needs to know what is left over per unit before advertising
 - **Anchor Text Examples**: "our Amazon FBA fees breakdown", "every FBA fee explained", "how FBA fees set your break-even ACoS", "the FBA fee stack", "Amazon FBA fees in 2026"
 
+### Amazon Subscribe & Save 2026: The Complete Seller Guide
+- **URL**: https://daniks.ai/blog/amazon-subscribe-and-save-guide
+- **Primary Topic**: Amazon Subscribe & Save for sellers, the four eligibility gates (Brand Registry + Brand Representative role, FBA auto-enrollment, product-level eligibility, in-stock rate), Amazon-funded 5% on 5+ item deliveries vs seller-funded 5%/10% tiers, worked unit economics showing the true margin cost of a 10% discount, shipments-per-subscriber as the driver of lifetime contribution, pure and blended break-even ACoS on the acquisition order (32.6% to 48.8%), why campaign ACoS rises while TACoS falls on subscription ASINs, which products deserve seller-funded money, stockout-driven subscription churn, five mistakes, FAQ
+- **When to Link**: In articles about customer lifetime value, ACoS and TACoS targets, repeat purchase and consumables, inventory planning and stockouts, promotions and discount stacking, Brand Registry benefits, or anywhere a seller is deciding how aggressively to bid for a first order
+- **Anchor Text Examples**: "our Amazon Subscribe & Save guide", "how Subscribe & Save changes your break-even ACoS", "the lifetime value math behind subscription ASINs", "Subscribe & Save discount tiers explained"
+
 ---
 
 ## Comparison Pages (Future)
@@ -529,6 +535,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-product-opportunity-explorer - Amazon Product Opportunity Explorer guide (niche metrics, click share concentration, return rate, four tabs, search-term seed lists, POE vs third-party tools)
 - https://daniks.ai/blog/amazon-fba-fees-guide - Amazon FBA fees complete breakdown (every fee, worked unit economics, break-even ACoS formula, five ways to lower fees)
 - https://daniks.ai/blog/amazon-brand-registry-guide - Amazon Brand Registry complete guide (requirements, enrollment steps, IP Accelerator shortcut, the 60% of ad inventory it gates, first-90-days playbook, rejection reasons)
+- https://daniks.ai/blog/amazon-subscribe-and-save-guide - Amazon Subscribe & Save seller guide (four eligibility gates, Amazon-funded vs seller-funded discounts, real margin cost, lifetime-value break-even ACoS math, stockout churn)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
