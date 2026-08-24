@@ -454,6 +454,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about product research, niche selection, product launches, keyword research and seed lists, demand validation, seasonality and budget pacing, return rates, BSR, listing optimization, tool comparisons, or anywhere a seller is deciding what to launch or which niche deserves ad spend
 - **Anchor Text Examples**: "Amazon Product Opportunity Explorer", "how to read Product Opportunity Explorer data", "find niches worth advertising in", "click share concentration and what it costs you", "our Product Opportunity Explorer guide"
 
+### Amazon FBA vs FBM: Which Fulfillment Method Makes You More Money
+- **URL**: https://daniks.ai/blog/amazon-fba-vs-fbm-guide
+- **Primary Topic**: FBA vs FBM comparison, two worked side-by-side fee stacks (light 2 lb item vs 9 lb heavy item), where the cost lines cross by weight and size tier, Prime badge and Buy Box handicap for FBM, scale without headcount, storage fees on slow movers, Seller Fulfilled Prime requirements, how fulfillment method moves break-even ACoS (23.8% FBA vs 29.5% FBM on the same product), six-question decision framework, hybrid FBA-primary/FBM-backup setup for stockouts, five costly mistakes, FAQ
+- **When to Link**: In articles about FBA fees, unit economics and margin, break-even ACoS and target-setting, inventory management and stockouts, Buy Box eligibility, product launch and testing, oversize or heavy products, or anywhere the cost of getting a unit to the customer changes what a campaign can afford to bid
+- **Anchor Text Examples**: "FBA vs FBM", "which fulfillment method makes more profit", "how fulfillment method changes your break-even ACoS", "when FBM beats FBA", "our FBA vs FBM breakdown"
+
 ### Amazon FBA Fees in 2026: The Complete Breakdown
 ### Amazon Business B2B Selling Guide
 - **URL**: https://daniks.ai/blog/amazon-business-b2b-selling-guide
@@ -543,6 +549,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-brand-registry-guide - Amazon Brand Registry complete guide (requirements, enrollment steps, IP Accelerator shortcut, the 60% of ad inventory it gates, first-90-days playbook, rejection reasons)
 - https://daniks.ai/blog/amazon-subscribe-and-save-guide - Amazon Subscribe & Save seller guide (four eligibility gates, Amazon-funded vs seller-funded discounts, real margin cost, lifetime-value break-even ACoS math, stockout churn)
 - https://daniks.ai/blog/amazon-business-b2b-selling-guide - Amazon Business B2B seller guide (finding your B2B share by ASIN, 3% discount threshold and bulk order fee discounts, tiered quantity discounts, B2B-exclusive campaigns and business placement bid adjustments, why B2B changes break-even ACoS)
+- https://daniks.ai/blog/amazon-fba-vs-fbm-guide - Amazon FBA vs FBM comparison (two worked fee stacks by weight, Prime/Buy Box trade-off, Seller Fulfilled Prime, how fulfillment method moves break-even ACoS, six-question decision framework)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
