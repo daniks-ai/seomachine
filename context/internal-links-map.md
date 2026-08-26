@@ -448,6 +448,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about bid strategy, placements, match types, CPC costs, ACoS optimization, Buy Box, conversion rate, PPC audits, automation, or anywhere a seller asks why raising bids didn't work, why CPC differs from bid, or how Amazon decides ad position
 - **Anchor Text Examples**: "how the Amazon PPC auction works", "the Amazon second-price auction explained", "why your CPC is lower than your bid", "what ad rank actually is", "our Amazon PPC auction guide"
 
+### Amazon Repricing Strategy: How to Win the Buy Box Without Killing Your Margin
+- **URL**: https://daniks.ai/blog/amazon-repricing-strategy-guide
+- **Primary Topic**: Amazon repricing strategy, floor price built from a full fee stack (why a 17% price cut costs 50% of profit), hard floor vs soft floor, what the Buy Box actually rewards and the 5-12% price gap an FBA/Prime offer holds, testing price upward in $0.50 steps, three repricer types compared (rule-based, algorithmic, velocity-based), rules that avoid price wars (exclude non-comparable sellers, match instead of undercut, raise rule, 5% daily movement cap, stockout ceiling and fair pricing policy), repricing by product role (traffic driver, margin, aged inventory, launch), how price moves break-even ACoS (40.7% at $29.99 vs 35.3% at $24.99), six repricing traps, 60-day scorecard (Buy Box share, ASP, unit margin, TACoS), FAQ
+- **When to Link**: In articles about Buy Box, pricing and margin, FBA fees and unit economics, break-even ACoS and target-setting, conversion rate, inventory age and storage fees, product launches, Q4 planning, or anywhere the selling price changes what a campaign can afford to bid
+- **Anchor Text Examples**: "Amazon repricing strategy", "how to set a floor price that survives ads", "why price changes your break-even ACoS", "repricing rules that don't start price wars", "our repricing guide"
+
 ### Amazon Product Opportunity Explorer: Read the Data, Not the Headline Number
 - **URL**: https://daniks.ai/blog/amazon-product-opportunity-explorer
 - **Primary Topic**: Amazon Product Opportunity Explorer (POE), niche-level first-party demand data, access requirements (Professional account, no Brand Registry needed), the six metrics that decide a niche (search volume + growth read together, top-3 click share concentration as a CPC predictor, price spread vs average, units per product, average return rate and its effect on real ACoS, review-count benchmark as time-to-competitive), the four tabs (Products, Search Terms, Insights, Trends), turning the Search Terms export into a seed keyword list bucketed by conversion share, estimating CPC from click share before launch, pacing budget off the Trends curve, capping ad spend by return rate, POE vs Helium 10 / Jungle Scout comparison table, five mistakes, FAQ
@@ -550,6 +556,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-subscribe-and-save-guide - Amazon Subscribe & Save seller guide (four eligibility gates, Amazon-funded vs seller-funded discounts, real margin cost, lifetime-value break-even ACoS math, stockout churn)
 - https://daniks.ai/blog/amazon-business-b2b-selling-guide - Amazon Business B2B seller guide (finding your B2B share by ASIN, 3% discount threshold and bulk order fee discounts, tiered quantity discounts, B2B-exclusive campaigns and business placement bid adjustments, why B2B changes break-even ACoS)
 - https://daniks.ai/blog/amazon-fba-vs-fbm-guide - Amazon FBA vs FBM comparison (two worked fee stacks by weight, Prime/Buy Box trade-off, Seller Fulfilled Prime, how fulfillment method moves break-even ACoS, six-question decision framework)
+- https://daniks.ai/blog/amazon-repricing-strategy-guide - Amazon repricing strategy (floor price from the full fee stack, what the Buy Box really rewards, rule-based vs algorithmic vs velocity repricers, rules that avoid price wars, how price moves break-even ACoS)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
