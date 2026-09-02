@@ -454,6 +454,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about Buy Box, pricing and margin, FBA fees and unit economics, break-even ACoS and target-setting, conversion rate, inventory age and storage fees, product launches, Q4 planning, or anywhere the selling price changes what a campaign can afford to bid
 - **Anchor Text Examples**: "Amazon repricing strategy", "how to set a floor price that survives ads", "why price changes your break-even ACoS", "repricing rules that don't start price wars", "our repricing guide"
 
+### Amazon Budget Rules: How to Automate Ad Spend Without Losing Sales
+- **URL**: https://daniks.ai/blog/amazon-budget-rules-guide
+- **Primary Topic**: Amazon budget rules (the native temporary budget-boost feature), the two rule types (schedule-based special events and custom date ranges vs. performance-based rules on ROAS/ACoS/CTR/CVR with 7-60 day lookback windows), why rules only ever increase budgets and never decrease them, the 50-rules-per-campaign limit and higher-budget-wins behaviour when two rules overlap, step-by-step setup in Campaign Manager, five setups worth building (Prime Day/Q4 event rule at +50-100%, proven-winner performance rule with a 5-point ACoS buffer, launch-window rule that expires itself, monthly payday rule, deal and coupon rule), the traps (rules firing on degraded campaigns, percentage boosts compounding with base budget changes, slow lookback windows, rules amplifying bad targeting, per-campaign manual maintenance, budget != delivery), budget rules vs. rule-based bidding vs. continuous AI optimization, FAQ
+- **When to Link**: In articles about PPC budgets and ad spend, bid strategy, PPC automation and tools, Prime Day / Q4 / seasonal planning, product launches, deals and coupons, dayparting, or anywhere the argument is "static if/then rules vs. continuous optimization"
+- **Anchor Text Examples**: "Amazon budget rules explained", "how to set up Amazon budget rules", "our budget rules guide", "schedule vs. performance budget rules", "why budget rules only solve the calendar", "budget rules vs. real automation"
+
 ### Amazon Account Health: Suspension Prevention and Reinstatement
 - **URL**: https://daniks.ai/blog/amazon-account-health-guide
 - **Primary Topic**: Amazon account health and the Account Health Rating (AHR bands 0-99 / 100-199 / 200-1000 and why the score is a lagging summary), the customer service metrics with their thresholds (ODR under 1%, late shipment under 4%, pre-fulfillment cancel under 2.5%, valid tracking above 95%, on-time delivery above 97%) and why low order volume is the real ODR risk, the policy compliance violation types (IP complaints, authenticity, product condition, safety/restricted, listing policy, food safety) and why review manipulation is treated as account-level fraud, Account Health Assurance eligibility (AHR above 250 for six months plus a verified phone number), the weekly/monthly/pre-launch prevention routine, diagnosing a bad metric by clustering defects per ASIN before appealing, the three-part Plan of Action structure that gets accepted, what a suppression or deactivation does to live campaigns (wasted clicks in the enforcement window, ranking decay, higher post-reinstatement ACoS, budget drift), FAQ
@@ -592,6 +598,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-q1-2026-success-tips - Seasonal strategy
 - https://daniks.ai/blog/amazon-prime-day-ppc-strategy - Prime Day PPC strategy
 - https://daniks.ai/blog/amazon-q4-ppc-strategy - Q4 / Black Friday / Cyber Monday PPC strategy
+- https://daniks.ai/blog/amazon-budget-rules-guide - Amazon budget rules for event-driven budget boosts
 - https://daniks.ai/blog/amazon-ppc-european-sellers-guide - EU marketplace PPC strategies
 
 **When writing about reviews and listings**, link to:
