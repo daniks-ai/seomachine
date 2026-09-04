@@ -502,6 +502,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about customer lifetime value, ACoS and TACoS targets, repeat purchase and consumables, inventory planning and stockouts, promotions and discount stacking, Brand Registry benefits, or anywhere a seller is deciding how aggressively to bid for a first order
 - **Anchor Text Examples**: "our Amazon Subscribe & Save guide", "how Subscribe & Save changes your break-even ACoS", "the lifetime value math behind subscription ASINs", "Subscribe & Save discount tiers explained"
 
+### Amazon Advertising Reports: Which Ones Actually Matter
+- **URL**: https://daniks.ai/blog/amazon-advertising-reports-guide
+- **Primary Topic**: Every Amazon advertising report explained (search term, targeting, advertised product, purchased product, placement, campaign, performance over time, budget, gross & invalid traffic, SB search term impression share), which five carry ~90% of the decision value, report configuration (category / type / Summary vs Daily / period), the ~60-day history limit and why to build your own monthly archive, a 30-minute weekly workflow with concrete thresholds, attribution lag (7-day SP vs 14-day SB/SD) and why report numbers restate, five common misreads, FAQ
+- **When to Link**: In articles about PPC audits and optimization routines, search term harvesting and negative keywords, bid and budget decisions, placement multipliers, ACoS/TACoS measurement, bulk operations, or anywhere a seller needs to know which data to pull and how often
+- **Anchor Text Examples**: "our guide to Amazon advertising reports", "which advertising reports actually matter", "the 30-minute weekly report workflow", "how attribution lag distorts your reports", "every Amazon ad report explained"
+
 ---
 
 ## Comparison Pages (Future)
@@ -550,6 +556,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-asin-targeting - Amazon ASIN targeting complete guide (competitor + defensive)
 - https://daniks.ai/blog/amazon-ad-types-comparison - Amazon PPC campaign types comparison (SP vs SB vs SD)
 - https://daniks.ai/blog/amazon-dsp-guide - Amazon DSP complete guide (programmatic display/video, audiences, cost, when it's worth it)
+- https://daniks.ai/blog/amazon-advertising-reports-guide - Every Amazon advertising report explained + 30-minute weekly workflow
 - https://daniks.ai/blog/amazon-buy-box-guide - Amazon Buy Box / Featured Offer complete guide (eligibility, algorithm, PPC link)
 - https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
 - https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
