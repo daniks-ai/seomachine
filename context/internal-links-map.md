@@ -424,6 +424,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about Buy Box, BSR/sales velocity, PPC audits, product launch strategy, Q4/seasonal planning, PPC costs/wasted spend, ACoS spikes, or anywhere stock availability affects ad performance
 - **Anchor Text Examples**: "our Amazon inventory management guide", "how stockouts hurt your PPC", "why running out of stock tanks your rank", "the reorder point formula", "IPI and restock limits explained"
 
+### Amazon Global Selling: How to Expand to International Marketplaces in 2026
+- **URL**: https://daniks.ai/blog/amazon-global-selling-guide
+- **Primary Topic**: Amazon Global Selling, international/cross-border expansion, unified regional accounts (NA/EU/Far East), Build International Listings (BIL), five-factor marketplace selection framework (category demand, competitive gap, language distance, compliance load, margin after local costs), the real first-year cost stack by country (US→CA/UK/DE table), EU compliance (VAT, EU Responsible Person, EPR, GPSR), four fulfillment routes (Remote Fulfillment with FBA, EFN, Pan-EU FBA, local FBA/3PL) and the Pan-EU VAT trap, translation vs localization, launching PPC with no sales history (recalculated break-even ACoS under VAT-inclusive pricing, why keyword lists don't transfer, local CPCs), 90-day expansion timeline, go/no-go threshold, FAQ
+- **When to Link**: In articles about marketplace expansion, European or international selling, multi-marketplace PPC, VAT and its effect on margin/ACoS, FBA fulfillment options, cross-border logistics, launching a listing with no history, or any content where a seller is deciding whether to open a new country
+- **Anchor Text Examples**: "our Amazon Global Selling guide", "how to expand to international marketplaces", "the real cost of opening a new marketplace", "launching PPC in a market with no history", "which Amazon marketplace to expand to first"
+
 ### Amazon Rufus: How to Optimize for AI Search in 2026
 - **URL**: https://daniks.ai/blog/amazon-rufus-ai-search-optimization
 - **Primary Topic**: Amazon Rufus (AI shopping assistant), AI/conversational search optimization, structured attributes over adjectives, use cases as discoverable surface area, reviews as AI source material, optimizing listings/A+/bullets for AI answers, the long-tail conversational query shift in search term reports, funded discovery layer + fast harvesting loop for AI-era PPC, measuring AI search via query-length trend (no Rufus attribution), 30-day Rufus action plan
@@ -613,6 +619,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-q4-ppc-strategy - Q4 / Black Friday / Cyber Monday PPC strategy
 - https://daniks.ai/blog/amazon-budget-rules-guide - Amazon budget rules for event-driven budget boosts
 - https://daniks.ai/blog/amazon-ppc-european-sellers-guide - EU marketplace PPC strategies
+- https://daniks.ai/blog/amazon-global-selling-guide - Amazon Global Selling / international expansion (marketplace selection framework, first-year cost stack by country, EU compliance, fulfillment routes, launching PPC with no sales history)
 
 **When writing about reviews and listings**, link to:
 - https://daniks.ai/blog/handling-negative-amazon-reviews-2026 - Review management
