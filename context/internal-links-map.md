@@ -424,6 +424,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about Buy Box, BSR/sales velocity, PPC audits, product launch strategy, Q4/seasonal planning, PPC costs/wasted spend, ACoS spikes, or anywhere stock availability affects ad performance
 - **Anchor Text Examples**: "our Amazon inventory management guide", "how stockouts hurt your PPC", "why running out of stock tanks your rank", "the reorder point formula", "IPI and restock limits explained"
 
+### Amazon Returns Management: Cut Your Return Rate and Protect Ad Profit
+- **URL**: https://daniks.ai/blog/amazon-returns-management-guide
+- **Primary Topic**: Amazon returns management, the true cost of a return (refund administration fee, unrefunded FBA fee, unsellable inventory, returns processing fee), return-adjusted break-even ACoS formula, true ACoS = ACoS ÷ (1 − return rate), FBA Customer Returns report and dispositions, Voice of the Customer / CX Health / NCX rate, return rate by child ASIN and variation, four return-reason buckets (expectation gap, quality, remorse, logistics), 9 ways to reduce returns, negating keywords that attract return-prone buyers, reimbursement audits, Grade and Resell / liquidation / removal, FBA vs FBM returns and returnless refunds, per-product ACoS targets on net sales, FAQ
+- **When to Link**: In articles about break-even ACoS, good ACoS targets, profitability/unit economics, FBA fees, account health, listing optimization, A+ Content, conversion rate, size/variation issues, negative reviews, coupons/deals, Q4 and post-holiday planning, or anywhere returns distort ad performance
+- **Anchor Text Examples**: "our Amazon returns management guide", "how returns inflate your true ACoS", "the return-adjusted break-even ACoS", "how to reduce Amazon returns", "what one return actually costs you"
+
 ### Amazon Global Selling: How to Expand to International Marketplaces in 2026
 - **URL**: https://daniks.ai/blog/amazon-global-selling-guide
 - **Primary Topic**: Amazon Global Selling, international/cross-border expansion, unified regional accounts (NA/EU/Far East), Build International Listings (BIL), five-factor marketplace selection framework (category demand, competitive gap, language distance, compliance load, margin after local costs), the real first-year cost stack by country (US→CA/UK/DE table), EU compliance (VAT, EU Responsible Person, EPR, GPSR), four fulfillment routes (Remote Fulfillment with FBA, EFN, Pan-EU FBA, local FBA/3PL) and the Pan-EU VAT trap, translation vs localization, launching PPC with no sales history (recalculated break-even ACoS under VAT-inclusive pricing, why keyword lists don't transfer, local CPCs), 90-day expansion timeline, go/no-go threshold, FAQ
@@ -623,6 +629,7 @@ When adding internal links to blog content:
 
 **When writing about reviews and listings**, link to:
 - https://daniks.ai/blog/handling-negative-amazon-reviews-2026 - Review management
+- https://daniks.ai/blog/amazon-returns-management-guide - Amazon returns management (cost per return, return-adjusted ACoS targets, Voice of the Customer, reducing return rate with listing fixes, reimbursements)
 - https://daniks.ai/blog/how-to-get-more-amazon-reviews - Review generation tactics
 - https://daniks.ai/blog/amazon-listing-optimization - Listing optimization guide
 - https://daniks.ai/blog/amazon-a-plus-content-guide - A+ Content strategy guide
