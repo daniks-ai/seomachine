@@ -126,16 +126,30 @@ The translations you produce in Step 6 must be just as clean — no AI-tells in 
 
 ### Step 5: Generate Featured Image
 
-Generate ONE blog featured image using fal.ai. The image is **shared across all locales** — generate it once.
+Generate ONE blog featured image with OpenAI GPT Image 2.5 Flare via fal.ai (`openai/gpt-image-2.5/flare/text-to-image`, FAL_KEY only). The image is **shared across all locales** — generate it once. Always call it with `python3` (the bare `python` on this Mac has neither `fal_client` nor `Pillow`).
 
 ```bash
-python data_sources/modules/image_generator.py "[Article Title]" \
+python3 data_sources/modules/image_generator.py "[Article Title]" \
   --slug "[article-slug]" \
   --output "/Users/ync/poryadok/sources/daniks-ai-ads/src/assets/blog/" \
   --topic "[brief topic description for image prompt]"
 ```
 
-The image will be saved to `daniks-ai-ads/src/assets/blog/[slug].jpg`.
+The script downloads the 1600×896 render from fal.ai and then shrinks it **in place** to the web spec via `data_sources/modules/image_optimizer.py`: max 1200 px wide, progressive JPEG, quality stepped down from 82 until the file is under 250 KB. The blog only shows the image at ~360–600 px wide (listing cards) plus as the 1200 px og:image, so anything bigger is wasted bandwidth and repo bloat. The result is saved to `daniks-ai-ads/src/assets/blog/[slug].jpg`.
+
+**Verify before moving on** — the committed image must be ≤ 1200 px wide and under 250 KB:
+
+```bash
+python3 data_sources/modules/image_optimizer.py --check "/Users/ync/poryadok/sources/daniks-ai-ads/src/assets/blog/[slug].jpg"
+```
+
+If the check prints `TOO BIG`, run the optimizer on the file and re-check:
+
+```bash
+python3 data_sources/modules/image_optimizer.py --force "/Users/ync/poryadok/sources/daniks-ai-ads/src/assets/blog/[slug].jpg"
+```
+
+NEVER commit a raw 2K render (2752×1536, 0.5–2.5 MB).
 
 If image generation fails (no FAL_KEY, API error), continue with the pipeline but note the missing image.
 
@@ -443,7 +457,7 @@ Files updated in daniks-ai-ads:
 - src/content/blog/images.ts
 - src/content/blog/meta/[locale].ts  (one per language)
 - src/content/blog/[locale]/[slug].tsx  (one per language)
-- src/assets/blog/[slug].jpg
+- src/assets/blog/[slug].jpg  ([W]x[H] px, [N] KB — must be ≤1200 px wide and <250 KB)
 
 Commit: [commit hash]
 Google Indexing: [Requested for N/N locale URLs / partial - reasons]
@@ -455,6 +469,7 @@ Next auto-publish: tomorrow
 ## Error Handling
 
 - If fal.ai image generation fails: continue without image, log the issue
+- If the featured image fails `image_optimizer.py --check` (wider than 1200 px or over 250 KB): run `image_optimizer.py --force` on it before committing; never commit the raw 2K render
 - If a translation for a locale can't be produced for some reason: still create that locale's files with the best available content — never leave a locale file missing while others exist, and never ship a stub. If truly blocked, log it clearly in the summary.
 - If website repo has uncommitted changes: stash them, apply our changes, commit, then pop stash
 - If git push fails: save all changes locally and report the error
@@ -467,6 +482,7 @@ Next auto-publish: tomorrow
 - NEVER ask for user input. Make all decisions autonomously.
 - ALWAYS create the post in EVERY locale listed in `src/i18n/locales.ts` `LOCALES` — re-read that file at run time; do not hard-code the language list.
 - The slug, image, date, category, `readMinutes`, and `featured` flag are SHARED across locales; only the body and title/excerpt are translated.
+- Featured images must be web-optimized: ≤1200 px wide, progressive JPEG, <250 KB. `image_generator.py` does this automatically; confirm with `python3 data_sources/modules/image_optimizer.py --check <file>` before the commit.
 - Internal blog links inside a locale's body must be prefixed with that locale (`/de/blog/...`); English uses no prefix. External links are identical in every locale.
 - LinkedIn stays ENGLISH and links to the ENGLISH article — never translate or localize the LinkedIn post.
 - ALWAYS check for existing content to avoid duplicates.

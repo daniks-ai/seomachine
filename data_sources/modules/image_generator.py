@@ -1,11 +1,14 @@
 """
-Generate blog featured images using fal.ai API.
+Generate blog featured images with OpenAI GPT Image 2.5 Flare via the fal.ai API.
 
 Usage:
-    python data_sources/modules/image_generator.py "Article title" --slug "article-slug" --output "../daniks-ai-ads/src/assets/blog/"
+    python3 data_sources/modules/image_generator.py "Article title" --slug "article-slug" --output "../daniks-ai-ads/src/assets/blog/"
 
-Requires:
-    pip install fal-client
+The 2K render from fal.ai is shrunk in place to the web spec (max 1200 px wide,
+progressive JPEG under 250 KB) by image_optimizer.py before the script returns.
+
+Requires (use python3 — the bare `python` on this Mac has neither):
+    python3 -m pip install fal-client Pillow requests
     export FAL_KEY='your_fal_api_key'
 """
 
@@ -18,8 +21,11 @@ import json
 try:
     import fal_client
 except ImportError:
-    print("Error: fal-client not installed. Run: pip install fal-client")
+    print("Error: fal-client not installed. Run: python3 -m pip install fal-client")
     sys.exit(1)
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from image_optimizer import optimize_for_web, check_within_spec  # noqa: E402
 
 
 def _load_env_local():
@@ -44,8 +50,20 @@ DEFAULT_OUTPUT_DIR = os.path.join(
     os.path.dirname(__file__), "..", "..", "..", "daniks-ai-ads", "src", "assets", "blog"
 )
 
-# Model to use
-MODEL = "fal-ai/nano-banana-2"
+# Model to use: OpenAI GPT Image 2.5 Flare via fal.ai (FAL_KEY only, no OpenAI key needed).
+# Switched from fal-ai/nano-banana-2 on 2026-09-12.
+MODEL = "openai/gpt-image-2.5/flare/text-to-image"
+
+# Render size. The blog spec is 1200 px wide (see image_optimizer.py), so a 16:9
+# render at 1600x896 gives a clean 1.33x downscale. Both sides must be multiples
+# of 16 and the area must stay within fal's 655K-8.3M pixel window.
+RENDER_WIDTH = 1600
+RENDER_HEIGHT = 896
+
+# GPT Image 2.5 quality tier: auto | low | medium | high | xhigh | max.
+# "medium" costs roughly $0.01 per image at this size and is plenty for a
+# 1200 px decorative hero; "high" is about 4x the price (pass --quality high).
+DEFAULT_QUALITY = "medium"
 
 
 def _detect_visual_theme(title: str, topic: str) -> dict:
@@ -223,8 +241,8 @@ def build_prompt(article_title: str, article_topic: str = "") -> str:
     )
 
 
-def generate_image(prompt: str) -> str:
-    """Generate an image using fal.ai and return the image URL."""
+def generate_image(prompt: str, quality: str = DEFAULT_QUALITY) -> str:
+    """Generate an image using fal.ai (GPT Image 2.5 Flare) and return the image URL."""
     if not os.environ.get("FAL_KEY"):
         raise EnvironmentError("FAL_KEY environment variable not set. Get your key at https://fal.ai/dashboard/keys")
 
@@ -232,14 +250,20 @@ def generate_image(prompt: str) -> str:
         MODEL,
         arguments={
             "prompt": prompt,
-            "resolution": "2K",
-            "aspect_ratio": "16:9",
+            "image_size": {"width": RENDER_WIDTH, "height": RENDER_HEIGHT},
+            "quality": quality,
+            "background": "opaque",
             "num_images": 1,
             "output_format": "jpeg",
+            # Near-lossless source; image_optimizer.py does the real web compression.
+            "output_compression": 95,
         },
     )
 
-    return result["images"][0]["url"]
+    image = result["images"][0]
+    if image.get("width") and image.get("height"):
+        print(f"Rendered {image['width']}x{image['height']} px")
+    return image["url"]
 
 
 def download_image(url: str, output_path: str) -> str:
@@ -255,7 +279,8 @@ def download_image(url: str, output_path: str) -> str:
     return output_path
 
 
-def generate_blog_image(article_title: str, slug: str, output_dir: str = None, topic: str = "") -> str:
+def generate_blog_image(article_title: str, slug: str, output_dir: str = None, topic: str = "",
+                        quality: str = DEFAULT_QUALITY) -> str:
     """
     Full pipeline: generate image for a blog post and save it.
 
@@ -264,6 +289,7 @@ def generate_blog_image(article_title: str, slug: str, output_dir: str = None, t
         slug: URL slug for the article (used as filename)
         output_dir: Directory to save the image
         topic: Optional topic hint for better image generation
+        quality: GPT Image 2.5 quality tier (see DEFAULT_QUALITY)
 
     Returns:
         Path to the saved image file
@@ -273,16 +299,28 @@ def generate_blog_image(article_title: str, slug: str, output_dir: str = None, t
 
     prompt = build_prompt(article_title, topic)
     print(f"Generating image for: {article_title}")
-    print(f"Model: {MODEL}")
+    print(f"Model: {MODEL} (quality={quality}, {RENDER_WIDTH}x{RENDER_HEIGHT})")
     print(f"Prompt: {prompt[:100]}...")
 
-    image_url = generate_image(prompt)
+    image_url = generate_image(prompt, quality=quality)
     print(f"Image generated: {image_url}")
 
     filename = f"{slug}.jpg"
     output_path = os.path.join(output_dir, filename)
     download_image(image_url, output_path)
-    print(f"Image saved to: {output_path}")
+    print(f"Raw render saved to: {output_path} ({os.path.getsize(output_path) / 1024:.0f} KB)")
+
+    # fal.ai hands back a 2K render (2752x1536, 0.5-2.5 MB). Shrink it to the
+    # web spec before anything gets committed — the blog shows it at ~360-600 px.
+    r = optimize_for_web(output_path)
+    print(
+        f"Optimized for web: {r['before'] / 1024:.0f} KB -> {r['after'] / 1024:.0f} KB, "
+        f"{r['width']}x{r['height']} px, quality {r['quality']} ({r['method']})"
+    )
+    ok, reason = check_within_spec(output_path)
+    if not ok:
+        print(f"WARNING: image is still over the web spec ({reason}) — "
+              f"run: python3 data_sources/modules/image_optimizer.py --force {output_path}")
 
     return output_path
 
@@ -293,6 +331,9 @@ def main():
     parser.add_argument("--slug", required=True, help="URL slug (used as filename)")
     parser.add_argument("--output", default=None, help="Output directory")
     parser.add_argument("--topic", default="", help="Optional topic hint for better results")
+    parser.add_argument("--quality", default=DEFAULT_QUALITY,
+                        choices=["auto", "low", "medium", "high", "xhigh", "max"],
+                        help=f"GPT Image 2.5 quality tier (default: {DEFAULT_QUALITY})")
     parser.add_argument("--prompt-only", action="store_true", help="Only print the prompt, don't generate")
 
     args = parser.parse_args()
@@ -302,7 +343,7 @@ def main():
         return
 
     output_dir = args.output if args.output else os.path.abspath(DEFAULT_OUTPUT_DIR)
-    path = generate_blog_image(args.title, args.slug, output_dir, args.topic)
+    path = generate_blog_image(args.title, args.slug, output_dir, args.topic, quality=args.quality)
     print(f"\nDone! Image at: {path}")
 
 
