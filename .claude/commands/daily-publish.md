@@ -128,12 +128,16 @@ The translations you produce in Step 6 must be just as clean — no AI-tells in 
 
 Generate ONE blog featured image with OpenAI GPT Image 2.5 Flare via fal.ai (`openai/gpt-image-2.5/flare/text-to-image`, FAL_KEY only). The image is **shared across all locales** — generate it once. Always call it with `python3` (the bare `python` on this Mac has neither `fal_client` nor `Pillow`).
 
+**Article mode is the standard**: pass the finished English draft with `--article` so the model reads the whole article and derives one concrete, article-specific scene (it must obey the no-text / blank-packaging / closed-screens rules baked into the script). Do NOT use `--topic` alone — that falls back to the old generic keyword-theme scenes.
+
 ```bash
 python3 data_sources/modules/image_generator.py "[Article Title]" \
   --slug "[article-slug]" \
-  --output "/Users/ync/poryadok/sources/daniks-ai-ads/src/assets/blog/" \
-  --topic "[brief topic description for image prompt]"
+  --article "drafts/[article-file].md" \
+  --output "/Users/ync/poryadok/sources/daniks-ai-ads/src/assets/blog/"
 ```
+
+After it finishes, open the image and check it: no readable text, labels, logos or UI, no close-up faces. If it breaks one of those, run the same command again with `--extra "..."` giving a short targeted correction (for example `--extra "No social-media icons; show the channels as garden paths converging on one doorway"`). A fresh render costs about a cent. If it still fails after two retries, keep the best one and note it in the summary.
 
 The script downloads the 1600×896 render from fal.ai and then shrinks it **in place** to the web spec via `data_sources/modules/image_optimizer.py`: max 1200 px wide, progressive JPEG, quality stepped down from 82 until the file is under 250 KB. The blog only shows the image at ~360–600 px wide (listing cards) plus as the 1200 px og:image, so anything bigger is wasted bandwidth and repo bloat. The result is saved to `daniks-ai-ads/src/assets/blog/[slug].jpg`.
 
@@ -483,6 +487,7 @@ Next auto-publish: tomorrow
 - ALWAYS create the post in EVERY locale listed in `src/i18n/locales.ts` `LOCALES` — re-read that file at run time; do not hard-code the language list.
 - The slug, image, date, category, `readMinutes`, and `featured` flag are SHARED across locales; only the body and title/excerpt are translated.
 - Featured images must be web-optimized: ≤1200 px wide, progressive JPEG, <250 KB. `image_generator.py` does this automatically; confirm with `python3 data_sources/modules/image_optimizer.py --check <file>` before the commit.
+- Featured images are generated in article mode (`--article drafts/[article-file].md`), never from a topic hint alone.
 - Internal blog links inside a locale's body must be prefixed with that locale (`/de/blog/...`); English uses no prefix. External links are identical in every locale.
 - LinkedIn stays ENGLISH and links to the ENGLISH article — never translate or localize the LinkedIn post.
 - ALWAYS check for existing content to avoid duplicates.

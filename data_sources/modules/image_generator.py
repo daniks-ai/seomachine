@@ -13,7 +13,9 @@ Requires (use python3 — the bare `python` on this Mac has neither):
 """
 
 import os
+import re
 import sys
+import html
 import argparse
 import requests
 import json
@@ -241,6 +243,74 @@ def build_prompt(article_title: str, article_topic: str = "") -> str:
     )
 
 
+# --- Article-driven mode -----------------------------------------------------
+# Instead of picking a canned scene by keyword, hand the model the whole article
+# and let it derive one concrete visual idea from the actual content.
+
+# GPT Image 2.5 accepts prompts up to 32,000 chars; leave room for the preamble.
+MAX_ARTICLE_CHARS = 24_000
+
+ARTICLE_PROMPT = (
+    "Design the featured hero image for the blog article below. Read the whole article first. "
+    "Identify its single most important idea or tension, then express it as ONE concrete, physical scene "
+    "or visual metaphor - the kind of editorial hero image a premium business magazine would commission "
+    "for this exact piece. The scene must be specific to THIS article, not a generic business image. "
+    "The mandatory visual rules listed after the article override anything the article mentions.\n\n"
+    "ARTICLE TITLE: {title}\n\n"
+    "ARTICLE:\n{article}\n\n"
+    "--- END OF ARTICLE ---\n\n"
+    "Now create the hero image. Style: photorealistic editorial photography, one clear focal point, calm "
+    "composition with breathing room, natural light, rich real-world textures. Horizontal 16:9 framing. "
+    "Choose the setting, props and colour palette that genuinely fit THIS article's product, story or metaphor: "
+    "a kitchen, a workshop, a warehouse aisle, a shop floor, a studio, a street, a garden or outdoors are all "
+    "fine. Do NOT default to the generic 'cardboard boxes, notebook and plant on a wooden home-office desk' "
+    "scene unless packaging or a desk is the actual subject of the article.\n\n"
+    "MANDATORY RULES (these override anything in the article):\n"
+    "1. No text of any kind anywhere in the image: no letters, words, numbers, handwriting, labels, stickers, "
+    "barcodes, printed forms, signage or watermarks. Any product, bottle, box or package must be completely "
+    "blank and unbranded.\n"
+    "2. No screens showing content: laptops, tablets, phones, TVs and monitors must be closed, switched off or "
+    "out of frame. No charts, graphs, dashboards, UI or screenshots.\n"
+    "3. No logos, app icons or brand marks of any kind (no Amazon branding, no branded boxes, no smile arrow, "
+    "no social-media icons).\n"
+    "4. No close-up human faces; hands or distant figures are fine.\n"
+    "5. No stock-photo cliches: handshakes, people pointing at laptops, glowing holograms, robots, floating icons.\n"
+    "6. Never depict an ad format, listing, storefront, report or dashboard as a screen, panel, card, poster, "
+    "printout or mock-up. Show the physical product, the place it is used, or a tangible metaphor instead."
+)
+
+
+def read_article_text(path: str) -> str:
+    """Load an article as plain-ish text from a markdown draft or a blog .tsx body."""
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    if path.endswith(".tsx"):
+        text = re.sub(r"</(p|h[1-6]|li|blockquote|tr)>", "\n\n", text)
+        text = re.sub(r"\{[^{}]*\}", " ", text)      # JSX expressions / className strings
+        text = re.sub(r"<[^>]+>", " ", text)         # remaining tags
+        text = html.unescape(text)
+    else:
+        text = re.sub(r"\A---\n.*?\n---\n", "", text, flags=re.DOTALL)  # YAML frontmatter
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text).strip()
+    if len(text) > MAX_ARTICLE_CHARS:
+        text = text[:MAX_ARTICLE_CHARS].rsplit("\n", 1)[0] + "\n\n[article truncated]"
+    return text
+
+
+def build_article_prompt(article_title: str, article_text: str, extra: str = "") -> str:
+    """Prompt that passes the full article to the image model.
+
+    `extra` is appended after the rules as ADDITIONAL DIRECTION — use it for a
+    targeted retry when a render broke a rule (e.g. "no social-media icons; show
+    the channels as physical paths converging on one doorway").
+    """
+    prompt = ARTICLE_PROMPT.format(title=article_title, article=article_text)
+    if extra:
+        prompt += "\n\nADDITIONAL DIRECTION (mandatory): " + extra.strip()
+    return prompt
+
+
 def generate_image(prompt: str, quality: str = DEFAULT_QUALITY) -> str:
     """Generate an image using fal.ai (GPT Image 2.5 Flare) and return the image URL."""
     if not os.environ.get("FAL_KEY"):
@@ -280,7 +350,7 @@ def download_image(url: str, output_path: str) -> str:
 
 
 def generate_blog_image(article_title: str, slug: str, output_dir: str = None, topic: str = "",
-                        quality: str = DEFAULT_QUALITY) -> str:
+                        quality: str = DEFAULT_QUALITY, article_path: str = None, extra: str = "") -> str:
     """
     Full pipeline: generate image for a blog post and save it.
 
@@ -290,6 +360,8 @@ def generate_blog_image(article_title: str, slug: str, output_dir: str = None, t
         output_dir: Directory to save the image
         topic: Optional topic hint for better image generation
         quality: GPT Image 2.5 quality tier (see DEFAULT_QUALITY)
+        article_path: Markdown draft or blog .tsx; when given, the whole article
+            is passed to the model instead of the keyword-themed scene
 
     Returns:
         Path to the saved image file
@@ -297,7 +369,14 @@ def generate_blog_image(article_title: str, slug: str, output_dir: str = None, t
     if output_dir is None:
         output_dir = os.path.abspath(DEFAULT_OUTPUT_DIR)
 
-    prompt = build_prompt(article_title, topic)
+    if article_path:
+        article_text = read_article_text(article_path)
+        prompt = build_article_prompt(article_title, article_text, extra)
+        print(f"Generating image from full article: {article_path} ({len(article_text)} chars)")
+        if extra:
+            print(f"Additional direction: {extra}")
+    else:
+        prompt = build_prompt(article_title, topic)
     print(f"Generating image for: {article_title}")
     print(f"Model: {MODEL} (quality={quality}, {RENDER_WIDTH}x{RENDER_HEIGHT})")
     print(f"Prompt: {prompt[:100]}...")
@@ -331,6 +410,10 @@ def main():
     parser.add_argument("--slug", required=True, help="URL slug (used as filename)")
     parser.add_argument("--output", default=None, help="Output directory")
     parser.add_argument("--topic", default="", help="Optional topic hint for better results")
+    parser.add_argument("--article", default=None,
+                        help="Path to the article (markdown draft or blog .tsx); passes the full text to the model")
+    parser.add_argument("--extra", default="",
+                        help="Article mode only: extra mandatory direction appended after the rules (for targeted retries)")
     parser.add_argument("--quality", default=DEFAULT_QUALITY,
                         choices=["auto", "low", "medium", "high", "xhigh", "max"],
                         help=f"GPT Image 2.5 quality tier (default: {DEFAULT_QUALITY})")
@@ -339,11 +422,15 @@ def main():
     args = parser.parse_args()
 
     if args.prompt_only:
-        print(build_prompt(args.title, args.topic))
+        if args.article:
+            print(build_article_prompt(args.title, read_article_text(args.article), args.extra))
+        else:
+            print(build_prompt(args.title, args.topic))
         return
 
     output_dir = args.output if args.output else os.path.abspath(DEFAULT_OUTPUT_DIR)
-    path = generate_blog_image(args.title, args.slug, output_dir, args.topic, quality=args.quality)
+    path = generate_blog_image(args.title, args.slug, output_dir, args.topic,
+                               quality=args.quality, article_path=args.article, extra=args.extra)
     print(f"\nDone! Image at: {path}")
 
 
