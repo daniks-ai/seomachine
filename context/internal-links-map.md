@@ -430,6 +430,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about break-even ACoS, good ACoS targets, profitability/unit economics, FBA fees, account health, listing optimization, A+ Content, conversion rate, size/variation issues, negative reviews, coupons/deals, Q4 and post-holiday planning, or anywhere returns distort ad performance
 - **Anchor Text Examples**: "our Amazon returns management guide", "how returns inflate your true ACoS", "the return-adjusted break-even ACoS", "how to reduce Amazon returns", "what one return actually costs you"
 
+### Amazon Competitor Analysis: How to Research Rivals and Turn It Into PPC Wins
+- **URL**: https://daniks.ai/blog/amazon-competitor-analysis-guide
+- **Primary Topic**: Amazon competitor analysis / competitor research, the four-bucket output filter (Bid, Defend, Fix, Avoid), finding real competitors with Brand Analytics Top Search Terms and Search Query Performance, three competitor tiers (direct, dominant, vulnerable), reverse ASIN lookups (Helium 10 Cerebro, Jungle Scout, SellerSprite) and keyword gap lists, competitor ASINs hiding in the search term report, mapping rival ad footprint (manual SERP checks, detail page carousels, search term impression share), Keepa price/BSR/promotion cadence tracking, mining competitor 1-3 star reviews, listing scorecard, conquest ASIN math vs generic keywords, defensive brand campaigns, unwinnable auctions (60%+ click share), weekly/monthly/quarterly research routine, trademark rules for competitor targeting, FAQ
+- **When to Link**: In articles about ASIN/product targeting, keyword research, Brand Analytics, search term reports, listing optimization, repricing and price wars, Sponsored Brands defense, Q4/Prime Day planning, market/niche research, or anywhere a seller needs to decide which competitors to target or avoid
+- **Anchor Text Examples**: "our Amazon competitor analysis guide", "how to research competitors on Amazon", "find your real competitors", "turn competitor research into PPC moves", "conquest campaigns on competitor ASINs"
+
 ### Amazon Global Selling: How to Expand to International Marketplaces in 2026
 - **URL**: https://daniks.ai/blog/amazon-global-selling-guide
 - **Primary Topic**: Amazon Global Selling, international/cross-border expansion, unified regional accounts (NA/EU/Far East), Build International Listings (BIL), five-factor marketplace selection framework (category demand, competitive gap, language distance, compliance load, margin after local costs), the real first-year cost stack by country (US→CA/UK/DE table), EU compliance (VAT, EU Responsible Person, EPR, GPSR), four fulfillment routes (Remote Fulfillment with FBA, EFN, Pan-EU FBA, local FBA/3PL) and the Pan-EU VAT trap, translation vs localization, launching PPC with no sales history (recalculated break-even ACoS under VAT-inclusive pricing, why keyword lists don't transfer, local CPCs), 90-day expansion timeline, go/no-go threshold, FAQ
@@ -626,6 +632,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-budget-rules-guide - Amazon budget rules for event-driven budget boosts
 - https://daniks.ai/blog/amazon-ppc-european-sellers-guide - EU marketplace PPC strategies
 - https://daniks.ai/blog/amazon-global-selling-guide - Amazon Global Selling / international expansion (marketplace selection framework, first-year cost stack by country, EU compliance, fulfillment routes, launching PPC with no sales history)
+- https://daniks.ai/blog/amazon-competitor-analysis-guide - Amazon competitor analysis (find real rivals with Brand Analytics, reverse ASIN keyword gaps, ad footprint mapping, Keepa promo cadence, review mining, listing scorecard, conquest/defend/fix/avoid PPC moves)
 
 **When writing about reviews and listings**, link to:
 - https://daniks.ai/blog/handling-negative-amazon-reviews-2026 - Review management
