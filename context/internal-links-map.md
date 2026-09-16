@@ -635,6 +635,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-competitor-analysis-guide - Amazon competitor analysis (find real rivals with Brand Analytics, reverse ASIN keyword gaps, ad footprint mapping, Keepa promo cadence, review mining, listing scorecard, conquest/defend/fix/avoid PPC moves)
 
 **When writing about reviews and listings**, link to:
+- https://daniks.ai/blog/amazon-retail-readiness-checklist - Amazon retail readiness (the 12-point pre-PPC listing checklist, conversion-rate-to-ACoS math, weighted scorecard with 85/70/50 spend thresholds, what to fix first, new launch vs established ASIN, FAQ)
 - https://daniks.ai/blog/handling-negative-amazon-reviews-2026 - Review management
 - https://daniks.ai/blog/amazon-returns-management-guide - Amazon returns management (cost per return, return-adjusted ACoS targets, Voice of the Customer, reducing return rate with listing fixes, reimbursements)
 - https://daniks.ai/blog/how-to-get-more-amazon-reviews - Review generation tactics
