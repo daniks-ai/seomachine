@@ -608,6 +608,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-product-variations-guide - Amazon product variations / parent-child listings (shared reviews and what they do to conversion, variation abuse limits, flat-file setup, split vs merge, broken-family fixes, why variation ACoS must be read at family level)
 - https://daniks.ai/blog/amazon-account-health-guide - Amazon account health (AHR bands, ODR and the customer service thresholds, policy violation types, Account Health Assurance, weekly prevention routine, Plan of Action structure, what a suspension does to live campaigns)
 - https://daniks.ai/blog/amazon-multi-channel-fulfillment-guide - Amazon Multi-Channel Fulfillment (MCF fee stack vs. a 3PL landed cost, three speed tiers and their multipliers, no referral fee but storage still applies, blank-box rule and marketplace policy risk, integration routes, the shared inventory pool that strands your Amazon listing and decays ad rank, inventory buffer fix, six-question decision framework, FAQ)
+- https://daniks.ai/blog/amazon-marketing-stream-guide - Amazon Marketing Stream guide (push vs pull hourly ad data, the seven datasets, AWS Firehose/SQS setup, budget-usage to find the exact minute a campaign caps, evidence-based dayparting, attribution backfill and sparse-hour traps, Stream vs Ads API reports vs AMC, spend-tier decision table)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
