@@ -531,6 +531,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about PPC audits and optimization routines, search term harvesting and negative keywords, bid and budget decisions, placement multipliers, ACoS/TACoS measurement, bulk operations, or anywhere a seller needs to know which data to pull and how often
 - **Anchor Text Examples**: "our guide to Amazon advertising reports", "which advertising reports actually matter", "the 30-minute weekly report workflow", "how attribution lag distorts your reports", "every Amazon ad report explained"
 
+### Amazon PPC Cannibalization: Are Your Ads Stealing Your Own Organic Sales?
+- **URL**: https://daniks.ai/blog/amazon-ppc-cannibalization
+- **Primary Topic**: Amazon PPC cannibalization and incrementality, paid-vs-organic vs paid-vs-paid cannibalization, why branded and top-ranked keywords hide behind a great ACoS, ACoS/TACoS warning-signal table, three ways to measure incrementality (TACoS slope check, 14-day holdout test with incremental share formula, AMC path analysis), should you bid on your own brand name (defensive bid floors, $1.10 to $0.45 example), decision matrix for keywords you already rank for, role-based bidding (Defend / Hold / Grow / Conquest), true incremental ACoS = reported ACoS ÷ incremental share, five cannibalization mistakes, FAQ
+- **When to Link**: In articles about branded keywords, brand defense, ACoS vs TACoS, TACoS rising while ACoS looks good, Amazon SEO and organic rank, Brand Analytics SQP, campaign structure and negative-exact isolation, bid strategy, placements and top of search, competitor conquesting, PPC audits, or anywhere a seller judges campaigns by attributed ACoS alone
+- **Anchor Text Examples**: "Amazon PPC cannibalization", "are your ads stealing organic sales", "how to measure PPC incrementality", "should you bid on your own brand name", "defensive bids on branded keywords"
+
 ---
 
 ## Comparison Pages (Future)
@@ -609,6 +615,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-account-health-guide - Amazon account health (AHR bands, ODR and the customer service thresholds, policy violation types, Account Health Assurance, weekly prevention routine, Plan of Action structure, what a suspension does to live campaigns)
 - https://daniks.ai/blog/amazon-multi-channel-fulfillment-guide - Amazon Multi-Channel Fulfillment (MCF fee stack vs. a 3PL landed cost, three speed tiers and their multipliers, no referral fee but storage still applies, blank-box rule and marketplace policy risk, integration routes, the shared inventory pool that strands your Amazon listing and decays ad rank, inventory buffer fix, six-question decision framework, FAQ)
 - https://daniks.ai/blog/amazon-marketing-stream-guide - Amazon Marketing Stream guide (push vs pull hourly ad data, the seven datasets, AWS Firehose/SQS setup, budget-usage to find the exact minute a campaign caps, evidence-based dayparting, attribution backfill and sparse-hour traps, Stream vs Ads API reports vs AMC, spend-tier decision table)
+- https://daniks.ai/blog/amazon-ppc-cannibalization - Amazon PPC cannibalization (paid vs organic, holdout test for incrementality, branded keyword defensive bids, role-based bidding, true incremental ACoS)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
