@@ -543,6 +543,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about branded keywords, brand defense, ACoS vs TACoS, TACoS rising while ACoS looks good, Amazon SEO and organic rank, Brand Analytics SQP, campaign structure and negative-exact isolation, bid strategy, placements and top of search, competitor conquesting, PPC audits, or anywhere a seller judges campaigns by attributed ACoS alone
 - **Anchor Text Examples**: "Amazon PPC cannibalization", "are your ads stealing organic sales", "how to measure PPC incrementality", "should you bid on your own brand name", "defensive bids on branded keywords"
 
+### Amazon Business Reports: The Seller Central Data That Explains Your PPC Numbers
+- **URL**: https://daniks.ai/blog/amazon-business-reports-guide
+- **Primary Topic**: Amazon Business Reports in Seller Central, how they differ from advertising reports (all traffic vs ad traffic, 48h vs 12h lag, no Brand Registry needed), the four reports that matter (Detail Page Sales and Traffic by Child Item / by Parent Item, Sales and Traffic, Seller Performance), every column explained (Sessions, Page Views, Page Views per Session, Featured Offer / Buy Box Percentage, Units Ordered, Unit Session Percentage, Total Order Items, Ordered Product Sales), the ACoS = CPC / (CVR x Price) diagnosis for bid problem vs listing problem with a worked $42 example (19.8% -> 24.8% on CPC vs 31.6% on conversion), why sessions never match ad clicks and the ad-clicks/sessions paid traffic share ratio, a 20-minute Monday routine plus monthly TACoS pull, five report misreads (parent-level data, B2B toggle, small samples, time zone mismatch, margin math on Ordered Product Sales), Business Reports vs Brand Analytics, FAQ
+- **When to Link**: In articles about conversion rate optimization, listing and retail readiness, Buy Box loss, ACoS and TACoS diagnosis, PPC audits, why ACoS rose without a CPC change, sessions and traffic analysis, Seller Central data, unit economics, or anywhere a seller needs to separate an advertising problem from a listing problem
+- **Anchor Text Examples**: "our Amazon Business Reports guide", "the Seller Central data behind your ACoS", "unit session percentage explained", "bid problem or listing problem", "the 20-minute weekly Business Report routine"
+
 ---
 
 ## Comparison Pages (Future)
@@ -623,6 +629,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-multi-channel-fulfillment-guide - Amazon Multi-Channel Fulfillment (MCF fee stack vs. a 3PL landed cost, three speed tiers and their multipliers, no referral fee but storage still applies, blank-box rule and marketplace policy risk, integration routes, the shared inventory pool that strands your Amazon listing and decays ad rank, inventory buffer fix, six-question decision framework, FAQ)
 - https://daniks.ai/blog/amazon-marketing-stream-guide - Amazon Marketing Stream guide (push vs pull hourly ad data, the seven datasets, AWS Firehose/SQS setup, budget-usage to find the exact minute a campaign caps, evidence-based dayparting, attribution backfill and sparse-hour traps, Stream vs Ads API reports vs AMC, spend-tier decision table)
 - https://daniks.ai/blog/amazon-ppc-cannibalization - Amazon PPC cannibalization (paid vs organic, holdout test for incrementality, branded keyword defensive bids, role-based bidding, true incremental ACoS)
+- https://daniks.ai/blog/amazon-business-reports-guide - Amazon Business Reports (Seller Central traffic and sales data, every column explained, sessions vs ad clicks, unit session percentage, bid-problem vs listing-problem diagnosis, 20-minute weekly routine, Business Reports vs Brand Analytics)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
