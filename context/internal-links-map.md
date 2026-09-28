@@ -549,6 +549,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about conversion rate optimization, listing and retail readiness, Buy Box loss, ACoS and TACoS diagnosis, PPC audits, why ACoS rose without a CPC change, sessions and traffic analysis, Seller Central data, unit economics, or anywhere a seller needs to separate an advertising problem from a listing problem
 - **Anchor Text Examples**: "our Amazon Business Reports guide", "the Seller Central data behind your ACoS", "unit session percentage explained", "bid problem or listing problem", "the 20-minute weekly Business Report routine"
 
+### Amazon Manage Your Experiments: How to A/B Test Listings That Lower Your ACoS
+- **URL**: https://daniks.ai/blog/amazon-manage-your-experiments
+- **Primary Topic**: Amazon Manage Your Experiments (MYE), A/B testing / split testing listings, eligibility (Brand Registry + enough ASIN traffic), testable elements (main image, title, A+ Content, bullets, description) and which also change ad creative, 7-step setup (hypothesis, bold version B, 4-10 week or run-to-significance duration, auto-publish), reading results (probability thresholds 90% / 75-89% / below 75%, why the projected one-year impact is not a forecast, never calling tests early), ACoS = CPC / (CVR x Price) worked example ($34.99, $1.20 CPC: 10% -> 12% CVR takes ACoS 34.3% -> 28.6% and max CPC $1.12 -> $1.34), how tests interact with campaigns (split ad traffic, stable budgets, avoid sale events, Buy Box), prioritized test backlog, test log, six mistakes, FAQ
+- **When to Link**: In articles about conversion rate optimization, listing optimization, main images, titles, A+ Content, Brand Registry benefits, break-even ACoS and bid ceilings, retail readiness, Business Reports, or anywhere a seller is about to change listing content and should prove it first
+- **Anchor Text Examples**: "Amazon Manage Your Experiments", "how to A/B test Amazon listings", "prove a listing change before you ship it", "why a conversion lift raises your bid ceiling", "our Manage Your Experiments guide"
+
 ---
 
 ## Comparison Pages (Future)
@@ -662,6 +668,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-returns-management-guide - Amazon returns management (cost per return, return-adjusted ACoS targets, Voice of the Customer, reducing return rate with listing fixes, reimbursements)
 - https://daniks.ai/blog/how-to-get-more-amazon-reviews - Review generation tactics
 - https://daniks.ai/blog/amazon-listing-optimization - Listing optimization guide
+- https://daniks.ai/blog/amazon-manage-your-experiments - Amazon Manage Your Experiments (A/B test main image, title, A+ Content; reading results; how a CVR win lowers ACoS and raises bid ceilings)
 - https://daniks.ai/blog/amazon-a-plus-content-guide - A+ Content strategy guide
 - https://daniks.ai/blog/amazon-vine-program-guide - Amazon Vine program (cost per review, when to enroll, when to skip)
 - https://daniks.ai/#features - Product review automation feature
