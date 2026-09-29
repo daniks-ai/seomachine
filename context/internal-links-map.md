@@ -14,7 +14,7 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 ### Pricing (on homepage)
 - **URL**: https://daniks.ai/#pricing
 - **When to Link**: When discussing costs, plan comparisons, or value for money
-- **Anchor Text Examples**: "Daniks.AI pricing", "see our pricing plans", "starting at $49/month"
+- **Anchor Text Examples**: "Daniks.AI pricing", "see our pricing plans", "starting at $99/month"
 
 ### Features (on homepage)
 - **URL**: https://daniks.ai/#features

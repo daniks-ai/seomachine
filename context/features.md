@@ -96,7 +96,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - **No PPC team needed**: Designed to replace daily PPC work, not assist it
 
 ### vs. PPC Agencies
-- **Cost**: From $49/month vs. typical 10-15% of ad spend or $2K-$10K/month retainers
+- **Cost**: From $99/month vs. typical 10-15% of ad spend or $2K-$10K/month retainers
 - **Speed**: AI adjusts bids in real-time vs. agencies reviewing weekly/monthly
 - **Consistency**: 24/7 optimization vs. business-hours-only management
 - **Transparency**: Full visibility into every change vs. black-box agency management
@@ -115,25 +115,25 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 
 ## Use Cases by Customer Segment
 
-### Small Sellers (under $3K/month ad sales)
+### Small Sellers (up to $10K/month ad sales)
 - Need affordable PPC automation that doesn't eat into thin margins
 - Want set-and-forget simplicity — no time to learn complex tools
-- Lite plan at flat $49/month with no percentage fees
+- Starter plan at a flat $99/month (ad sales up to $10K/month), no percentage fees
 - Looking to compete with bigger sellers who have dedicated PPC teams
 
-### Mid-Size Sellers ($3K-$30K/month ad sales)
+### Growing Sellers ($10K-$40K/month ad sales)
 - Outgrown manual management but don't want agency costs
 - Need to scale ad spend profitably without proportional time investment
-- Growth plan at $299/month replaces $2K-$10K/month agency
+- Plus at $179/month (up to $20K) or Growth at $299/month (up to $40K) replaces a $2K-$10K/month agency
 - Want data-driven optimization across expanding campaign structures
 
-### Large Sellers ($30K+/month ad sales)
+### Large Sellers ($40K-$100K/month ad sales)
 - Need advanced optimization at scale with predictable costs
-- Pro plan at 0.9% of ad sales — cost decreases proportionally as you grow
+- Scale plan at a flat $599/month for up to $100K/month — the effective rate falls as ad sales grow (0.60% at the cap)
 - Monthly strategy calls included
-- Priority support
+- Dedicated communication channel
 
-### Enterprise Sellers ($500K+/month ad sales)
+### Enterprise Sellers (above $100K/month ad sales)
 - Require multi-account management and dedicated support
 - Need custom solutions for complex catalog and marketplace strategies
 - Dedicated account manager and custom pricing
@@ -153,32 +153,38 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - Unlimited ad spend
 - Cancel anytime
 - Full autopilot mode
+- A card is required at signup and charged only after the trial — never write "no credit card required"
 
-### Lite Plan ($49/month) Benefits
-- Best for sellers with up to $3K/month in ad sales
-- All core automation features
-- Multi-marketplace support
-- Email support
+### Starter Plan ($99/month) Benefits
+- Ad sales up to $10K/month
+- Personal Amazon Ads AI-agent with 1-Click integration
+- Unlimited seller accounts, multi-marketplace support
+- Advanced reporting and keyword harvesting insights
 - No percentage-based fees
 
-### Growth Plan ($299/month) Benefits
-- Everything in Lite, plus:
-- Best for sellers with up to $30K/month in ad sales
-- Personalized onboarding
-- Strategy calls included
+### Plus Plan ($179/month) Benefits
+- Everything in Starter
+- Ad sales up to $20K/month
+- Recommended plan
 
-### Pro Plan ($0 + 0.9% of ad sales) Benefits
-- Everything in Growth, plus:
-- Best for sellers with $30K+/month in ad sales
-- Monthly strategy call
+### Growth Plan ($299/month) Benefits
+- Everything in Plus, plus:
+- Ad sales up to $40K/month
+- Personalized onboarding
 - Priority support
-- Most popular plan
+- Special ACoS rules: brand terms & keyword boosts
+
+### Scale Plan ($599/month) Benefits
+- Everything in Growth, plus:
+- Ad sales up to $100K/month
+- Monthly strategy call
+- Dedicated communication channel
 
 ### Enterprise Plan (Custom Pricing) Benefits
-- Everything in Pro, plus:
+- Everything in Scale, plus:
 - Dedicated account manager
-- Consulting on advertising topics
-- For sellers with $500K+/month in ad sales
+- Consulting on all ad topics
+- For sellers above $100K/month in ad sales
 
 ## Key Messaging for Conversions
 
@@ -192,7 +198,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - **"I spend hours every week managing PPC"** → "Daniks.AI runs your campaigns on full autopilot. Set your target and reclaim your time."
 - **"My ACoS keeps fluctuating"** → "Set your ACoS target once. The AI adjusts bids 24/7 to maintain it while maximizing sales."
 - **"I'm wasting money on bad search terms"** → "Automated negative keyword management blocks wasted spend before it adds up."
-- **"Agencies are too expensive"** → "Get better automation than most agencies at a fraction of the cost. Starting at $49/month."
+- **"Agencies are too expensive"** → "Get better automation than most agencies at a fraction of the cost. Starting at $99/month."
 - **"I don't know enough about PPC to manage it well"** → "You don't need to. Set your target ACoS, and Daniks.AI handles everything from campaign creation to bid optimization."
 
 ### Social Proof Elements
@@ -228,7 +234,7 @@ When writing about Daniks.AI features:
 4. **Address objections proactively**: Answer concerns about control, results timeline, and pricing before they ask
 5. **Create clear CTAs**: "Start your free trial" with risk reversal ("14-day free trial • Cancel anytime")
 6. **Emphasize autopilot**: The key differentiator is true hands-off automation, not just optimization assistance
-7. **Match audience to plan**: Starter for small sellers, Pro for mid-size, Enterprise for large accounts
+7. **Match audience to plan**: Starter for small sellers, Plus or Growth for growing ones, Scale up to $100K/month, Enterprise above that
 
 ---
 

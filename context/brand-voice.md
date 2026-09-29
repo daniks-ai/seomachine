@@ -78,7 +78,7 @@ Imagine you're a successful Amazon seller with 5+ years of experience, sitting a
 #### Message 3: Transparent, Predictable Pricing
 - **Concept**: You always know what you'll pay, and it stays reasonable as you scale.
 - **Key Points**:
-  - Simple tiers: $49/month (Lite), $299/month (Growth), or 0.9% of ad sales (Pro)
+  - Simple flat tiers by monthly ad sales: Starter $99 (up to $10K), Plus $179 ($20K), Growth $299 ($40K), Scale $599 ($100K); Enterprise custom above $100K
   - No hidden commissions or surprise fees
   - 14-day free trial, cancel anytime
 - **Usage**: When discussing pricing, comparing to competitors, addressing cost objections.
@@ -93,16 +93,16 @@ Imagine you're a successful Amazon seller with 5+ years of experience, sitting a
 
 ### Value Propositions
 
-**For Small Sellers (under $3K/month ad sales)**:
-"Get enterprise-level PPC automation at just $49/month. No percentage fees eating into your margins as you grow."
+**For Small Sellers (up to $10K/month ad sales)**:
+"Get enterprise-level PPC automation at just $99/month. No percentage fees eating into your margins as you grow."
 
-**For Mid-Size Sellers ($3K-$30K/month ad sales)**:
-"Stop paying for a PPC agency or dedicating internal hours to bid management. Daniks.AI runs your campaigns on full autopilot at $299/month."
+**For Growing Sellers ($10K-$40K/month ad sales)**:
+"Stop paying for a PPC agency or dedicating internal hours to bid management. Daniks.AI runs your campaigns on full autopilot from $179/month."
 
-**For Large Sellers ($30K+/month ad sales)**:
-"Pay just 0.9% of ad sales — a fraction of agency costs. Monthly strategy calls and priority support included."
+**For Large Sellers ($40K-$100K/month ad sales)**:
+"A flat $599/month for up to $100K of ad sales — 0.6% at the cap, a fraction of agency costs. Monthly strategy calls and a dedicated channel included."
 
-**For Enterprise Sellers ($500K+/month ad sales)**:
+**For Enterprise Sellers (above $100K/month ad sales)**:
 "Manage multiple accounts from a single dashboard with a dedicated account manager. Custom pricing that scales with your business."
 
 **For Agencies & Multi-Account Managers**:
