@@ -148,7 +148,7 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 ## Pricing & Plan Benefits
 
 ### Free Trial Benefits (14 days)
-- Full access to all features
+- Full access to the features of the plan the seller picks (the default Starter trial excludes the Plus-and-up extras)
 - Up to 100 SKUs per country
 - Unlimited ad spend
 - Cancel anytime
@@ -159,11 +159,13 @@ This document outlines Daniks.AI's key features, benefits, and differentiators t
 - Ad sales up to $10K/month
 - Personal Amazon Ads AI-agent with 1-Click integration
 - Unlimited seller accounts, multi-marketplace support
-- Advanced reporting and keyword harvesting insights
+- Keyword harvesting insights
 - No percentage-based fees
 
 ### Plus Plan ($179/month) Benefits
 - Everything in Starter
+- Advanced reporting
+- MCP access: AI assistants such as Claude or ChatGPT can read and adjust the account through the Daniks.AI MCP server (not included in Starter)
 - Ad sales up to $20K/month
 - Recommended plan
 
