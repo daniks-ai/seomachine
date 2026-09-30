@@ -555,6 +555,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about conversion rate optimization, listing optimization, main images, titles, A+ Content, Brand Registry benefits, break-even ACoS and bid ceilings, retail readiness, Business Reports, or anywhere a seller is about to change listing content and should prove it first
 - **Anchor Text Examples**: "Amazon Manage Your Experiments", "how to A/B test Amazon listings", "prove a listing change before you ship it", "why a conversion lift raises your bid ceiling", "our Manage Your Experiments guide"
 
+### Amazon Keyword Harvesting: How to Turn Search Terms Into Profit
+- **URL**: https://daniks.ai/blog/amazon-ppc-keyword-harvesting
+- **Primary Topic**: Amazon PPC keyword harvesting / search term harvesting (find -> promote -> isolate), why winners should leave auto/broad (bid, placement, data, cleaner discovery), 3-layer funnel (discovery / qualification / performance; terms flow down, negatives flow up), promotion thresholds (2+ orders at target ACoS over 30-60 days; negate after ~2x clicks-per-order), 7-step process, starting bid formula Max CPC = AOV x target ACoS x CVR ($32 x 25% x 12% = $0.96), negative exact (not phrase) at the source, ASIN harvesting from "b0" rows, harvest cadence by discovery spend, seven mistakes, FAQ
+- **When to Link**: In articles about search term reports, auto vs manual campaigns, match types, negative keywords, campaign structure, cannibalization/overlap, keyword research, Q4 or Prime Day prep, bulk operations, or PPC automation
+- **Anchor Text Examples**: "Amazon keyword harvesting", "how to harvest search terms", "promote converting search terms to exact match", "negate at the source", "our keyword harvesting guide"
+
 ---
 
 ## Comparison Pages (Future)
@@ -636,6 +642,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-marketing-stream-guide - Amazon Marketing Stream guide (push vs pull hourly ad data, the seven datasets, AWS Firehose/SQS setup, budget-usage to find the exact minute a campaign caps, evidence-based dayparting, attribution backfill and sparse-hour traps, Stream vs Ads API reports vs AMC, spend-tier decision table)
 - https://daniks.ai/blog/amazon-ppc-cannibalization - Amazon PPC cannibalization (paid vs organic, holdout test for incrementality, branded keyword defensive bids, role-based bidding, true incremental ACoS)
 - https://daniks.ai/blog/amazon-business-reports-guide - Amazon Business Reports (Seller Central traffic and sales data, every column explained, sessions vs ad clicks, unit session percentage, bid-problem vs listing-problem diagnosis, 20-minute weekly routine, Business Reports vs Brand Analytics)
+- https://daniks.ai/blog/amazon-ppc-keyword-harvesting - Amazon keyword harvesting (promotion thresholds, starting bid formula, negative exact at the source, ASIN harvesting, cadence by spend)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
