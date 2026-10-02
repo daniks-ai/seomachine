@@ -561,6 +561,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about search term reports, auto vs manual campaigns, match types, negative keywords, campaign structure, cannibalization/overlap, keyword research, Q4 or Prime Day prep, bulk operations, or PPC automation
 - **Anchor Text Examples**: "Amazon keyword harvesting", "how to harvest search terms", "promote converting search terms to exact match", "negate at the source", "our keyword harvesting guide"
 
+### Amazon Brand Defense Campaigns: How to Stop Competitors Stealing Your Branded Searches
+- **URL**: https://daniks.ai/blog/amazon-brand-defense-campaigns
+- **Primary Topic**: Amazon brand defense campaigns (protect branded search results and your own detail pages), why competitors target brands (price undercut, review comparison, cheap clicks, accidental harvesting), 4 attack signals (incognito SERP check, detail page carousels, Search Query Performance click share, branded search vs branded sales growth), four defense layers (SP brand exact, SP own-ASIN product targeting, Sponsored Brands on brand terms, Sponsored Display on own pages), bidding (40-60% of generic bid + 30-50% top-of-search modifier, stop at 80-90% impression share), brand defense ACoS 5-12%, separate budget/portfolio (5-15% of ad spend), 3-week rebuild case, when to scale back (holdout), five mistakes, FAQ (bid on own brand, legality, Brand Registry)
+- **When to Link**: In articles about branded keywords, cannibalization, campaign structure, competitor analysis, ASIN targeting, Sponsored Brands/Display, placements, Brand Registry/Brand Analytics, Q4 prep, or budget allocation by campaign role
+- **Anchor Text Examples**: "Amazon brand defense campaigns", "how to defend your brand terms", "bid on your own brand name", "defensive campaigns on your own ASINs", "our brand defense guide"
+
 ---
 
 ## Comparison Pages (Future)
@@ -643,6 +649,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-cannibalization - Amazon PPC cannibalization (paid vs organic, holdout test for incrementality, branded keyword defensive bids, role-based bidding, true incremental ACoS)
 - https://daniks.ai/blog/amazon-business-reports-guide - Amazon Business Reports (Seller Central traffic and sales data, every column explained, sessions vs ad clicks, unit session percentage, bid-problem vs listing-problem diagnosis, 20-minute weekly routine, Business Reports vs Brand Analytics)
 - https://daniks.ai/blog/amazon-ppc-keyword-harvesting - Amazon keyword harvesting (promotion thresholds, starting bid formula, negative exact at the source, ASIN harvesting, cadence by spend)
+- https://daniks.ai/blog/amazon-brand-defense-campaigns - Amazon brand defense campaigns (attack signals, four defense layers, brand bids and 5-12% ACoS target, separate budget, when to scale back)
 - https://app.daniks.ai/signup/ - Free trial CTA
 
 **When writing about tool comparisons/alternatives**, link to:
