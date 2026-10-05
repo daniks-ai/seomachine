@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon Keyword Rank Tracking: How to Measure Organic Rank and Use PPC to Move It
+- **URL**: https://daniks.ai/blog/amazon-keyword-rank-tracking
+- **Primary Topic**: Amazon keyword rank tracking, organic vs sponsored rank, rank data sources (manual search, Brand Analytics SQP impression/purchase share, top-of-search impression share, third-party trackers), which 15-30 keywords to track, 7-day averages and page boundaries, how PPC moves organic rank, 6-step rank push playbook (budget cap, ACoS cap, step-down), rank drop diagnosis
+- **When to Link**: In articles about organic ranking, product launches, rank pushes, PPC vs organic overlap/cannibalization, Brand Analytics SQP, keyword research, sales velocity, or deciding when to cut bids on keywords you already rank for
+- **Anchor Text Examples**: "Amazon keyword rank tracking", "how to track your organic rank on Amazon", "the rank push playbook", "track your keyword rankings"
+
 ### Amazon SEO: How to Rank Higher Organically in 2026 (The Complete A9/COSMO Guide)
 - **URL**: https://daniks.ai/blog/amazon-seo-guide
 - **Primary Topic**: Amazon SEO, A9 algorithm, COSMO algorithm, 9 organic ranking levers (title, bullets, backend search terms, A+ Content, conversion rate, reviews, sales velocity, inventory, account health), PPC-organic feedback loop, 30-day SEO audit framework
@@ -620,6 +626,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
 - https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
 - https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
+- https://daniks.ai/blog/amazon-keyword-rank-tracking - Amazon keyword rank tracking (data sources compared, what to track, reading noise, PPC rank push and step-down playbook)
 - https://daniks.ai/blog/amazon-q4-ppc-strategy - Amazon Q4 PPC strategy (Black Friday, Cyber Monday, holiday rush playbook)
 - https://daniks.ai/blog/amazon-ppc-small-budget - Amazon PPC on a small budget ($10/day playbook, three-campaign structure, cheapest tools)
 - https://daniks.ai/blog/what-is-amazon-tacos-complete-guide - Complete Amazon TACoS pillar guide (formula, benchmarks, 5 levers, account-level optimization)
