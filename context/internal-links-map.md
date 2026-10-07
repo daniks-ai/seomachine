@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon PPC for Seasonal Products: How to Run Ads Across the Whole Season
+- **URL**: https://daniks.ai/blog/amazon-seasonal-products-ppc
+- **Primary Topic**: Amazon PPC for seasonal products, pure seasonal vs evergreen-with-lift, mapping the season (24 months of sales, Brand Analytics/Product Opportunity Explorer, Google Trends), five phases (off-season, ramp, peak, decline, clearance), phase-specific ACoS targets/bids/budgets table, ramp rank-building 4-8 weeks early, attribution lag (7-day window) hiding the decline, calendar-date bid cuts, stock cover at peak, post-season negatives, regional/marketplace season differences, FAQ
+- **When to Link**: In articles about seasonality, Q4/holiday/Prime Day planning, budget rules, product launches and rank pushes, inventory and stockouts, ACoS targets that change over time, sales velocity, or why trailing-data automation reacts late
+- **Anchor Text Examples**: "Amazon PPC for seasonal products", "how to advertise seasonal products on Amazon", "the seasonal PPC playbook", "phase-by-phase ACoS targets"
+
 ### Amazon Keyword Rank Tracking: How to Measure Organic Rank and Use PPC to Move It
 - **URL**: https://daniks.ai/blog/amazon-keyword-rank-tracking
 - **Primary Topic**: Amazon keyword rank tracking, organic vs sponsored rank, rank data sources (manual search, Brand Analytics SQP impression/purchase share, top-of-search impression share, third-party trackers), which 15-30 keywords to track, 7-day averages and page boundaries, how PPC moves organic rank, 6-step rank push playbook (budget cap, ACoS cap, step-down), rank drop diagnosis
@@ -626,6 +632,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
 - https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
 - https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
+- https://daniks.ai/blog/amazon-seasonal-products-ppc - Amazon PPC for seasonal products (season mapping, five-phase plan, ACoS/bid/budget by phase, attribution lag in the decline)
 - https://daniks.ai/blog/amazon-keyword-rank-tracking - Amazon keyword rank tracking (data sources compared, what to track, reading noise, PPC rank push and step-down playbook)
 - https://daniks.ai/blog/amazon-q4-ppc-strategy - Amazon Q4 PPC strategy (Black Friday, Cyber Monday, holiday rush playbook)
 - https://daniks.ai/blog/amazon-ppc-small-budget - Amazon PPC on a small budget ($10/day playbook, three-campaign structure, cheapest tools)
