@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon PPC for Low-Priced Products: How to Advertise Items Under $15 Profitably
+- **URL**: https://daniks.ai/blog/amazon-ppc-low-priced-products
+- **Primary Topic**: Amazon PPC for low-priced products, why CPC is price-independent (cost per order = CPC / CVR), max CPC formula (profit per unit before ads x conversion rate) with table by price point, click cutoff formula (profit per unit / CPC), multipacks/bundles/virtual bundles, low-price FBA rates and reduced referral fees, long-tail exact and ASIN targeting of pricier competitors, placement cost per order, coupon cost on cheap items, repeat-purchase/LTV math with Brand Analytics repeat data and Subscribe & Save, brand halo via Sponsored Brands, per-product ACoS targets, FAQ
+- **When to Link**: In articles about break-even ACoS and max bids, low-margin or cheap products, bundles and multipacks, FBA fees, bid strategy, negative keyword thresholds, consumables and repeat purchases, Subscribe & Save, small budgets, or why one account-wide ACoS target fails
+- **Anchor Text Examples**: "Amazon PPC for low-priced products", "how to advertise cheap products on Amazon", "the max CPC formula", "PPC for products under $15"
+
 ### Amazon PPC for Seasonal Products: How to Run Ads Across the Whole Season
 - **URL**: https://daniks.ai/blog/amazon-seasonal-products-ppc
 - **Primary Topic**: Amazon PPC for seasonal products, pure seasonal vs evergreen-with-lift, mapping the season (24 months of sales, Brand Analytics/Product Opportunity Explorer, Google Trends), five phases (off-season, ramp, peak, decline, clearance), phase-specific ACoS targets/bids/budgets table, ramp rank-building 4-8 weeks early, attribution lag (7-day window) hiding the decline, calendar-date bid cuts, stock cover at peak, post-season negatives, regional/marketplace season differences, FAQ
@@ -632,6 +638,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
 - https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
 - https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
+- https://daniks.ai/blog/amazon-ppc-low-priced-products - Amazon PPC for low-priced products (max CPC formula, click cutoff, multipacks/bundles, fee programs, cheaper clicks, repeat-purchase math)
 - https://daniks.ai/blog/amazon-seasonal-products-ppc - Amazon PPC for seasonal products (season mapping, five-phase plan, ACoS/bid/budget by phase, attribution lag in the decline)
 - https://daniks.ai/blog/amazon-keyword-rank-tracking - Amazon keyword rank tracking (data sources compared, what to track, reading noise, PPC rank push and step-down playbook)
 - https://daniks.ai/blog/amazon-q4-ppc-strategy - Amazon Q4 PPC strategy (Black Friday, Cyber Monday, holiday rush playbook)
