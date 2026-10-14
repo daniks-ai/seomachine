@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon PPC Clicks but No Sales? 8 Causes and How to Fix Each One
+- **URL**: https://daniks.ai/blog/amazon-ppc-clicks-no-sales
+- **Primary Topic**: Amazon PPC clicks but no sales / no conversions troubleshooting, click-count math (wait for 3 ÷ expected CVR clicks; 0.9^20 = 12% bad-luck chance), reporting delay and 7/14-day attribution credited to click date, traffic vs listing test (ad CVR vs Unit Session Percentage), irrelevant search terms from broad/auto, low-intent product page placements, offer vs page one (price, coupons, price per unit), listing that doesn't close, advertising the wrong child variation, slow delivery promise, product targeting against stronger competitors, required CVR formula (CPC ÷ (price × target ACoS)), 7-step checklist, when non-converting clicks are fine, FAQ
+- **When to Link**: In articles about wasted ad spend, low conversion rate, search term reports and negatives, placements, product/ASIN targeting, listing optimization and retail readiness, variations, bid thresholds and when to pause keywords, PPC audits, or ACoS troubleshooting
+- **Anchor Text Examples**: "Amazon PPC clicks but no sales", "why your ads get clicks but no orders", "the clicks-but-no-sales checklist", "fix low ad conversion on Amazon"
+
 ### Amazon Ads Not Getting Impressions? 9 Causes and How to Fix Each One
 - **URL**: https://daniks.ai/blog/amazon-ppc-no-impressions
 - **Primary Topic**: Amazon ads not getting impressions / no impressions troubleshooting, zero vs low impressions symptom table, 48-hour wait and 12-hour reporting delay, Buy Box and stock eligibility, ad-level rejection/moderation, daily budget/portfolio cap/end date/budget rules/schedules, setup mistakes (paused ad group, parent ASIN, wrong marketplace), bids below suggested range and max CPC formula (price x target ACoS x CVR), narrow targeting (exact-only long-tail), listing relevance for new products, negatives blocking own traffic, low search volume, 10-step diagnostic checklist, when low impressions are correct, FAQ
@@ -644,6 +650,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
 - https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
 - https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
+- https://daniks.ai/blog/amazon-ppc-clicks-no-sales - Amazon PPC clicks but no sales (click-count math, traffic vs listing test, 8 causes: irrelevant search terms, placements, offer vs page one, listing, wrong variation, delivery promise, weak product targets, required CVR formula; 7-step checklist)
 - https://daniks.ai/blog/amazon-ppc-no-impressions - Amazon ads not getting impressions (9 causes in diagnostic order: Buy Box/stock, ad rejection, budget/portfolio/schedule caps, setup errors, low bids, narrow targeting, relevance, blocking negatives, search volume; 10-step checklist)
 - https://daniks.ai/blog/amazon-ppc-low-priced-products - Amazon PPC for low-priced products (max CPC formula, click cutoff, multipacks/bundles, fee programs, cheaper clicks, repeat-purchase math)
 - https://daniks.ai/blog/amazon-seasonal-products-ppc - Amazon PPC for seasonal products (season mapping, five-phase plan, ACoS/bid/budget by phase, attribution lag in the decline)
