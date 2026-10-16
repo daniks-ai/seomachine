@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon PPC for High-Priced Products: How to Advertise $100+ Items Profitably
+- **URL**: https://daniks.ai/blog/amazon-ppc-high-priced-products
+- **Primary Topic**: Amazon PPC for high-priced / high-ticket products ($100+), why expensive items convert lower and later (7-day SP vs 14-day SB/SD attribution), max CPC formula (price x CVR x target ACoS), click threshold (3 / CVR) table by price and spend-based cutoff (1.5-2x target cost per order), 30-60 day decision windows, high-intent spec keywords and price-mismatch negatives, justifying price in the ad (main image, title, reviews), product targeting similar or higher-priced ASINs, placement choice by conversion, Sponsored Brands video for research stage, Sponsored Display views remarketing, dollar-off coupons/bundles/warranty/payment plans, TACoS as scorecard, FAQ
+- **When to Link**: In articles about premium or expensive products, low conversion rates, bid thresholds and when to pause keywords, attribution windows and late orders, max bids, product/ASIN targeting, placements, Sponsored Display retargeting, Sponsored Brands video, coupons, or TACoS
+- **Anchor Text Examples**: "Amazon PPC for high-priced products", "how to advertise expensive products on Amazon", "click thresholds for high-ticket items", "PPC for $100+ products"
+
 ### Amazon PPC Clicks but No Sales? 8 Causes and How to Fix Each One
 - **URL**: https://daniks.ai/blog/amazon-ppc-clicks-no-sales
 - **Primary Topic**: Amazon PPC clicks but no sales / no conversions troubleshooting, click-count math (wait for 3 ÷ expected CVR clicks; 0.9^20 = 12% bad-luck chance), reporting delay and 7/14-day attribution credited to click date, traffic vs listing test (ad CVR vs Unit Session Percentage), irrelevant search terms from broad/auto, low-intent product page placements, offer vs page one (price, coupons, price per unit), listing that doesn't close, advertising the wrong child variation, slow delivery promise, product targeting against stronger competitors, required CVR formula (CPC ÷ (price × target ACoS)), 7-step checklist, when non-converting clicks are fine, FAQ
@@ -652,6 +658,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
 - https://daniks.ai/blog/amazon-ppc-clicks-no-sales - Amazon PPC clicks but no sales (click-count math, traffic vs listing test, 8 causes: irrelevant search terms, placements, offer vs page one, listing, wrong variation, delivery promise, weak product targets, required CVR formula; 7-step checklist)
 - https://daniks.ai/blog/amazon-ppc-no-impressions - Amazon ads not getting impressions (9 causes in diagnostic order: Buy Box/stock, ad rejection, budget/portfolio/schedule caps, setup errors, low bids, narrow targeting, relevance, blocking negatives, search volume; 10-step checklist)
+- https://daniks.ai/blog/amazon-ppc-high-priced-products - Amazon PPC for high-priced products (max CPC from price x CVR x target ACoS, click thresholds by price, longer decision windows, price-mismatch negatives, premium ASIN targeting, retargeting, TACoS)
 - https://daniks.ai/blog/amazon-ppc-low-priced-products - Amazon PPC for low-priced products (max CPC formula, click cutoff, multipacks/bundles, fee programs, cheaper clicks, repeat-purchase math)
 - https://daniks.ai/blog/amazon-seasonal-products-ppc - Amazon PPC for seasonal products (season mapping, five-phase plan, ACoS/bid/budget by phase, attribution lag in the decline)
 - https://daniks.ai/blog/amazon-keyword-rank-tracking - Amazon keyword rank tracking (data sources compared, what to track, reading noise, PPC rank push and step-down playbook)
