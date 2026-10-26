@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon PPC Sales Dropped Suddenly? A 30-Minute Diagnosis
+- **URL**: https://daniks.ai/blog/amazon-ppc-sales-dropped
+- **Primary Topic**: Amazon PPC / ad sales dropped suddenly, diagnosing a sales decline: attribution lag (7-day SP, 14-day SB/SD; last 72 hours incomplete), date range and time zone traps, splitting the drop into impressions × CTR × conversion rate × order value (diagnostic table), account-wide vs single ASIN, listing causes (lost Buy Box, stock-outs and delivery date, suppressed or edited listing, price/coupon/deal changes, reviews and rating), campaign causes (budgets running out, bid rules and automation, negatives blocking winners, paused/archived/ended campaigns, payment issues, Change History), market causes (new competitor and CPC inflation, seasonality and search volume), 30-minute diagnostic checklist, recovering without overcorrecting, early-warning habits (7-day rolling average, CVR by ASIN, inventory alerts, TACoS), FAQ
+- **When to Link**: In articles about troubleshooting PPC performance, ACoS spikes, attribution windows, Buy Box, inventory/stock-outs, bid rules and automation, negative keywords, budgets, seasonality, Change History, TACoS tracking, or PPC audits
+- **Anchor Text Examples**: "Amazon PPC sales dropped suddenly", "why your Amazon ad sales dropped", "diagnose a sudden drop in ad sales", "the 30-minute sales drop diagnosis"
+
 ### Amazon Ads Getting Impressions but No Clicks? How to Fix a Low CTR
 - **URL**: https://daniks.ai/blog/amazon-ppc-impressions-no-clicks
 - **Primary Topic**: Amazon ads getting impressions but no clicks / low CTR troubleshooting, what low CTR costs (CPC vs vCPM, lost sales, relevance), CTR ranges by placement (top of search, rest of search, product pages, blended), impression sample-size rule (3 ÷ expected CTR), placement vs search term split test, 7 causes: product page placement mix (substitutes/complements bids, top-of-search adjustment), irrelevant search terms, main image thumbnail, price vs neighbors and coupon badge, weak reviews/rating, title not confirming the search on mobile, low ad position/impression share; Sponsored Brands headline and products, 7-step checklist, when low CTR is fine, FAQ
@@ -666,6 +672,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-advertising-reports-guide - Every Amazon advertising report explained + 30-minute weekly workflow
 - https://daniks.ai/blog/amazon-buy-box-guide - Amazon Buy Box / Featured Offer complete guide (eligibility, algorithm, PPC link)
 - https://daniks.ai/blog/amazon-ppc-audit - Amazon PPC audit framework (14-point checklist, cadence, common waste patterns)
+- https://daniks.ai/blog/amazon-ppc-sales-dropped - Amazon PPC sales dropped suddenly: 30-minute diagnosis (12 causes)
 - https://daniks.ai/blog/amazon-ppc-mistakes - Amazon PPC mistakes guide (13 costly errors, fixes for each)
 - https://daniks.ai/blog/amazon-seo-guide - Amazon SEO complete guide (A9/COSMO, 9 organic ranking levers, PPC-organic flywheel)
 - https://daniks.ai/blog/amazon-ppc-clicks-no-sales - Amazon PPC clicks but no sales (click-count math, traffic vs listing test, 8 causes: irrelevant search terms, placements, offer vs page one, listing, wrong variation, delivery promise, weak product targets, required CVR formula; 7-step checklist)
