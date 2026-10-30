@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon PPC With No Reviews: How to Advertise a Product at Zero Stars
+- **URL**: https://daniks.ai/blog/amazon-ppc-no-reviews
+- **Primary Topic**: Amazon PPC with no reviews / zero-review launch, when to wait (unfinished listing, <100 units, no margin for launch loss), what zero reviews does to CTR and CVR (40-60% of mature CVR), max CPC = price x target ACoS x CVR table ($34.99: $0.52 at 5% CVR vs $1.26 at 12% for 30% ACoS), review math (1-2% unprompted, 2-4% with Request a Review; 20 reviews ~ 1,000 orders), Vine and neutral inserts, phased plan by review count (0 / 1-9 / 10-25 / 25+ and 4+ stars), zero-review targeting (exact long-tail, rest-of-search and product pages, ASIN targeting vs pricier/lower-rated/out-of-stock listings, own catalog), compensating with price, coupons, main image, specific copy, A+; launch budget formula (orders / CVR x CPC = $800 example), review rules and FTC fake review rule, weekly metrics (CVR vs review count, cost per ad order, organic rank, TACoS, rating), FAQ
+- **When to Link**: In articles about product launches, new ASINs, reviews and Vine, low conversion rates, max CPC / bid math, launch budgets, ASIN targeting for new products, coupons, or why ACoS is high on a new product
+- **Anchor Text Examples**: "Amazon PPC with no reviews", "how to advertise a product with zero reviews", "running ads before you have reviews", "zero-review launch plan"
+
 ### Amazon PPC for Wholesale: When Reseller Ads Pay and When They Don't
 - **URL**: https://daniks.ai/blog/amazon-ppc-for-wholesale
 - **Primary Topic**: Amazon PPC for wholesale / reseller sellers on shared listings, Sponsored Products only serves while you hold the Featured Offer (Buy Box), which ad types resellers can run without Brand Registry (SP yes; SB/SD no), Buy Box share as a hard cap on impressions (slow data, budgets that don't spend, ads switching on/off with the repricer), the free-rider problem (organic lift shared with other sellers, ads must pay on attributed sales alone), wholesale break-even ACoS worked example ($24.99: $3.74 pre-ad profit -> 15% break-even, 9% target; max CPC $0.45 at 20% CVR), break-even at the repricer floor ($22.49 -> ~7%), decision table by Buy Box share (70%+ / 40-70% / under 40%) and margin, targeting (exact long-tail, close-match-only auto, competitor ASIN targeting, brand-name keywords vs reseller agreements and MAP), six bid/budget rules, measuring (ad profit per unit, TACoS per ASIN, Featured Offer share), six mistakes, FAQ
@@ -662,6 +668,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-sponsored-brands-video-ads - Sponsored Brands video ads complete guide
 - https://daniks.ai/blog/amazon-sponsored-display-guide - Sponsored Display setup and optimization guide
 - https://daniks.ai/blog/amazon-product-launch-ppc-strategy - Product launch PPC strategy guide
+- https://daniks.ai/blog/amazon-ppc-no-reviews - Amazon PPC with no reviews (zero-review CVR and max CPC math, review velocity and Vine, phased plan by review count, zero-review targeting, launch budget formula, review rules)
 - https://daniks.ai/blog/amazon-negative-keywords-guide - Negative keywords and wasted spend reduction
 - https://daniks.ai/blog/amazon-ppc-match-types - Broad, phrase, and exact match guide
 - https://daniks.ai/blog/amazon-ppc-placements - Top of Search, Product Pages, Rest of Search bid modifier guide
