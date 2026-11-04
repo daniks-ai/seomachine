@@ -370,6 +370,38 @@ git push origin main
 
 Before committing, verify every locale in `LOCALES` has both a `meta/[locale].ts` entry and a `content/blog/[locale]/[slug].tsx` file for the new slug.
 
+### Step 9b: Confirm the Post Is Live
+
+A push does not publish the post. The `Deploy` GitHub Action does, and it can fail. Run Step 10 and Step 11b only after this check passes. Otherwise Google is asked to index a 404 and LinkedIn links to a dead page.
+
+Run these from `/Users/ync/poryadok/sources/daniks-ai-ads`, as separate commands. To wait between retries, use `python3 -c "import time; time.sleep(30)"`.
+
+1. Find the Deploy run for the last commit you pushed. If the result is `[]`, wait 30 seconds and retry, up to 5 times.
+
+   ```bash
+   gh run list --workflow=Deploy --commit "$(git rev-parse HEAD)" --limit 1 --json databaseId,status,conclusion
+   ```
+
+2. Wait for that run to finish. A deploy usually takes 1–2.5 minutes. Give this command a 10-minute timeout.
+
+   ```bash
+   gh run watch [run-id] --exit-status --interval 15 > /dev/null; echo "deploy exit=$?"
+   ```
+
+3. Check the English page. The container takes a few seconds to restart, so if the result isn't 200, wait 30 seconds and retry, up to 5 times.
+
+   ```bash
+   curl -s -o /dev/null -w '%{http_code}\n' "https://daniks.ai/blog/[slug]"
+   ```
+
+The check passes only if the deploy exit is 0 and the page returns 200.
+
+If it fails (no run found, the deploy failed, or the page never returns 200):
+
+- Skip Step 10 and Step 11b. Still write the LinkedIn copy (Step 11a) and save it to `published/[slug]-linkedin.txt`, so it can be posted once the site is fixed.
+- Carry on with Steps 12 and 13, and mark Deploy, Google Indexing and LinkedIn as held in the summary.
+- Do NOT change the workflow, keys or server to get the deploy through. That fix is the owner's to make.
+
 ### Step 10: Request Google Indexing
 
 Request Google to crawl and index the new post in **every locale** (each language version has its own URL). Build the URL per locale: English has no prefix, every other locale is prefixed with `/{locale}`.
@@ -464,8 +496,9 @@ Files updated in daniks-ai-ads:
 - src/assets/blog/[slug].jpg  ([W]x[H] px, [N] KB — must be ≤1200 px wide and <250 KB)
 
 Commit: [commit hash]
-Google Indexing: [Requested for N/N locale URLs / partial - reasons]
-LinkedIn (English): [Post URL / Failed - reason]
+Deploy: [Live - run ID / FAILED - reason]
+Google Indexing: [Requested for N/N locale URLs / partial - reasons / HELD - post not live]
+LinkedIn (English): [Post URL / Failed - reason / HELD - post not live, copy in published/[slug]-linkedin.txt]
 
 Next auto-publish: tomorrow
 ```
@@ -477,6 +510,7 @@ Next auto-publish: tomorrow
 - If a translation for a locale can't be produced for some reason: still create that locale's files with the best available content — never leave a locale file missing while others exist, and never ship a stub. If truly blocked, log it clearly in the summary.
 - If website repo has uncommitted changes: stash them, apply our changes, commit, then pop stash
 - If git push fails: save all changes locally and report the error
+- If the post isn't live after Step 9b: skip Step 10 and Step 11b, keep the LinkedIn copy in `published/[slug]-linkedin.txt`, and report it in the summary
 - If content scorer gives score < 70 on the English article: revise once, if still low save to `review-required/` and skip publishing (all languages)
 - If a Google Indexing request fails for one locale: log it, continue with the other locale URLs
 - If LinkedIn publishing fails (missing token, expired token, API error): log the error, save the LinkedIn copy to `published/[slug]-linkedin.txt` for manual posting, and continue. Do NOT stop the pipeline — the blog post is already live.
