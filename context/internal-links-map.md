@@ -346,6 +346,18 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon Ads Not Spending Budget? How to Find What's Capping Your Spend
+- **URL**: https://daniks.ai/blog/amazon-ads-not-spending-budget
+- **Primary Topic**: Amazon ads not spending budget / campaign underspending diagnosis, daily spend = impressions x CTR x CPC lever table (5,700 impressions, 0.35% CTR, $0.70 CPC = $14; budget x3 = $14, impressions x3 = $42), eligibility checks (ad status, Buy Box, stock, listing, portfolio cap, dates and rules, billing), low impressions patterns table (narrow exact targeting, bids below suggested range, top-of-search and search term impression share, Q4 CPC inflation, over-broad negative phrases, dynamic bids down only, new campaigns), low CTR under about 0.3%, max CPC test before raising bids ($26 x 30% x 10% = $0.78), conversion rate as bid headroom, when low spend is correct, four fixes that backfire, 15-minute diagnosis, FAQ
+- **When to Link**: In articles about underspending or low ad spend, budgets, scaling ad spend, low impressions, impression share, bid increases, max CPC, or PPC troubleshooting
+- **Anchor Text Examples**: "Amazon ads not spending budget", "why your campaign isn't spending", "what's capping your ad spend", "the 15-minute spend diagnosis"
+
+### Why Is My ACoS So High on Amazon? How to Find the Real Cause
+- **URL**: https://daniks.ai/blog/amazon-acos-too-high
+- **Primary Topic**: Why is my ACoS so high / Amazon ACoS too high diagnosis, ACoS = CPC / (price x conversion rate) three-lever table ($30, $1.00 CPC, 10% CVR = 33.3%; CPC +30% = 43.3%, CVR -30% = 47.6%, price -20% = 41.7%), pre-checks (break-even, attribution lag, 3 / CVR click threshold), period-over-period lever comparison, per-ASIN split and launch distortion (38% blended example), CPC causes (max CPC formula, stacked placement adjustments and dynamic bids, drift to head terms, seasonal inflation), CVR causes (Unit Session Percentage test for listing vs traffic, zero-order search terms worked example 40% to 32%, price, Buy Box, rating, listing edits), price and order value causes (discounts, variation mix, low-priced products), 20-minute diagnosis, fix order, when a high ACoS is fine, FAQ
+- **When to Link**: In articles about high ACoS, ACoS spikes, break-even and target ACoS, bid cuts, placements and dynamic bids, Unit Session Percentage, search term waste, price changes and coupons, or PPC troubleshooting
+- **Anchor Text Examples**: "why is my ACoS so high", "Amazon ACoS too high", "how to diagnose a high ACoS", "the 20-minute ACoS diagnosis"
+
 ### Amazon PPC With No Reviews: How to Advertise a Product at Zero Stars
 - **URL**: https://daniks.ai/blog/amazon-ppc-no-reviews
 - **Primary Topic**: Amazon PPC with no reviews / zero-review launch, when to wait (unfinished listing, <100 units, no margin for launch loss), what zero reviews does to CTR and CVR (40-60% of mature CVR), max CPC = price x target ACoS x CVR table ($34.99: $0.52 at 5% CVR vs $1.26 at 12% for 30% ACoS), review math (1-2% unprompted, 2-4% with Request a Review; 20 reviews ~ 1,000 orders), Vine and neutral inserts, phased plan by review count (0 / 1-9 / 10-25 / 25+ and 4+ stars), zero-review targeting (exact long-tail, rest-of-search and product pages, ASIN targeting vs pricier/lower-rated/out-of-stock listings, own catalog), compensating with price, coupons, main image, specific copy, A+; launch budget formula (orders / CVR x CPC = $800 example), review rules and FTC fake review rule, weekly metrics (CVR vs review count, cost per ad order, organic rank, TACoS, rating), FAQ
@@ -661,7 +673,9 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/amazon-ppc-increase-sales-strategies - 19 PPC sales strategies
 - https://daniks.ai/blog/amazon-ppc-product-category-targeting - Targeting guide
 - https://daniks.ai/blog/acos-vs-tacos-amazon - ACoS vs TACoS comparison
+- https://daniks.ai/blog/amazon-acos-too-high - Why is my ACoS so high (CPC / price x CVR formula, data traps to rule out, lever comparison by period and ASIN, CPC, conversion and price causes, 20-minute diagnosis, fix order)
 - https://daniks.ai/blog/amazon-ppc-budget-strategy - Budget strategy and allocation guide
+- https://daniks.ai/blog/amazon-ads-not-spending-budget - Amazon ads not spending budget (spend = impressions x CTR x CPC, eligibility checks, low impressions causes, max CPC test, when low spend is correct, 15-minute diagnosis)
 - https://daniks.ai/blog/amazon-ppc-keyword-research - Keyword research and strategy guide
 - https://daniks.ai/blog/amazon-sponsored-products-optimization - Sponsored Products optimization guide
 - https://daniks.ai/blog/amazon-sponsored-brands-guide - Sponsored Brands setup and optimization guide
