@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### How to Scale Amazon PPC Without Losing Money on the Extra Spend
+- **URL**: https://daniks.ai/blog/how-to-scale-amazon-ppc
+- **Primary Topic**: How to scale Amazon PPC profitably, marginal ACoS = change in spend / change in ad sales (Marcus: spend $3,000 to $6,000, sales $12,000 to $16,800, blended 35.7% vs 62.5% marginal, profit $1,560 to $384), stepped scaling table (Priya: 25.0% to 28.6% blended, step 3 marginal 48.3% vs 40% break-even), marginal TACoS with organic lift, five readiness signals (headroom below break-even, out-of-budget winners, search term impression share, 60 days inventory, listing conversion), seven-lever scaling ladder (budget caps, exact-match bids with max CPC = price x CVR x target ACoS, top-of-search, harvesting, competitor ASINs, Sponsored Brands and Display, new products and marketplaces), 20% rule pacing, Q4 caution, five scaling mistakes, 4-week plan, when to stop, FAQ
+- **When to Link**: In articles about scaling ad spend, growing sales with PPC, raising budgets or bids, incremental or marginal ACoS, TACoS and organic lift, expanding to new ad types or marketplaces, or how to scale an Amazon FBA business
+- **Anchor Text Examples**: "how to scale Amazon PPC", "scale your Amazon ads profitably", "marginal ACoS", "the 20% scaling rule"
+
 ### Amazon Ads Not Spending Budget? How to Find What's Capping Your Spend
 - **URL**: https://daniks.ai/blog/amazon-ads-not-spending-budget
 - **Primary Topic**: Amazon ads not spending budget / campaign underspending diagnosis, daily spend = impressions x CTR x CPC lever table (5,700 impressions, 0.35% CTR, $0.70 CPC = $14; budget x3 = $14, impressions x3 = $42), eligibility checks (ad status, Buy Box, stock, listing, portfolio cap, dates and rules, billing), low impressions patterns table (narrow exact targeting, bids below suggested range, top-of-search and search term impression share, Q4 CPC inflation, over-broad negative phrases, dynamic bids down only, new campaigns), low CTR under about 0.3%, max CPC test before raising bids ($26 x 30% x 10% = $0.78), conversion rate as bid headroom, when low spend is correct, four fixes that backfire, 15-minute diagnosis, FAQ
@@ -675,6 +681,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/acos-vs-tacos-amazon - ACoS vs TACoS comparison
 - https://daniks.ai/blog/amazon-acos-too-high - Why is my ACoS so high (CPC / price x CVR formula, data traps to rule out, lever comparison by period and ASIN, CPC, conversion and price causes, 20-minute diagnosis, fix order)
 - https://daniks.ai/blog/amazon-ppc-budget-strategy - Budget strategy and allocation guide
+- https://daniks.ai/blog/how-to-scale-amazon-ppc - How to scale Amazon PPC (marginal ACoS test, readiness signals, seven-lever scaling ladder, 20% rule, 4-week plan, when to stop)
 - https://daniks.ai/blog/amazon-ads-not-spending-budget - Amazon ads not spending budget (spend = impressions x CTR x CPC, eligibility checks, low impressions causes, max CPC test, when low spend is correct, 15-minute diagnosis)
 - https://daniks.ai/blog/amazon-ppc-keyword-research - Keyword research and strategy guide
 - https://daniks.ai/blog/amazon-sponsored-products-optimization - Sponsored Products optimization guide
