@@ -346,6 +346,12 @@ This document catalogs key Daniks.AI pages that should be referenced in blog con
 - **When to Link**: In articles about ACoS optimization, wasted ad spend, account health, campaign management, advanced PPC tactics, automation, taking over an inherited account, or scaling ad spend past $10K/month
 - **Anchor Text Examples**: "our Amazon PPC audit framework", "how to audit your Amazon PPC account", "the 14-point PPC audit", "Amazon PPC account audit guide"
 
+### Amazon PPC Without Brand Registry: What You Can Still Run (and Win)
+- **URL**: https://daniks.ai/blog/amazon-ppc-without-brand-registry
+- **Primary Topic**: Amazon PPC without Brand Registry, what needs Brand Registry vs what to use instead (Sponsored Brands, Sponsored Display, Sponsored TV, Brand Analytics, A+ Content, Store, Vine, Attribution), full Sponsored Products toolkit, Buy Box / Featured Offer condition, 4-campaign setup (auto discovery as Brand Analytics replacement, exact match winners with 25-50% top-of-search adjustment as Sponsored Brands replacement, defensive product targeting on own ASINs as Sponsored Display replacement, competitor conquesting), budget split 25/45/10/20, listing conversion without A+, trademark break-even (USPTO $350 base fee, IP Accelerator, Mia: $9K/month, ~5-month payback), resellers / pending trademark / generic products, mistakes, FAQ
+- **When to Link**: In articles about Brand Registry, Sponsored Products-only strategies, wholesale or reseller PPC, new private label sellers, generic products, Sponsored Brands or Sponsored Display eligibility, A+ Content, or keyword research without Brand Analytics
+- **Anchor Text Examples**: "Amazon PPC without Brand Registry", "advertising without Brand Registry", "the 4-campaign Sponsored Products setup", "when a trademark pays for itself"
+
 ### How to Scale Amazon PPC Without Losing Money on the Extra Spend
 - **URL**: https://daniks.ai/blog/how-to-scale-amazon-ppc
 - **Primary Topic**: How to scale Amazon PPC profitably, marginal ACoS = change in spend / change in ad sales (Marcus: spend $3,000 to $6,000, sales $12,000 to $16,800, blended 35.7% vs 62.5% marginal, profit $1,560 to $384), stepped scaling table (Priya: 25.0% to 28.6% blended, step 3 marginal 48.3% vs 40% break-even), marginal TACoS with organic lift, five readiness signals (headroom below break-even, out-of-budget winners, search term impression share, 60 days inventory, listing conversion), seven-lever scaling ladder (budget caps, exact-match bids with max CPC = price x CVR x target ACoS, top-of-search, harvesting, competitor ASINs, Sponsored Brands and Display, new products and marketplaces), 20% rule pacing, Q4 caution, five scaling mistakes, 4-week plan, when to stop, FAQ
@@ -681,6 +687,7 @@ When adding internal links to blog content:
 - https://daniks.ai/blog/acos-vs-tacos-amazon - ACoS vs TACoS comparison
 - https://daniks.ai/blog/amazon-acos-too-high - Why is my ACoS so high (CPC / price x CVR formula, data traps to rule out, lever comparison by period and ASIN, CPC, conversion and price causes, 20-minute diagnosis, fix order)
 - https://daniks.ai/blog/amazon-ppc-budget-strategy - Budget strategy and allocation guide
+- https://daniks.ai/blog/amazon-ppc-without-brand-registry - Amazon PPC without Brand Registry (what you lose, Buy Box condition, 4-campaign Sponsored Products setup, budget split, trademark break-even)
 - https://daniks.ai/blog/how-to-scale-amazon-ppc - How to scale Amazon PPC (marginal ACoS test, readiness signals, seven-lever scaling ladder, 20% rule, 4-week plan, when to stop)
 - https://daniks.ai/blog/amazon-ads-not-spending-budget - Amazon ads not spending budget (spend = impressions x CTR x CPC, eligibility checks, low impressions causes, max CPC test, when low spend is correct, 15-minute diagnosis)
 - https://daniks.ai/blog/amazon-ppc-keyword-research - Keyword research and strategy guide
